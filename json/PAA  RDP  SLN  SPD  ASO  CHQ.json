@@ -1,0 +1,723 @@
+{
+    "SIPAAR1": {
+        "nome_original": "SIPAAR1",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.744557",
+        "longitude": "-47.508306",
+        "descricao": "SITE CONCENTRADOR: SIM (RDPR1, PAA57). RECEBE DO STBR3                                                       PORTÃO - PAA.PM1-V\nGRADIL CONTAINER SPI19P-1V\nCPFL - MEDIDOR: 303736488\nCÓDIGO: 29485290\nOBS: STBR3 RÁDIO HUAWEI H/V, PAA57 IP20S - IP: 10.215.251.170, RDPR1 IP20S - IP: 10.216.192.138\nROD. SP 304 KM 146,5\n\nSEM ACESSO A MADRUGADA\nCaseiro Italiano 19 99454-6851\nPROXIMO :TIM PCTP01\nOI , VIVO E NEXTEL"
+    },
+    "SIPAAR2": {
+        "nome_original": "SIPAAR2",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.658405",
+        "longitude": "-47.524311",
+        "descricao": "PORTÃO - PAAPM2 ACESSO\nGRADIL CONTAINER - Cliq\nPORTA DO CONTAINER - Cliq\nQTM-QM GRADIL AR - Papaiz AMR 2020\n\nMEDIDOR: 3T2526948 ELEKTRO\nCODIGO: 14629550 IRACEMAPOLIS\nROD LIMEIRA/PIRACICABA KM128\n\nCOMPARTILHADO: TIM RLRD 01.                            Responsável: Anderson Freitas"
+    },
+    "SIPAAR3": {
+        "nome_original": "SIPAAR3",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.673685",
+        "longitude": "-47.761651",
+        "descricao": "Concentrador:\nPortão: PAPAIZ PADRAO PIRA/PAA-PM1\nGradil Eltek (ou container): PAA-PM2 \nPortal Alvenaria (ou container): PAA-PM1\nGradil QTM e QM: SPI19-GMA\nBaterias: Ruim\nMedidor:\nEstação na Artemis\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAAR4": {
+        "nome_original": "SIPAAR4",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.575942",
+        "longitude": "-47.586521",
+        "descricao": "ELTEK - SPI19P\nQTM - PAPAIZ PADRÃO\nPORTÃO - PAAPM2\nMEDIDOR 209439033 COD. 38159414                             Responsavel: Anderson Freitas.                               Concentra SIPAA63\n\nROD SP 127 : KM16 ESTRADA PIRACICABA 18 ( TANQUINHO)\n\nPROXIMO\nOI : PAA5248\nVIVO"
+    },
+    "SIPAAR5": {
+        "nome_original": "SIPAAR5 (SPIPAA029OU SITE NEXTEL TX)",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7452669000981",
+        "longitude": "-47.5080960988998",
+        "descricao": "PORTÃO : BLUETOOTH ATC (PCA002SS)\nCONTAINER : CLICK NEXTEL\n\nCOMPARTILHADO :\nTIM\nOI"
+    },
+    "SIPAAX1": {
+        "nome_original": "SIPAAX1",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.743043",
+        "longitude": "-47.63773",
+        "descricao": ""
+    },
+    "SIPAAI3": {
+        "nome_original": "SIPAAI3",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.703635",
+        "longitude": "-47.649045",
+        "descricao": "GABINETE ELTEK - PAA-GMV                                      Shopping Piracicaba                                                      Baterias Sem autonomia                                                  Responsável: Anderson Freitas\n\nCOMPARTILHADO :\nTIM - SI9416"
+    },
+    "SIPAA01": {
+        "nome_original": "SIPAA01",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7181053850418",
+        "longitude": "-47.6630429551005",
+        "descricao": "Concentrador: Não\nPortão: BLUETOOTH TBSA\nGradil Eltek (ou container): CLIQ\nPortal Alvenaria (ou container):\nGradil QTM e QM: PAPAIZ PADRAO\nBaterias:\nMedidor: 30867947\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO TIM PCRD01"
+    },
+    "SIPAA02": {
+        "nome_original": "SIPAA02",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.731048",
+        "longitude": "-47.637239",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM2\nGradil Eltek (ou container): Cliq\nPortal Alvenaria (ou container):\nGradil QTM e QM: -Cliq\nBaterias:\nMedidor: 301900183\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO\nTIM PCCT-02\nOI - PAA5228"
+    },
+    "SIPAA03": {
+        "nome_original": "SIPAA03",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.724406",
+        "longitude": "-47.650775",
+        "descricao": "DENTRO DO HOTEL NEW LIFE.                                 Portaria 24hrs\n\nConcentrador: Não\nPortão: Lista Acesso\nGradil Eltek (ou container): SPI19-P\nPortal Alvenaria (ou container):\nGradil QTM e QM: ----\nBaterias:\nMedidor:                       \n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA04": {
+        "nome_original": "SIPAA04",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.738363",
+        "longitude": "-47.65009",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM2\nGradil Eltek (ou container): SPI19-P\nPortal Alvenaria (ou container):\nProteção Esteiramento: CLIQ\nGradil QTM e QM: PAPAIZ PADRÃO\nBaterias:\nMedidor: 306160064\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO : OI"
+    },
+    "SIPAA05": {
+        "nome_original": "SIPAA05 / PAA901",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7393877",
+        "longitude": "-47.6613882",
+        "descricao": "Concentrador: Não\nPortão: bluetooth TBSA\nGradil Eltek (ou container): CLIQ\nPortal Alvenaria (ou container):\nBts Embratel: K30\nGradil QTM e QM: CLIQ/ PAPAIZ PADRAO PIRA\nBaterias:\nMedidor: 302180567\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA06": {
+        "nome_original": "SIPAA06",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.70355",
+        "longitude": "-47.663164",
+        "descricao": "Concentrador: Sim ( Principal de Piracicaba )\nPortão: Bluetooth TBSA \nGradil Container 1:PAA-PM2\nPorta container 1: SPI19P-2\nGradil container 2: PAA-PM1\nGradil QTM e QM: PAPAIZ ESPECÍFICA\nBaterias:\nMedidor:\n\nCO Responsável:Paulo Ricardo\n\nWIFI: 06 2.4 e 06 5.0\nSenha: Claro@SIPAA06"
+    },
+    "SIPAA07": {
+        "nome_original": "SIPAA07 / PAA965",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.677897",
+        "longitude": "-47.686844",
+        "descricao": "Concentrador: Sim (PAA26 e PAA37)\nPortão: PAA-PM2\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM e QM: cliq\nBaterias:\nMedidor: 302296484\nPAA26 IP10, PAA37 IP20\nCO Responsável: Paulo Ricardo"
+    },
+    "SIPAA09": {
+        "nome_original": "SIPAA09- Anel",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.713751",
+        "longitude": "-47.639851",
+        "descricao": "GAB. ELTEK - SPI19P.                                                  PORTÃO - 1822                                                            Responsável: Anderson Freitas                                Compartilhado VIVO/OI                                               Baterias OK"
+    },
+    "SIPAA10": {
+        "nome_original": "SIPAA10",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.73629",
+        "longitude": "-47.599245",
+        "descricao": "CONCENTRADOR: SIM.                                              PORTÃO - 0009\nQM - SPI19P\nG. ELTEK GRADIL SPI19P-V.                                      Concentrador PAA59                            Responsável: Anderson Freitas"
+    },
+    "SIPAA12": {
+        "nome_original": "SIPAA12 / PAACF",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.671567",
+        "longitude": "-47.620396",
+        "descricao": "ELTEK - SPI19P.                                                            QTM - PAPAIZ PADRÃO                                              PORTÃO - K30.                                                            ALVENARIA: PAPAIZ Padrão Piracicaba/ Cliq                                                                                                                                                                                        Concentrador - SICRQR1, SIPAA30 , SISPD05                                                                                                Responsável: Anderson Freitas"
+    },
+    "SIPAA13": {
+        "nome_original": "SIPAA13",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7551823",
+        "longitude": "-47.620667",
+        "descricao": "Concentrador: Não\nPortão: 1822\nGradil RRU 850/2100 cliq\nGradil Eltek (ou container): cliq\nPortal Alvenaria (ou container):\nGradil QTM: cliq\nQM: Sem Proteção\nBaterias:\nMedidor:\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA14": {
+        "nome_original": "SIPAA14",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.767207",
+        "longitude": "-47.646767",
+        "descricao": "Concentrador: Sim (SIPAA51)\nPortão: PAA-PM1\nGradil Eltek (ou container): k30\nPortal Alvenaria (ou container):\nGradil QTM e QM:Papaiz padrão pira\nBaterias:\nMedidor:211460354\n\nCO Responsável: Paulo Ricardo"
+    },
+    "SIPAA16": {
+        "nome_original": "SIPAA16",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7421367",
+        "longitude": "-47.6664478",
+        "descricao": "Concentrador:Sim (PAA14 via rádio manda para o PAA51, SIPAA52)\nPortão: bluetooth TBSA \nGradil Eltek (ou container):SPI19-P e CLIQ\nPortal Alvenaria (ou container):\nGradil QM: ---- Papaiz padrão pira\nGradil QTM: CLIQ\nBaterias: sim\nMedidor: Claro 211532630\n\nCO Responsável: Paulo Ricardo\n\nCOMPARTILHADO\nTIM : PCJC01"
+    },
+    "SIPAA17": {
+        "nome_original": "SIPAA17",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.72566",
+        "longitude": "-47.600614",
+        "descricao": "Portão SPI19-A\nGradil Elteck CLIQ                                                        ECOBOX CLIQ.        \nQM/QTM- Papaiz                                                        Concentrador: SIPAA10                                              Baterias instalados 14/05/2025 , 4 lítio \n\nMEDIDOR: 306535599.                                              Responsável: Anderson Freitas"
+    },
+    "SIPAA20": {
+        "nome_original": "SIPAA20",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.728499",
+        "longitude": "-47.644742",
+        "descricao": "Ed. 15 de Novembro\n\nConcentrador: Não\nPortão: Lista de Acesso\nGradil Eltek (ou container): ---\nPortal Alvenaria (ou container):\nGradil QTM e QM: ---\nBaterias:\nMedidor:\nPortaria até às 22hrs                                                   síndica apt 51, porteiro Luiz apt 104\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA23": {
+        "nome_original": "SIPAA23 CONCENTRADOR",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.742832",
+        "longitude": "-47.621528",
+        "descricao": "PREDIO\nCOND. ED. QUINTA DA BOA VISTA\nSINDICO Lumena apt 71\nsubsíndico apt61 Maria elena\nZELADOR EDSON.                                                        Portaria das 08:00 as 12:00 das 13:00 as 17:00\n\n\"CASO ACESSO SEJA NEGADO ENTRAR EM CONTATO COM A ATC, MESMO NUMERO DOS CADEADOS BLUETOOTH\"\n\nConcentrador: Sim ( SICWX09, SIPAA56, SIRDP01)\nPortão: Lista de Acesso\nGradil Eltek (ou container): ---\nPortal Alvenaria (ou container):\nGradil QTM e QM: ---\nBaterias:\nMedidor: 216598494\n\nCO Responsável:\n\nCOMPARTILHADO:TIM PCJM01\n\nE-MAIL quintadaboavista.condominio@gmail.com"
+    },
+    "SIPAA26": {
+        "nome_original": "SIPAA26",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.663234",
+        "longitude": "-47.688548",
+        "descricao": "Concentrador: Não\nPortão: Bluetooth ATC PCA005AT / 1822\nGradil Eltek (ou container): SPI19P\nGradil 6102 (ou container): PAA-GMV\nGradil QTM: Papaiz Padrao\nProteção QM: Papaiz Limeira\nBaterias:\nMedidor: 306815770\nRecebe informações via IP10 do PAA07, site sem roteador\nCO Responsável: Paulo Ricardo Pereira.                  IP DUW: 10.203.153.9\n\nCOMPARTILHADO:\nVIVO PO3\nNEXTEL SPIPAA012OU"
+    },
+    "SIPAA30": {
+        "nome_original": "SIPAA30",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.662056",
+        "longitude": "-47.607167",
+        "descricao": "Concentrador: Não\nPortão: 1822\nGradil Eltek (ou container): cliq\nPortal Alvenaria (ou container):\nGradil QTM : cliq\nQM: Sem Proteção\nBaterias: Sem autonomia \nMedidor: 30896941\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA32": {
+        "nome_original": "SIPAA32",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.742044",
+        "longitude": "-47.637679",
+        "descricao": "DENTRO DO PRÉDIO DA VIVO\nnecessário solicitar chave do portão na portaria do Prédio que fica na RUA ALBANIA 475.                 A entrada do site fica na rua Luiz Razera 730\n\nConcentrador: Não\nPortão: Lobato ou Acesso Pontual\nGradil Eltek (ou container):Cliq\nPortal Alvenaria (ou container):\nGradil QTM e QM:\nBaterias:\nMedidor:\nPortaria 24hrs\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA35": {
+        "nome_original": "SIPAA35",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.72407",
+        "longitude": "-47.68283",
+        "descricao": "Concentrador: Não\nPortão: SPI19P\nGradil Eltek (ou container): SPI19P\nGradil 6102 (ou container): SPI19P\nGradil QTM: SPI19P-2\nQM: Sem Proteção\nBaterias:\nMedidor: 307064395\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO :\nOI : PAA5247\nTIM\nVIVO\nNEXTEL"
+    },
+    "SIPAA36": {
+        "nome_original": "SIPAA36 / PAA967",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.683983",
+        "longitude": "-47.667747",
+        "descricao": "Concentrador: Não\nPortão: 1822\nGradil Eltek (ou container): cliq\nPortal Alvenaria (ou container):\nBts Embratel: K30\nGradil QTM: cliq\nGradil QM: k30\nBaterias:\nMedidor: 213749742\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO\nTIM PCVN01\nVIVO IDS\nNEXTEL SPIPAA010OU"
+    },
+    "SIPAA37": {
+        "nome_original": "SIPAA37",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6746",
+        "longitude": "-47.6589",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM1\nGradil Eltek (ou container): PAA-GMV\nPortal Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias:\nMedidor: 30746631\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA44": {
+        "nome_original": "SIPAA44",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.697174",
+        "longitude": "-47.6536599",
+        "descricao": "DENTRO DA ARCELOMITAL\n\nConcentrador: Não\nPortão: Necessário Planilha e Integração\nGradil Eltek (ou container): ---\nPortal Alvenaria (ou container): ---\nGradil QTM e QM: ---\nBaterias:\nMedidor:\nContatos para acesso:                                   Raulison (19) 995955611.                                         Jonatan (19) 981142137\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA45": {
+        "nome_original": "SIPAA45",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7196956117866",
+        "longitude": "-47.6288980990648",
+        "descricao": "Concentrador: NãoPortão: T4UGradil Eltek (ou container): CLIQPortal Alvenaria (ou container):Gradil QTM e QM: CLIQBaterias:Medidor: 31208443\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA46": {
+        "nome_original": "SIPAA46",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.750102",
+        "longitude": "-47.649611",
+        "descricao": "Concentrador: Não\nPortão: PAPAIZ ATC\nGradil Eltek (ou container): SPI19P-2\nPortal Alvenaria (ou container):\nGradil QTM: PAA-GMV\nQM: Sem cadeado\nBaterias:\nMedidor: 30990388\n\nCO Responsável: Paulo Ricardo Pereira\n\nTim: PCPL-01"
+    },
+    "SIPAA47": {
+        "nome_original": "SIPAA47",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.773918",
+        "longitude": "-47.59147",
+        "descricao": "PORTÃO Bluetooth SBA.                                            BR55094-A\nGRADIL ELTEK SPI19P -\nGRADIL QTM SPI19P \nBateria OK\nMEDIDOR CLARO 306551616 R: ORLANDIA N:10\nNEXTEL MEDIDOR 220022860 R: ORLANDIA N:10\n\nOI PAA5235\nVIVO UNIP PUN.                                                                 Responsável: Anderson Freitas"
+    },
+    "SIPAA48": {
+        "nome_original": "SIPAA48",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.753352",
+        "longitude": "-47.656468",
+        "descricao": "Concentrador: Não\nPortão: bluetooth SBA \nGradil Eltek (ou container): cliq\nPortal Alvenaria (ou container):\nGradil QTM: cliq\nQM: Sem Proteção\nBaterias: Favor atualizar, ajuda parceiros no plantão 03/2024\nMedidor:\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO\nTIM\nNEXTEL"
+    },
+    "SIPAA49": {
+        "nome_original": "SIPAA49",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6802310683391",
+        "longitude": "-47.7130031213164",
+        "descricao": "Portão: T4U                                                                  Container CLIQ CLARO                                              QTM- PAPAIZ Padrão Limeira 1                                Baterias OK.      \nResponsável: Anderson Freitas\nCOMPARTILHADO :\nTIM : SI9662\nVIVO :                                                                              Caso o portão esteja fechado chamar o vigia que fica na empresa"
+    },
+    "SIPAA51": {
+        "nome_original": "SIPAA51",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.784916",
+        "longitude": "-47.584462",
+        "descricao": "ELTEK - SPI19P\nPORTÃO PAPAIZ ATC                                                  Baterias OK.                                                                  Responsavel: Anderson Freitas                                Compartilhado TIm"
+    },
+    "SIPAA52": {
+        "nome_original": "SIPAA52 / PAA962 / SPIPAA018OU",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.755795",
+        "longitude": "-47.63815",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1822\nGradil Eltek (ou container): SPI19P-2\nPortal Alvenaria (ou container):NXT\nBts Embratel: K30\nGradil QM: Papaiz ATC\nGradil QTM: PAPAIZ PADRAO\nBaterias:\nMedidor:\nOBS:PAA52 NXT É O TX DO PAA62\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA53": {
+        "nome_original": "SIPAA53",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.711536",
+        "longitude": "-47.684599",
+        "descricao": "Concentrador: Não\nPortão: 1906 / PAA-GMV Fundo\nGradil Eltek (ou container): Cliq\nPortal Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: solicitadas dia 23/11/2023\nMedidor: 306350610\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIPAA55": {
+        "nome_original": "SIPAA55",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7539283",
+        "longitude": "-47.6780769",
+        "descricao": "Concentrador: Não (ponta via fibra)\nPortão: 2703\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM e QM: PAPAIZ PADRÃO\nBaterias:\nMedidor: 22967897\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO: OI PAA3177\n✓"
+    },
+    "SIPAA56": {
+        "nome_original": "SIPAA56",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.795874",
+        "longitude": "-47.614077",
+        "descricao": "Concentrador: Não\nPortão: Bluetooth ATC PCA008AT/1822\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM e QM: 1822\nBaterias: sem autonomia solicitado dia 18/05/2023\nMedidor: 22535347\n\nCO Responsável: Paulo Ricardo Pereira\n\nAV: SANTA CRUZ DO RIO PARDO\nCOMPARTILHADO VIVO"
+    },
+    "SIPAA57": {
+        "nome_original": "SIPAA57",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.772824",
+        "longitude": "-47.537727",
+        "descricao": "Concentrador: Não\nPortão: 1906\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM: 1906\nQM:\nBaterias: sem autonomia, solicitado 03/2023\nMedidor: 302107070\n\nCO Responsável: Paulo Ricardo Pereira\n\nESTRADA 18 BAIRRO TUPI\nRUA 8"
+    },
+    "SIPAA58": {
+        "nome_original": "SIPAA58 (ANTIGO SICWX09)",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7288664",
+        "longitude": "-47.6168509",
+        "descricao": "Concentrador: Não\nPortão: 4964\nGradil Eltek (ou container): CLIQ\nPortal Alvenaria (ou container):\nGradil QTM e QM: ---\nBaterias:\nMedidor: VIVO 304717762\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO\nTIM\nVIVO - CCI"
+    },
+    "SIPAA59": {
+        "nome_original": "SIPAA59",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7273468",
+        "longitude": "-47.5585166",
+        "descricao": "Eltek Cliq Claro                                                            Senha 1822                                                                  QTM CLIQ.                                                                    Baterias: OK.\n\nSenha acesso local rádio Huawei:\nUser: szhw / senha: Nxt_hw$2018     \n\nResponsável: Anderson Freitas"
+    },
+    "SIPAA62": {
+        "nome_original": "SIPAA62 NEXTEL",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7726183951702",
+        "longitude": "-47.6560601592064",
+        "descricao": "Site Nextel SPIPAA004OU\nCadeado do portão 7x7 padrão Nextel                     Senha 2999                                                                 Baterias OK                                                                   Responsável: Anderson Freitas"
+    },
+    "SIPAA64": {
+        "nome_original": "SIPAA64",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7440477084949",
+        "longitude": "-47.6771245524287",
+        "descricao": "Portão: 1822\nContainer: Cliq CLARO \nGradil QTM e QM: Sem\nBlindagem Esteiramento: CLIQ\nBaterias: OK. Instaladas 22/11/2022                      IP50 Horizontal  SIPAA16 X SIPAA64\n10.218.169.139\nIP50 Vertical.  SIPAA16 X SIPAA64.                          10.218.169.147\nCO Responsável: Anderson Freitas"
+    },
+    "SIPAA63": {
+        "nome_original": "SIPAA63",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6099254291549",
+        "longitude": "-47.5958573073149",
+        "descricao": "site Nextel SPIPAA030OU\nConcentrador: Não/ TX SIPAAR4\nPortão: 1822\nGradil Eltek (ou container): Cliq CLARO \nGradil QTM e QM: Sem\nBaterias:OK\nMedidor:305467590 / UC:41506472\nCO Responsável: Anderson Freitas"
+    },
+    "SIPAA65": {
+        "nome_original": "SIPAA65",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7347947318127",
+        "longitude": "-47.6448743417859",
+        "descricao": "Sigla ATC SPO419NX\nConcentrador: Não( Recebe RTN950 SIPAA04)\nPortão: Lista de Acesso\nGradil Eltek (ou container):\nGradil QTM e QM: Sem\nBaterias: Não tem\nMedidor:\ntelefone portaria: 3434-1039/ Adalto Síndico 19998390811\nCO Responsável: Anderson Freitas"
+    },
+    "SIPAA66": {
+        "nome_original": "SIPAA66",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7175304618786",
+        "longitude": "-47.6471273973584",
+        "descricao": "Roof Top Hotel Royal Park (19) 3433-6955\nConcentrador: Não, Site em Anel\nPortão: Lista de Acesso\nBaterias: OK instalado 26/10/2023\nCompartilhado Tim SPPAA 0002.                            \n\nCO Responsável: Anderson Freitas"
+    },
+    "SIPAA68": {
+        "nome_original": "SIPAA68 (SPIPAA020OU) SITE NEXTEL TX",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7021439529876",
+        "longitude": "-47.6552803069353",
+        "descricao": "PORTÃO : PAPAIZ ATC (CAS056NP)\nCONTAINER : CLICK NEXTEL\nCOMPARTILHADO :\nTIM : PCMM05\nOI :\nVIVO :"
+    },
+    "SIPAA67": {
+        "nome_original": "SIPAA67 / SPIPAA023OU SITE NEXTEL TX",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7240753",
+        "longitude": "-47.6829054",
+        "descricao": "PORTÃO : NEXTEL & CLARO\nCONTAINER : CLICK NEXTEL.                                   JUNTO COM O PAA35"
+    },
+    "SIPAA60": {
+        "nome_original": "SIPAA60/SPIPAA026OU SITE NEXTEL TX",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6715504432069",
+        "longitude": "-47.6203371584415",
+        "descricao": "Portão: PAA-PM1\nContainer: CLIQ NEXTEL"
+    },
+    "SIPAA61": {
+        "nome_original": "SIPAA61",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.757146",
+        "longitude": "-47.597801",
+        "descricao": "PORTAO PAA-GMV                         CONTAINER:PAPAIZ PADRÃO PIRA/ Cliq Claro.    Site em anel SIPAA13/SIPAA32                                RESPONSÁVEL ANDERSON FREITAS                     Bateria Ok DEZ/23"
+    },
+    "SIPAA71": {
+        "nome_original": "SIPAA71",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.775697",
+        "longitude": "-47.662461",
+        "descricao": "Portão senha 1822.                                                    Gradil Gabinete: CLIQ                                                   Site sem bateria"
+    },
+    "SIPAA74": {
+        "nome_original": "SIPAA74",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7269171",
+        "longitude": "-47.5899718",
+        "descricao": "Site dentro de uma empresa de galpão.                 Lista de acesso, porteiro eletrônico.                        Portão:                                                                          Gradil: Cliq.                                                                   Qtm: papaiz"
+    },
+    "SIPAA75": {
+        "nome_original": "SIPAA75",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6891477",
+        "longitude": "-47.6373189",
+        "descricao": "Gradil: Cliq\nBlindagem Esteira: Cliq"
+    },
+    "SIPAA76": {
+        "nome_original": "SIPAA76",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7221272",
+        "longitude": "-47.6355402",
+        "descricao": ""
+    },
+    "SIPAA78": {
+        "nome_original": "SIPAA78",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7371035",
+        "longitude": "-47.6352086",
+        "descricao": "Gradil: Cliq - Portao: 1703"
+    },
+    "SIPAA79": {
+        "nome_original": "SIPAA79",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7428511",
+        "longitude": "-47.611337",
+        "descricao": "Gradil: CLIQ\nBlindagem cabos: CLIQ"
+    },
+    "SIPAA82": {
+        "nome_original": "SIPAA82",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6731486",
+        "longitude": "-47.6983029",
+        "descricao": "Portão: 1822.                                                        Gradil: CLIQ\nEnvelopamento: CLIQ"
+    },
+    "SIPAA81": {
+        "nome_original": "SIPAA81",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6871208",
+        "longitude": "-47.6553232",
+        "descricao": "Portão 1822     \nGradil: Cliq                                                                 \nQTM Papaiz padrão pira"
+    },
+    "SIPAA84": {
+        "nome_original": "SIPAA84",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.761306",
+        "longitude": "-47.6096574",
+        "descricao": "Portão: 1822\nGradil: CLIQ\nQtm: papaiz Piracicaba"
+    },
+    "SIPAA83": {
+        "nome_original": "SIPAA83",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7314814",
+        "longitude": "-47.6264949",
+        "descricao": "Gradil: CLIQ\nBlindagem cabos: CLIQ"
+    },
+    "SIPAA85": {
+        "nome_original": "SIPAA85",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7654888",
+        "longitude": "-47.5910359",
+        "descricao": "Portão: 1822                                                                Gradil: CLIQ\nBlindagem cabos: CLIQ.                                             Sem bateria"
+    },
+    "SIPAA86": {
+        "nome_original": "SIPAA86",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6755261",
+        "longitude": "-47.6756182",
+        "descricao": "Portão 0003\nGradil: CLIQ"
+    },
+    "SIPAA87": {
+        "nome_original": "SIPAA87",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.666098",
+        "longitude": "-47.7055272",
+        "descricao": "Gradil: Cliq\nBlindagem cabos: CLIQ"
+    },
+    "SIPAA88": {
+        "nome_original": "SIPAA88",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7335239",
+        "longitude": "-47.5774933",
+        "descricao": "Gradil: Clq\nBlindagem cabos: Cliq"
+    },
+    "SIPAA89": {
+        "nome_original": "SIPAA89",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.6935036",
+        "longitude": "-47.680363",
+        "descricao": "Gradil: Cliq"
+    },
+    "SIPAA91": {
+        "nome_original": "SIPAA91",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.698349",
+        "longitude": "-47.668515",
+        "descricao": "Portão: 0020.   Gradil: Cliq\nBlindagem Esteira: Cliq"
+    },
+    "SICWX08": {
+        "nome_original": "SICWX08 ACESSO",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7042529",
+        "longitude": "-47.5885079",
+        "descricao": "Para acessar necessário ligar para Gentil: 996795209\n\nHora que chegar no ponto de acesso vc irá ver uma placa no poste com uma seta de proibido ir reto, entrar no portão do lado esquerdo com uma placa amarela de proibido entrada"
+    },
+    "SIPAA2E": {
+        "nome_original": "PAA RO - HEDDEND - SIPAA2E",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.720424",
+        "longitude": "-47.64912",
+        "descricao": "EQUIP NO PREDIO DO HEDEND, ACESSO POR BIOMETRIA"
+    },
+    "PAA903": {
+        "nome_original": "PAA903",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.724262",
+        "longitude": "-47.644322",
+        "descricao": "Concentrador:\nPortão: PAA-PM1\nGradil Eltek (ou container): Padrão Papaiz\nPortal Alvenaria (ou container):\nGradil QTM e QM: Sem Proteção\nBaterias:\nMedidor: 30464187-1\n\nCO Responsável: Paulo Ricardo"
+    },
+    "PAA961": {
+        "nome_original": "PAA961",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7277768",
+        "longitude": "-47.6299588",
+        "descricao": "Concentrador:\nPortão: Papaiz ATC\nGradil Eltek (ou container):\nPortal Alvenaria (ou container):\nBTS Embratel: K30\nGradil QTM e QM: Sem Proteção\nBaterias:\nMedidor: 211531057\n\nCO Responsável: Paulo Ricardo\n\nCompartilhado Vivo"
+    },
+    "SPIPAA018OU SITE NEXTEL TX": {
+        "nome_original": "SPIPAA018OU SITE NEXTEL TX",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7557348650392",
+        "longitude": "-47.6381892710924",
+        "descricao": "PORTÃO : PAPAIZ\nCONTAINER : CLICK NEXTEL"
+    },
+    "PAA GC": {
+        "nome_original": "PAA GC",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.718443",
+        "longitude": "-47.63262",
+        "descricao": ""
+    },
+    "SI0091F": {
+        "nome_original": "SI0091F",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.69763",
+        "longitude": "-47.658179",
+        "descricao": ""
+    },
+    "SI0088F": {
+        "nome_original": "SI0088F",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.696749",
+        "longitude": "-47.677183",
+        "descricao": ""
+    },
+    "SI0101R": {
+        "nome_original": "SI0101R",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.703611",
+        "longitude": "-47.650639",
+        "descricao": ""
+    },
+    "SI022R": {
+        "nome_original": "SI022R",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.698242",
+        "longitude": "-47.657412",
+        "descricao": ""
+    },
+    "SI0057F": {
+        "nome_original": "SI0057F",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.72604",
+        "longitude": "-47.648059",
+        "descricao": ""
+    },
+    "SI0103R": {
+        "nome_original": "SI0103R",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.723066",
+        "longitude": "-47.677789",
+        "descricao": ""
+    },
+    "SI0056F": {
+        "nome_original": "SI0056F",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.703871",
+        "longitude": "-47.6498",
+        "descricao": ""
+    },
+    "SIPAAA1": {
+        "nome_original": "SIPAAA1",
+        "cidade": "PIRACICABA",
+        "latitude": "-22.7304053",
+        "longitude": "-47.6692847",
+        "descricao": "Portão: 0029"
+    },
+    "SISPD01": {
+        "nome_original": "SISPD01",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.55152",
+        "longitude": "-47.914609",
+        "descricao": "Concentrador: Não\nPortão: BLUETOOTH TBSA \nGradil Eltek (ou container):PAA-GMV\nPortal Alvenaria (ou container):\nGradil QTM e QM: PAPAIZ PADRAO PIRA\nGradil RRU: AUD 42\nBaterias: 3 BANCOS LITHIUM\nMedidor:30763539\n\nCO Responsável: Paulo Ricardo Pereira\n\nCOMPARTILHADO : TIM DRCT01"
+    },
+    "SISPD02": {
+        "nome_original": "SISPD02",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.551031",
+        "longitude": "-47.89927",
+        "descricao": "Concentrador: Sim ( SISPD03 )\nPortão: 8523\nGradil Eltek (ou container): Cliq\nGradil 6102 (ou container): SPI19P\nGradil QTM e QM: PAPAIZ PADRÃO\nBaterias:\nMedidor:\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SISPD03": {
+        "nome_original": "SISPD03",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.568594",
+        "longitude": "-47.93689",
+        "descricao": "DETENTORA SBA BR76940-A19                      Concentrador: Não\nPortão: 1822\nGradil Eltek (ou container): PAA-GMV\nPortal Alvenaria (ou container):\nGradil QTM: PAPAIZ PADRÃO\nGradil QM: Sem proteção\nBaterias:\nMedidor: 30771286\n\nCO Responsável: Paulo Ricardo Pereira\nPara prender o cachorro ligar para:                          Nadeli: 99643-6820.                                                    Gutenberg: 99687-5746\n\nCOMPARTILHADO:\nTIM - DRCT02 MEDIDOR 306439042\nVIVO. MEDIDOR 22817246\nOI SPSPD0891 MEDIDOR 22976146\n✓"
+    },
+    "SISPD05": {
+        "nome_original": "SISPD05",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.552996",
+        "longitude": "-47.931828",
+        "descricao": "Concentrador: Sim ( SISPD01, SISPD02, SICHQ01 )\nPortão: T4U\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM e QM: PAPAIZ PADRAO\nBaterias:\nMedidor: 30913894\n\nCO Responsável: Paulo Ricardo Pereira\n\nR:ADOLPHINA CIBELLO N:17\nB: MIRANTE DE SÃO PEDRO"
+    },
+    "SISPD06": {
+        "nome_original": "SISPD06",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.617056",
+        "longitude": "-47.852991",
+        "descricao": "Concentrador: Não\nPortão: 1906 ou 1902\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM: SPI19-GMA\nGradil QM: 1906\nBaterias: sem autonomia, solicitado solicitado dia 07/02\nMedidor: 30801286\n\nCO Responsável: Paulo Ricardo Pereira\n\nR: AQUARELA 47\n( SÃO PEDRO )"
+    },
+    "SISMY01": {
+        "nome_original": "SISMY01",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.5671091700026",
+        "longitude": "-48.151281774044",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM1\nGradil Eltek (ou container):SPI19-P2\nPortal Alvenaria (ou container):\nGradil QTM e QM: PAPAIZ PADRAO\nBaterias:\nMedidor: 303497157\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SIASO01": {
+        "nome_original": "SIASO01",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.597215",
+        "longitude": "-47.870647",
+        "descricao": "Concentrador: SIM (SIPAAR3,SISPD06)Portão: BLUETOOTH TBSAGradil Eltek (ou container):SPI19P1Portal Alvenaria (ou container): CLIQGradil QTM e QM:Gradil RRU:Baterias:Medidor:\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SISPD10": {
+        "nome_original": "SISPD10 (em implantação)",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.621552",
+        "longitude": "-47.815789",
+        "descricao": "Gradil: CLIQ"
+    },
+    "SISPD08": {
+        "nome_original": "SISPD08",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.5388003",
+        "longitude": "-47.9056273",
+        "descricao": "Gradil: CLIQ\nBlindagem esteria: CLIQ"
+    },
+    "SISPD07": {
+        "nome_original": "SISPD07",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.644753",
+        "longitude": "-47.857487",
+        "descricao": "Gradil: CLIQ\nBlindagem esteiramento: CLIQ"
+    },
+    "SIPAA80": {
+        "nome_original": "SIPAA80",
+        "cidade": "SÃO PEDRO / ÁGUAS DE SÃO PEDRO",
+        "latitude": "-22.7091461",
+        "longitude": "-47.644549",
+        "descricao": "Gradil: CLIQ\nBlindagem: CLIQ"
+    },
+    "SICHQ01": {
+        "nome_original": "SICHQ01",
+        "cidade": "CHARQUEADA",
+        "latitude": "-22.508712",
+        "longitude": "-47.777256",
+        "descricao": "Concentrador: Sim ( SIASO01 )\nPortão: PAA-PM2\nGradil Eltek (ou container): CLICK\nPortal Alvenaria (ou container):\nGradil QTM e QM: CLICK\nBaterias:\nMedidor: 205236634\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SICRQR1": {
+        "nome_original": "SICRQR1",
+        "cidade": "CHARQUEADA",
+        "latitude": "-22.582002",
+        "longitude": "-47.712165",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM1\nGradil Eltek (ou container): SPI19P\nPortal Alvenaria (ou container):\nGradil QTM e QM: PADRAO PAPAIZ\nBaterias:\nMedidor:\n\nCO Responsável: Paulo Ricardo Pereira"
+    },
+    "SICHQ04": {
+        "nome_original": "SICHQ04",
+        "cidade": "CHARQUEADA",
+        "latitude": "-22.5839896",
+        "longitude": "-47.6974664",
+        "descricao": "Site TX Satelite"
+    },
+    "SIRDP01": {
+        "nome_original": "SIRDP01/ RDP01 EBT",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.8466306",
+        "longitude": "-47.6057003",
+        "descricao": "Concentrador: Sim (SLN01, RDP02)\nPortão: 0001\nGradil Eltek: SPI19-GMA\nBTS EBT: PAPAIZ PDR 2020\nGradil QTM: SPI19-P\nGradil QM: Papaiz RDP01\nBaterias: Ok\nMedidor: 205722296\nEndereço: R: BENJAMIM CONSTANTI 204\nCO Responsável: Sartorato\n\nEnvia nf para PAA23 IP20V - 10.216.209.211 IP20H - 10.216.209.203\nMini Link SLN01 10.219.189.186 IP20 RDP02 10.216.218.50\nCOMPARTILHADO : TIM RRCT01"
+    },
+    "SIRDP02": {
+        "nome_original": "SIRDP02 ACESSO",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.852015",
+        "longitude": "-47.604972",
+        "descricao": "GRADIL SPI19-A\nPORTAO SPI19P-2\nQTM PADRAO PAPAIZ\n✓"
+    },
+    "SIRDPR1": {
+        "nome_original": "SIRDPR1 ACESSO",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.817111640432",
+        "longitude": "-47.5681222602725",
+        "descricao": "MEDIDOR : 20498548-0\nCHAVE ACESSO : PAAPM1\nCHAVE GRADIL : SPI19 P1\nREFERÊNCIA : ( SITE FICA EM FRENTE AO PEDÁGIO ) RODOVIA DO AÇÚCAR"
+    },
+    "SISLN01": {
+        "nome_original": "SISLN01",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.864576",
+        "longitude": "-47.688818",
+        "descricao": "Concentrador: SLN02\nPortão: papaiz padrão 2020 AMR\nGradil Eltek: UAD10.3\nGradil QTM: PAPAIZ 2020 AMR\nGradil QM: SPI19-A2\nBaterias: Ok\nMedidor: 20892401 9\nManda inf via M.Link para RDP01          IP:10.218.189.187H/V                                                 Manda inf via IP50 para SLN02                         IPH:10.218.167.26 IPV:10.218167.18          \nCO Responsável: Sartorato"
+    },
+    "SISLN02": {
+        "nome_original": "SISLN02",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.8470515315821",
+        "longitude": "-47.679038643837",
+        "descricao": "Concentrador: Não                   \nPortão: SENHA 0884\nGradil: ATC PAPAIZ e CLIK CLARO\nQTM/QM: ATC PAPAIZ\nBaterias: Ok Litio\nMedidor:\nEndereço:\nCO Responsável: Sartorato\nIp50 SLN02 X SLN01 IP:10.218.167.19V, 10.218167.27H\nNextel: SPISAL001OU"
+    },
+    "RDP MF EMBRATEL": {
+        "nome_original": "RDP MF EMBRATEL",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.8649086260665",
+        "longitude": "-47.6077314466238",
+        "descricao": "PORTÃO PAPAIZ\nGRADIL PAPAIZ\nPORTA ALVENARIA TETRA IGUAL PAACF\n\nMEDIDOR 301822980 CPFL"
+    },
+    "SIRDP03": {
+        "nome_original": "SIRDP03",
+        "cidade": "RIO DAS PEDRAS / SALTINHO",
+        "latitude": "-22.8314641",
+        "longitude": "-47.6021957",
+        "descricao": "Gradil: CLIQ\nBlindagem esteireamento: CLIQ.                               SIRDP03 X SIPAA14 Mini Link IP 10.216.91.219"
+    }
+}

@@ -1,0 +1,856 @@
+{
+    "SIAMR1E": {
+        "nome_original": "SIAMR1E /AMROS / AMR935 / SPIAMR006",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7370059916837",
+        "longitude": "-47.3184649273753",
+        "descricao": "PORTÃO : SPI19A-2\nPORTA ALVENARIA : PAPAIZ , RETIRAR NA NET\nGABINETE NORTEL : K30\nGMG : EBT-G\n\nMEDIDOR 401152685."
+    },
+    "SIAMRR1": {
+        "nome_original": "SIAMRR1",
+        "cidade": "AMERICANA",
+        "latitude": "-22.6671956931665",
+        "longitude": "-47.3152687400579",
+        "descricao": "Concentrador:\nPorteira: padrão do site (TAG113)\nPortão: Bluetooth TBSA \nGradil Eltek (ou container): Papaiz Padrão 2 (Limeira)\nPorta Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim\nMedidor: TR008305-2\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : OI LRA2550"
+    },
+    "SIAMR01": {
+        "nome_original": "SIAMR01 GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.74573",
+        "longitude": "-47.327376",
+        "descricao": "PORTÃO- BLUETOOTH TBSA\n249 - SPI19-A2 - CONTAINER\nGRADIL QM/QTM CLIQ.                                              Responsável: Anderson Freitas\n\nCOMPARTILHADO: TIM ( AMCT01)"
+    },
+    "SIAMR02": {
+        "nome_original": "SIAMR02 - Concentrador",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7384695",
+        "longitude": "-47.3161089",
+        "descricao": "Portão - CADEADO ELETRONICO TBSA                          \nContainer- PAA GMV\nQDE- 1822\nRELÓGIO - MEDIDOR 303685417\nCOMPARTILHADO:TIM AMSL01\n\nSITE CONCENTRADOR\n\nSIAMR35\nSIAMR36\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR03": {
+        "nome_original": "SIAMR03 GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7523193",
+        "longitude": "-47.3402676",
+        "descricao": "PORTÃO Bluetooth TBSA\nCONTAINER: CLIQ\nQTM - SPI-19A1.                                                          Baterias OK\n                                                                                        Responsável: Anderson Freitas.                                IP Roteador correto 10.202.102.129\n\nMEDIDOR : 30917955 R: FONTE DA SAUDADE 610\n\nCOMPARTILHADO : TIM / OI"
+    },
+    "SIAMR04": {
+        "nome_original": "SIAMR04",
+        "cidade": "AMERICANA",
+        "latitude": "-22.765281",
+        "longitude": "-47.340453",
+        "descricao": "SPI19-A-2 & A-1 PORTA CONTAINER\nSPI19A-V - CONTAINER FRENTE\nPORTÃO: BLUETOOTH TBSA\n260 - QTM Chave Bola Preta TESS-M9\nQM - Papaiz Padrão Pira\nSenha wi-fi cl@ronet19\nCOM PRIORIZAÇÃO                                                    Responsável: Anderson Freitas.                                Site com monitoramento ligar no Noc Belém \n\nMEDIDOR CL/ 302268049\nMEDIDOR EBT/ 213994984\n\nCOMPARTILHADO: TIM AMJL01"
+    },
+    "SIAMR05": {
+        "nome_original": "SIAMR05 - Concentrador / AMR931",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7253815",
+        "longitude": "-47.34835",
+        "descricao": "CADEADO ELETRONICO TBSA- PORTÃO\n\nGRADIL ELTEK 1/2 - CHAVE CLIQ               MEDIDOR CL 205889182\nMEDIDOR EBT 221190194\nFibra óptica Linear SIAMR04\nCOM PRIORIZAÇÃO\nInstalado 3 Bancos de Baterias de 170A\n14/09/2021\nSITE GPON\nCOMPARTILHADO : TIM AMPN01\n\nConcentrador\nSIAMR12-Ceregon IP20 S V/H 2+0\nSIAMR16-Ceregon IP20 S V/H 2+0\nSIAMR37-Hauwei RTN-320 1+0\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR06": {
+        "nome_original": "SIAMR06 - Ponta GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7383727432909",
+        "longitude": "-47.276648953557",
+        "descricao": "PORTÃO: Bluetooth       TBSA                                     Gradil Eltek PAAPM1V.                                               GABINETE PAPAIZ PADRÃO AMERICANA              QTM Cliq\n\nNÚMERO MEDIDOR 30876168 CPFL\nEST.ISABELA GONÇALVES FERRO SANTA ROSA.\nROD. ANHANGUERA KM 123                                    Responsável: Anderson Freitas.                                     Baterias OK"
+    },
+    "SIAMR07": {
+        "nome_original": "SIAMR07",
+        "cidade": "AMERICANA",
+        "latitude": "-22.718967",
+        "longitude": "-47.315818",
+        "descricao": "Bluetooth TBSA- PORTÃO\nGRADIL E QTM- CLIQ\nMEDIDOR 305293249\nFibra - Linear SIAMR04                                               Baterias sem autonomia                                     Responsável: Anderson Freitas.      \n\nSite Compartilhado\n\nTIM - AMCA01\n\nR. Alberto Ribeiro, 50 - Parque Res. Jaguari - Americana"
+    },
+    "SIAMR08": {
+        "nome_original": "SIAMR08 - Concentrador/ AMR936",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7161364",
+        "longitude": "-47.2949169",
+        "descricao": "PORTÃO EXTERNO SENHA 0006\n241 - PORTÃO INTERNO PAA-PM2V\n248 - GRADIL GABINETE ELTEK SPI19-GM-A\nQTM - CLIQ  CONCENTRADOR  SIAMR40                  CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR09": {
+        "nome_original": "SIAMR09 / AMRRT / GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7427897",
+        "longitude": "-47.3560268",
+        "descricao": "PORTAO SPI19A-V\nALVENARIA PADO e CONTAINER PAPAIZ\n\nQM/QTM- PAPAIZ PADRAO AMERICANA\nMEDIDOR 31027855\nR: DAS TURMALINAS 91                                            Responsável: Anderson Freitas"
+    },
+    "SIAMR10": {
+        "nome_original": "SIAMR10-TIVOLI Shopping",
+        "cidade": "AMERICANA",
+        "latitude": "-22.747519",
+        "longitude": "-47.366235",
+        "descricao": "TIVOLI Shopping\nPORTÃO PADO SHOPPING\nCONTAINER- CLIQ\nMEDIDOR 302455124                                                 Responsavel: Anderson  Freitas"
+    },
+    "SIAMR11": {
+        "nome_original": "SIAMR11 - Linear",
+        "cidade": "AMERICANA",
+        "latitude": "-22.737466",
+        "longitude": "-47.345237",
+        "descricao": "PORTÃ   BLUETOOTH TBSA                                      PAA GMV- GRADIL ELTEK\nFibra óptica Linear SIAMR04\nMEDIDOR 305292870.                                                Responsável: Anderson Freitas                                Baterias Baixa autonomia"
+    },
+    "SIAMR12": {
+        "nome_original": "SIAMR12 - Ponta ( EMPRESA VICUNHA)",
+        "cidade": "AMERICANA",
+        "latitude": "-22.70086",
+        "longitude": "-47.355934",
+        "descricao": "TORRE DENTRO DA FIBRA\nContato Osvair 19-99222-9111\n\nRádio Ceregon IP-20 2+0  Direção SIAMR05                                                                                                   CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR13": {
+        "nome_original": "SIAMR13-ANEL( PRÉDIO )",
+        "cidade": "AMERICANA",
+        "latitude": "-22.739473",
+        "longitude": "-47.333992",
+        "descricao": "EDIFÍCIO VERSAILLES\nSINDICO OSNI 981847975\nMEDIDOR 303203420\nR: IPIRANGA 55\nACESSO DAS 8 AS 11 E DAS 13 AS 17\nContato sindico Osni 19 98184-7975, contato portaria 19 3461-8523, emai: osniklein@uol.com.br\nBATERIA 5 BANCO DE LITION SITE: SIAMR13\nEND:VILA REHDER, 55 -CENTRO–AMERICANA-SP\nCEP: 13465360\nRF -\nUSIAM13 -        10.202.243.217\nS01SIAMR13 - 10.215.182.214\nS02SIAMR13 - 10.215.182.218\nS03SIAMR13 - 10.216.73.106\nROTEADOR -    10.215.240.193\nTX FIBRA SIAMR02-RMP01 Gi0/2/23 | CLARO | FO | SIAMR04-15\nSIAMR01-RMP01 Gi0/2/22 | CLARO | FO | SIAMR04-15\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR14": {
+        "nome_original": "SIAMR14 - Concentrador",
+        "cidade": "AMERICANA",
+        "latitude": "-22.751285",
+        "longitude": "-47.309834",
+        "descricao": "Portao - senha 0010.                                                   GABINETE - Cliq e PAPAIZ Padrão Americana.       Gabinete expansão PAA GMV.                                  QTM / QM - PAPAIZ AMERICANA \n\nCONCENTRADOR - SIAMR39\n\nMEDIDOR 304270393 R: DO SERRALHEIRO S/N"
+    },
+    "SIAMR15": {
+        "nome_original": "SIAMR15 GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.780021",
+        "longitude": "-47.350993",
+        "descricao": "Portão Bluetooth TBSA 0001\nGRADIL ELTEK CLIQ\nQM/QTM CLIQ\nMEDIDOR 302456210 N:363.                                    Bateria Ok                                                                      Site com monitoramento Noc Belém                      Responsável: Anderson Freitas"
+    },
+    "SIAMR16": {
+        "nome_original": "SIAMR16 GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7267765",
+        "longitude": "-47.3595662",
+        "descricao": "PORTÃO- BLUETOOTH TBSA \n- GRADIL CLIQ\n- QTM - SPI-19A                                                    Concentrador AMR05                                                  Responsável: Anderson Freitas                                Baterias Baixa autonomia"
+    },
+    "SIAMR17": {
+        "nome_original": "SIAMR17",
+        "cidade": "AMERICANA",
+        "latitude": "-22.697804",
+        "longitude": "-47.305292",
+        "descricao": "PORTÃO- BLUETOOTH TBSA\n255 - CLIQ - ELTEK                                                      QTM  CLIQ.                                                        BATERIAS OK\nRESPONSÁVEL: ANDERSON FREITAS                                                        \n\nMEDIDOR: 304653977 R:DO POLYESTER"
+    },
+    "SIAMR18": {
+        "nome_original": "SIAMR18 - Anel",
+        "cidade": "AMERICANA",
+        "latitude": "-22.744516",
+        "longitude": "-47.341414",
+        "descricao": "PORTÃO - PAPAIZ ATC\nGRADIL ELTEK CLIQ\n\nDETENTORA : ATC\nSITE COMPARTILHADO\nVIVO / TIM:SI9329\nMEDIDOR CLARO: 307228207                                  R: DOM BARRETO 555.                                              BATERIA RUIM                                                             Responsável: Anderson Freitas"
+    },
+    "SIAMR19": {
+        "nome_original": "SIAMR19 - Gpon",
+        "cidade": "AMERICANA",
+        "latitude": "-22.728363",
+        "longitude": "-47.303787",
+        "descricao": "PORTÃO Bluetooth TBSA\nGRADIL Chave PAPAIZ AMERICANA                   Gabinete OLT - CLIQ\n\nCOM PRIORIZAÇÃO\n\nMEDIDOR:306409755\nR: STA TEREZA 241"
+    },
+    "SIAMR22": {
+        "nome_original": "SIAMR22 - Linear",
+        "cidade": "AMERICANA",
+        "latitude": "-22.714564",
+        "longitude": "-47.349468",
+        "descricao": "ID ATC AMR005AT                                                      PORTÃO - PADRÃO ATC                                 \nGradil-Click\nQTM-Padrão ATC\nFIBRA ÓPTICA LINEAR - SIAMR04\nBANCO DE BATERIAS OK                              \nResponsável: Anderson Freitas                                MEDIDOR 217981186."
+    },
+    "SIAMR23": {
+        "nome_original": "SIAMR23 - Concentrador",
+        "cidade": "AMERICANA",
+        "latitude": "-22.729483",
+        "longitude": "-47.283777",
+        "descricao": "PORTAO PAPAIZ ATC\nGRADIL ELTEK CLIQ\nFIBRA ÓPTICA LINEAR SIAMR2N                         BATERIA OK\n\nConcentrador - SIAMR29 RTN_320\n\nMEDIDOR: 217978630 R: FERDINANDO DRAGO 92.                                                                                  Responsável: Anderson Freitas"
+    },
+    "SIAMR24": {
+        "nome_original": "SIAMR24",
+        "cidade": "AMERICANA",
+        "latitude": "-22.754623",
+        "longitude": "-47.358697",
+        "descricao": "TAG 244 PORTÃO - PAA PM1V\nTAG 249 ELTEK GRADIL (SPI19-A2)\nQTM - PAPAIZ PADRÃO NOVO 2020 \nSite manda inf via fibra STB1E/AMR18\nBaterias OK\nMEDIDOR - 22131775 R: ACARAÍ 506    Responsavel:Anderson Freitas"
+    },
+    "SIAMR29": {
+        "nome_original": "SIAMR29 - Ponta",
+        "cidade": "AMERICANA",
+        "latitude": "-22.732135",
+        "longitude": "-47.267643",
+        "descricao": "QTM - Papaiz Padrão Novo Americana\nGRADIL ELTEK - CLIQ\nPORTÃO - PTB-SP/T4U                                              BATERIAS SEM AUTONOMIA                                    Responsável: Anderson Freitas                                RX AMR23                    \n\nMEDIDOR CPFL- 22922924"
+    },
+    "SIAMR31": {
+        "nome_original": "SIAMR31 -  GPON",
+        "cidade": "AMERICANA",
+        "latitude": "-22.75739",
+        "longitude": "-47.325557",
+        "descricao": "Chave Portão T4U\nChave Gradil ELTEK CLIQ.                                         QTM CLIQ\nGradil RRU- RRU CLIQ                                                Responsável: Anderson Freitas \n\nMedidor: 22687729 - CPFL"
+    },
+    "SIAMR32": {
+        "nome_original": "SIAMR32- Ponta NET AMERICANA",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7525103992868",
+        "longitude": "-47.2973086684942",
+        "descricao": "NET AMERICANA, SOLICITAR CHAVE NA PORTARIA\nFIBRA, MANDA INF PARA O AMR04.                      Chave 55 no Administrativo \n\ne-mail da portaria Net americana seguranca.siteamericana@claro.com.br para retirarada a chaves"
+    },
+    "SIAMR35": {
+        "nome_original": "SIAMR35 - Ponta",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7284901",
+        "longitude": "-47.3372072",
+        "descricao": "ATC AMR002NX.                                                          Portão cód 0884\nGRADIL ELTEK - CLIQ\nGRADIL QTM SPI19-A\nMEDIDOR 30939245\nBATERIA OK.                                                              Instalado dia 15/12/2023                                           IP50 VERTICAL.                                                           10.218.170.19.                                                             IP50 HORIZONTAL.                                                     10.218.170.27.                                                             Responsável: Anderson Freitas"
+    },
+    "SIAMR36": {
+        "nome_original": "SIAMR36 - Empresa",
+        "cidade": "AMERICANA",
+        "latitude": "-22.740276",
+        "longitude": "-47.295598",
+        "descricao": "Detentora IHS ID Site 19010009. SA23 07508\nContato detentora:  0800 730 9000.                         Whatsapp: +55 11 96081-0704\nSITE EM ANEL\nGABINETE ELTEK - SPI19-A.                                      QTM- PAPAIZ Padrão Limeira 1\nPORTÃO - 1901.                                                            BATERIA OK\n Manutenção no local com lista de acesso                   Somente horário comercial \nCompartilhado TIM"
+    },
+    "SIAMR37": {
+        "nome_original": "SIAMR37 - BR75668-B",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7158400067847",
+        "longitude": "-47.366704121232",
+        "descricao": "PORTÃO: Bluetooth SBA\nELTECK: CLIQ\nQTM - SPI19A\nIP50 23 GHZ VERTICAL                                              10.218.164.131                                                            IP50 23GHZ HORIZONTAL                                        10.218.164.123.                                                          BATERIA SEM AUTONOMIA \n\nMEDIDOR : 309542236                                                                                                                                       Responsável: Anderson Freitas\n\nCOMPARTILHADO : TIM SI9371"
+    },
+    "SIAMR39": {
+        "nome_original": "SIAMR39 - Ponta",
+        "cidade": "AMERICANA",
+        "latitude": "-22.749735",
+        "longitude": "-47.2625027",
+        "descricao": "SIGLA ATC-AMR001SS\nPORTÃO: Padrão ATC ( PAPAIZ)\nGRADIL _ CLICK\nQTM - PAPAIZ PADRÃO AMERICANA 2020\nMEDIDOR 31019333\nANHANGUERA KM121                                                Responsável: Anderson Freitas\n\ninstalado 2 Bancos de Baterias de 170A com 8 elementos.\n24/08/2021\n\nTIM: AMJM01\nOI : AMR4684"
+    },
+    "SIAMR40": {
+        "nome_original": "SIAMR40 - Ponta",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7099547963566",
+        "longitude": "-47.2858026623726",
+        "descricao": "AMR011AT - ATC\nPortão - senha 1822\nGradil - CLIQ\nQTM - CLIQ\nBaterias: OK\nResponsável: Anderson Freitas\nRádio IP-20\nDireção SIAMR08 - IP 10.216.208.235\n\nMedidor Claro\n30952155\nCompartilhado\n\nTIM - SI9352\nMedidor: 30901509"
+    },
+    "AMR934": {
+        "nome_original": "AMR934",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7483347746482",
+        "longitude": "-47.3319064825773",
+        "descricao": "SITE VIVO CHAVES APENAS EM CASBC CHAVE 79 CASPM2V\nGABINETE K30"
+    },
+    "AMR937": {
+        "nome_original": "AMR937",
+        "cidade": "AMERICANA",
+        "latitude": "-22.740489",
+        "longitude": "-47.241185",
+        "descricao": "PORTÃO- SPI19-A-2V\nBTS SPI19-A2\nMEDIDOR : 21404823 R: MARANHÃO N: 859\nCOMPARTILHADO : VIVO"
+    },
+    "AMR939": {
+        "nome_original": "AMR939",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7228763190878",
+        "longitude": "-47.361365519464",
+        "descricao": "PORTÃO BLUTHUF ATC AMR002AT\nGABINETE K30\n\nMEDIDOR 306500256 R: BENEDITO CHAGAS N: 173\n\nCOMPARTILHADO\nVIVO\nTIM SDSR01\nNEXTEL"
+    },
+    "SIAMR42": {
+        "nome_original": "SIAMR42",
+        "cidade": "AMERICANA",
+        "latitude": "-22.744977",
+        "longitude": "-47.3440865",
+        "descricao": ""
+    },
+    "SIAMR44": {
+        "nome_original": "SIAMR44 / SPIAMR020OU NXT TX (FORA DE USO)",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7443191905996",
+        "longitude": "-47.3545037582517",
+        "descricao": "Gabinete apm30 Huawei\nPortão:  cadeado papaiz cabeça marron\nBateria: 2 Banco ok                                                      Site manda inf via rádio para o STB21 e recebe do STBR5                                                                      Responsável: Sartorato"
+    },
+    "SIAMR48": {
+        "nome_original": "SIAMR48",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7592394",
+        "longitude": "-47.3331543",
+        "descricao": "Portão: 1822.                                                                Gradil: Cliq"
+    },
+    "SIAMR49": {
+        "nome_original": "SIAMR49",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7304921",
+        "longitude": "-47.3168367",
+        "descricao": "Gradil: Cliq"
+    },
+    "SIAMR50": {
+        "nome_original": "SIAMR50- PONTA",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7466231",
+        "longitude": "-47.241803",
+        "descricao": "Portão 1822.                                                                  Gradil: Cliq\nEsteiramento: Cliq.                                                        QTM PAPAIZ.  Americana                                             TX SIPLA03 VIA ERICSSON.                                     Bateria: ok"
+    },
+    "SIAMR51": {
+        "nome_original": "SIAMR51",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7285526",
+        "longitude": "-47.3215124",
+        "descricao": "Portao 1822\nGradil: Cliq\nBlindagem Esteira: Cliq"
+    },
+    "SIAMR52": {
+        "nome_original": "SIAMR52",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7080861",
+        "longitude": "-47.2978335",
+        "descricao": "Portão senha 4943.                                                    Gradil: CLIQ\nEnvelopamento: CLIQ"
+    },
+    "SIAMR54": {
+        "nome_original": "SIAMR54",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7450724",
+        "longitude": "-47.2822763",
+        "descricao": "Portão 0018\nGradil: Cliq"
+    },
+    "SIAMRX1": {
+        "nome_original": "SIAMRX1",
+        "cidade": "AMERICANA",
+        "latitude": "-22.740603",
+        "longitude": "-47.343353",
+        "descricao": "NÃO EXISTE, VERIFICADO NO LOCAL."
+    },
+    "SIAMRI2R": {
+        "nome_original": "SIAMRI2R/SI0001R",
+        "cidade": "AMERICANA",
+        "latitude": "-22.738077",
+        "longitude": "-47.331807",
+        "descricao": "EDIFICIO AMINA NAJAR"
+    },
+    "SIAMRI3R": {
+        "nome_original": "SIAMRI3R/SI0002R",
+        "cidade": "AMERICANA",
+        "latitude": "-22.737544",
+        "longitude": "-47.318945",
+        "descricao": "PREDIO AV PAULISTA (ANTIGA NET)"
+    },
+    "SIAMRI4R": {
+        "nome_original": "SIAMRI4R/SI0003R/AMRHZ",
+        "cidade": "AMERICANA",
+        "latitude": "-22.752819",
+        "longitude": "-47.296905",
+        "descricao": ""
+    },
+    "SIHORR1": {
+        "nome_original": "SIHORR1 - ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.9139673",
+        "longitude": "-47.1898212",
+        "descricao": "SIHORR1 TBSA TCSISUM0001                                PORTÃO ( Cadeado BluetoothTBSA )\nCLIQ - GRADIL CONTAINER                                       PROTEÇÃO QTM - CLIQ\nMEDIDOR CL 308054432\nMEDIDOR EB 213936119\n\nOi - SPSUM5598\nTIM - SMBL01\n\nPendências\nProteção QD\nFalta cadeado Quadro alimentação Contêiner\n\nRua Josina Flora de Jesus Silva, 170 - Jardim Nova Terra (Nova Veneza)\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SIAMR58": {
+        "nome_original": "SIAMR58",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7030773",
+        "longitude": "-47.3719444",
+        "descricao": "Gradil: CLIQ\nBlindagem: CLIQ"
+    },
+    "SIAMR53": {
+        "nome_original": "SIAMR53",
+        "cidade": "AMERICANA",
+        "latitude": "-22.7671534",
+        "longitude": "-47.331308",
+        "descricao": "Gradil: CLIQ\nBlindagem: CLIQ"
+    },
+    "SISTBR2": {
+        "nome_original": "SISTBR2",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.815926",
+        "longitude": "-47.450223",
+        "descricao": "Concentrador: Não\nPortão: PAA.PM1V\nGradil Eltek: SPI19-A2\nGradil QTM: NXT 7x7.                                                  QM: papaiz AMR 2020\nBaterias: ruim 10/25\nMedidor: 208453644\nCódigo: 37533029 CRT276A\nEndereço: ROD. COMENDADOR AMERICO EMILIO ROMI SP306 KM1\n\nCO Responsável: Sartorato\n\nOBS: MANDA INF VIA RADIO PARA O SISTB01 IP20 10.216.215.187"
+    },
+    "SISTBR3": {
+        "nome_original": "SISTBR3",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.76196",
+        "longitude": "-47.465164",
+        "descricao": "Concentrador: SIM (LRAR4, PAAR1 que concentra PAA57 e RDPR1)\nPortão: CLICK SPI19-A2\nGradil Eltek: CLICK\nGradil QTM e QM: CLICK\nBaterias: ok\nMedidor: 306255324\nCODIGO: 4000098348\n\nCO Responsável: Sartorato\n\nOBS: CONCENTRA INF DO STBR3, LRAR4, PAAR1 E ENVIA PARA STB01 VIA RÁDIO.             IP50 STBR3 X STB01 IP1: 10.218.170.35 / IP2: 10.218.170.43"
+    },
+    "SISTBR4": {
+        "nome_original": "SISTBR4",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.809079",
+        "longitude": "-47.390478",
+        "descricao": "Concentrador: Não\nPortão: SPI19-P1\nGradil Eltek: SPI19-A1\nGradil QTM e QM: CLICK\nBaterias: Furtadas 07/25\n\nCO Responsável: Sartorato\n\nMedidor: 30822165\nCÓDIGO: 4000242927\n\nMANDA INF VIA RÁDIO HUAWEI PARA O STB01"
+    },
+    "SISTB01": {
+        "nome_original": "SISTB01",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.757229",
+        "longitude": "-47.422075",
+        "descricao": "Concentrador: Sim\nPortão: Bluetooth \nAlvenaria: PAPAIZ STB01/Click\nBaterias: ok\nOBS: IP10 para o STB10, IP20C, IP20S para STB17 IP: 10.216.177.146, IP20S para STBR2 IP: 19.216.215.186, IP50 Dual V/H para STBR3, IP:10.218.170.34/10.218.170.42, HUAWEI V para STBR4\nCO Responsável: Sartorato \n\nMEDIDOR: 302272569\nCOMPARTILHADO: TIM SDJP 01\nDETENTORA: CLARO"
+    },
+    "SISTB02": {
+        "nome_original": "SISTB02",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.761957",
+        "longitude": "-47.386818",
+        "descricao": "Concentrador: SIM\nPortão: Bluetooth TBSA\nGradil Container: PAA-GMV\nGradil QTM e QM: AMR 2020\nBaterias: ok\nMedidor: 400736195\nCONCENTRA O 2G/3G DO STB13\nCO Responsável: Sartorato\n\nEndereço: R: LUIS OMETO 95\nCompartilhado: TIM SDSA01\nDetentora: Claro"
+    },
+    "SISTB03": {
+        "nome_original": "SISTB03 GPON",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7473827",
+        "longitude": "-47.4175445",
+        "descricao": "Concentrador: Sim\nPortão: PAA-PM2\nAlvenaria: Papaiz Padrao Alvenaria (TAG165 Informação para a Larissa)\nCdma EBT: K-30\nQm/Qtm: CLICK\nBaterias: ok\nMedidor: 400736195\n\nCO Responsável: Sartorato\nConcentra o STB14 rádio ip20C 10.216.194.146 / 10.216.198.194\n\nMedidor: 302238212\nEndereço: R. PERNANBUCO 566\nCompartilhado : TIM SDTC 01"
+    },
+    "SISTB04": {
+        "nome_original": "SISTB04 GPON",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.763286",
+        "longitude": "-47.409353",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM2\nGradil Container: SPI19-A2 \nCdma EBT: K-30 FURTADO CHAVE\nQm/Qtm: CLICK\nBaterias: ok\nMedidor: 301859523 CLA\nMedidor: 213135817 EBT\nEndereço: EQUADOR 249\n\nCO Responsável: Sartorato\n\nSITE MANDA INF VIA FIBRA PARA SISTB1E"
+    },
+    "SISTB06": {
+        "nome_original": "SISTB06 - Loja",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7361500642628",
+        "longitude": "-47.3804028332233",
+        "descricao": "SISTB06 (SBO003AT)\n\nConcentrador: Sim\nChaves: Solicitar no adm                                             Baterias: ok, lítio 05/24\nCo responsável: Sartorato\n\nRÁDIO HUAWEI PARA STB19. SITE EM ANEL VIA FIBRA COM AMR09\nRÁDIO MINILINK PARA SISTB19 IP:                         10.216.89.213 / 10 216 89 210\nSITE CRISTIANTEX SOMENTE HORARIO COMERCIAL DE SEGUNDA A SEXTA\nMEDIDOR FICA NA RUA DE TRAS DA LOJA"
+    },
+    "SISTB07": {
+        "nome_original": "SISTB07 - GPON",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.778069",
+        "longitude": "-47.375309",
+        "descricao": "Concentrador: Não\nPortão: PAA-PM2\nEco Box: PAA-PM2\nGradil QM/QTM: PAPAIZ PADRÃO PIRA (Solicitado Reparo na proteção e na caixa de passagem em 23/06/07\nBaterias: ok (3g sem bateria na 6000)\nMedidor: 306558556\nEndereço: ROD. DR ERNESTO DE CILLO 247\n\nCO Responsável: Sartorato\n\nSITE PONTA VIA FIBRA\n\nseguranca.siteamericana@claro.com.br\nENVIAR E-MAIL PARA RETIRAR CHAVE NET AMERICANA"
+    },
+    "SISTB09": {
+        "nome_original": "SISTB09 - prédio",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.754951",
+        "longitude": "-47.409031",
+        "descricao": "Concentrador: Não\nBaterias: ok\n\nCo responsável: Sartorato\n\nMedidor: 306880997\nEndereço: GRAÇAS MARTINS 43\n\nAcesso apenas email\nSíndica Amanda 19 99219-6079\nSITE PONTA VIA FIBRA\nPRÉDIO GRAÇA MARTINS"
+    },
+    "SISTB10": {
+        "nome_original": "SISTB10",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.767268",
+        "longitude": "-47.423846",
+        "descricao": "Concentrador: Não\nPortão: PAA-PMP2 \nGradil Eltek: SPI19-A\nGradil 6000: SPI19-A\nGradil QTM e QM: PAPAIZ 2020\nBaterias: ok\nMedidor: 301171033\nEndereço: ROD. LUIZ DE QUEIROZ KM 138\nCo responsável: Sartorato\nAlçapão Ev SPI19-P2\nSITE PONTA MANDA INF VIA RÁDIO IP10 PARA STB01"
+    },
+    "SISTB13": {
+        "nome_original": "SISTB13 / SISTBSG /SISTB1E",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.750558",
+        "longitude": "-47.396567",
+        "descricao": "Concentrador: Não\nPortão: SPI19-A \nAlvenaria: SPI19-A2 \nGradil Container EBT: SPI19-A\nGradil 6000: CLIQ\nBlindagem esteira: CLIQ\n\nGradil Roteador: ROTI-V\nGradil QTM: PAPAIZ PADRÃO 2020\nGradil QM: GMV-PAA\nBaterias: ok (2g/3G sem na 6000)\nMedidor: 304128139 STB13\nMedidor: 30989687 STBSG\nEndereço:\nCo responsável: Sartorato\n\n4g na alvenaria junto com o SISTB1E\n\nAlarmes Via S21"
+    },
+    "SISTB14": {
+        "nome_original": "SISTB14",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.744455",
+        "longitude": "-47.429748",
+        "descricao": "Concentrador: Não\nPortão: - PTB/T4U\nGradil Elteck: GMV-PAA\nGradil RRU: SPI19-L\nGradil QTM: CLICK\nGradil QM: CLICK\nBaterias: OK\nMedidor: 306548500\nEndereço: R: CANDIDO ANTÔNIO ZANATA 100\nCo responsável: Sartorato\n\nSITE PONTA, MANDA INF VIA RÁDIO PARA STB03, IP20 10.216.194.147 e 10.216.198.195"
+    },
+    "SISTB15": {
+        "nome_original": "SISTB15",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.768931",
+        "longitude": "-47.403202",
+        "descricao": "Acesso fora de horário comercial telefone caseiro Marcos 62-98182-2621 ou dono da empresa José Furlan 19-98148-4599\nSBA - BR72707-A\nConcentrador: Não\nPortão: CÓDIGO - Bluetooth SBA\nGradil Eltek: GMV.PPA\nGradil QTM e QM: GMV.PPA\nBlindagem Esteira: CLIQ\nBaterias: Ok\nMedidor:\nCO Responsável: Sartorato\n\nIP20C - 10.203.206.246 - manda inf para o STB01\nCompartilhado com VIVO/OI\nOI - STB5366"
+    },
+    "SISTB17": {
+        "nome_original": "SISTB17",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.75771",
+        "longitude": "-47.43357",
+        "descricao": "Concentrador: Não\nPortão: Senha 1906\nGradil Eltek: Cliq\nGradil QTM e QM: PAPAIZ PADRÃO 2020\nBaterias: Ok\nMedidor: 30955725\nIP20S:10.216.177.147 - manda inf para o STB01\n\nCO Responsável: Sartorato"
+    },
+    "SISTB18": {
+        "nome_original": "SISTB18 GPON",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7363",
+        "longitude": "-47.396393",
+        "descricao": "Concentrador: Não\nPortão: BLUETOOTH SBA\nGradil Eltek (ou container): SPI19-A\nGradil QTM e QM: SPI19-A\nBlindagem esteira: CLIQ\nBaterias: OK\nMedidor:\n\nCO Responsável: Sartorato\n\nCompartilhado com Oi"
+    },
+    "SISTB19": {
+        "nome_original": "SISTB19",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.723472",
+        "longitude": "-47.378194",
+        "descricao": "Dentro Chácara\nBotão na mureta lado esq para abrir o portão eletrônico da chácara com temporizador \nConcentrador: Nao\nPortão: T4U\nGradil Eltek: SPI 19A-V\nGradil QTM e QM: SPI 19A-V\nBlindagem Esteiramento: CLIQ\nBaterias: ruim (21/12/22)\nMedidor: 309849964\n\nCO Responsável: Sartorato\n\nOBS: Manda inf via Rádio para o SISTB06\n\nCOMPARTILHADO\nVIVO : NOR\n\nTORRE EM FRENTE NEXTEL : SPISTB009OU"
+    },
+    "SISTB21": {
+        "nome_original": "SISTB21 NEXTEL SPISTB011OU",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7594842272019",
+        "longitude": "-47.3947808146477",
+        "descricao": "id Nextel SPISTB011OU\n\nOBS: Site ponta via rádio Huawei STB02 X STB21\n\nConcentrador: Não \nPortão: Bluetooth SBA\nElteck: Senha 0010. \nBlindagem esteira: CLIQ\nBaterias: Ok\nQTM: NXT 7x7\nBaterias: ok\nMedidor:\nCO Responsável: Sartorato\n\nSite compartilhando com vivo e tim"
+    },
+    "SISTB23": {
+        "nome_original": "SISTB23 / SPISTB005OU NXT TX/3G Prédio (FORA DE USO)",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.755874304693",
+        "longitude": "-47.418813072145",
+        "descricao": "Concentrador: Sim (STB22 e STBR5)\nSala de equipamentos: Nextel NXT\nBaterias: ok\nMedidor:.                      \nCO Responsável: Sartorato\nPortaria Caroline 98193-4762. AP síndica 62\nPrecisa nome da lista envia pela ATC."
+    },
+    "SISTB22": {
+        "nome_original": "SISTB22 / SPISTB010OU NXT TX (FORA DE USO)",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7467946619979",
+        "longitude": "-47.4196710437536",
+        "descricao": "Site somente tx (concentrador) direção STB23 e STB21.                                                                              Portão - Nextel 7x7                                                      Baterias sem autonomia.                                          CO responsável: Marcelo Sartorato"
+    },
+    "SISTBR5": {
+        "nome_original": "SISTBR5 / SPISTB007OU NXT TX (FORA DE USO)",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7630207828021",
+        "longitude": "-47.4656850099564",
+        "descricao": "entrada do site ao lado do pão com linguiça portão com cadeado segredo senha 1007 gradil no QDCA cadeado padrão Nextel QTM gradil sem cadeado baterias ok ao lado do SISTBR3"
+    },
+    "SISTB27": {
+        "nome_original": "SISTB27",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.739195",
+        "longitude": "-47.4096128",
+        "descricao": "Concentrador: Não                                                      Portão: Segredo  1901                                              Gradil Elteck: Click.                                                          Baterias:                                                                     Qm/Qtm: \nEnvelopamento: Click.                                                    CO Responsável: Sartoraro"
+    },
+    "SISTB25": {
+        "nome_original": "SISTB25",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.753278",
+        "longitude": "-47.414193",
+        "descricao": "QTM: PAPAIZ PADRÃO AMR\nPortão: Padrão Vivo                                                     Gradil Elteck: Click\nEsteiramento: Cliq.                                                       Rua Duque de Caxias, 513.                                        Omr Responsável: Sartoraro"
+    },
+    "SISTB24": {
+        "nome_original": "SISTB24",
+        "cidade": "SANTA BÁRBARA D'OESTE",
+        "latitude": "-22.7371966",
+        "longitude": "-47.3689224",
+        "descricao": "Portão: 0002.                                                                Gradil e Blindagem Cliq"
+    },
+    "SIPLAR1": {
+        "nome_original": "SIPLAR1 - ANEL DE FIBRA CONCENTRADOR/GPON",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.7945433694236",
+        "longitude": "-47.2134359925985",
+        "descricao": "SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                 PORTÃO-SPI19A\nGRADILL - CLIQ\nMEDIDOR CPFL- 30381400-4\nSITE GPON\nSite Localizado No patio do detran\nContato: Paulo\nFone: 011 962319103\nContato local : Vadao\nFone: 011 965487014\n019 99966-1649 PORTARIA\npationovaodessa@ctpstransp.com.br\n\nConcentrador\n\nSISUM11 V - IP20C : 10.216.194.202\nSISUM11 H - IP20C : 10.216.201.34\n\nRF\nUSIPLAR1 -10.203.190.185\nS01SIPLAR1> 10.216.189.90            S02SIPLAR1> 10.216.234.114\n                                     \nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SUM972": {
+        "nome_original": "SUM972",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.832283",
+        "longitude": "-47.266762",
+        "descricao": "PORTÃO SPI19-A2\nGAB. K30\n\n1 BCO RUIM\n\nCOMPARTILHADO : TIM ( SMCT02)\nVIVO E OI\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM01": {
+        "nome_original": "SISUM01 - ANEL DE FIBRA SITE GPON",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.815768",
+        "longitude": "-47.249934",
+        "descricao": "SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                  241 - PAA.PM2V - PORTÃO\nCLIQ - CONTAINER\nCLIQ - QTM\nMEDIDOR CL 400471183\nMEDIDOR EB 213981483\nSITE GPON\nSIte Fibra em Anel Óptico\nSISUM06/SISUM07\nSITE GPON                                                                    ROTEADOR - PROTEÇÃO PORTOMAG\nBanco de Baterias 24 elementos 2v\nData de Fabricacao. 05/2015\n\nEndereço: R. Vicente Ferreira da Silva, 880 - Altos de Sumaré\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM02": {
+        "nome_original": "SISUM02 - ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.824604",
+        "longitude": "-47.166135",
+        "descricao": "Detentora ATC: SUM005SS\n\nPortão cadeado Padrão ATC\n143 - PAA.060 - GRADIL ELTEK ( PAA-GMV)\n QTM-CLIQ\nBATERIAS: SEM AUTONOMIA \nCOMPARTILHADO\nOI SUM1502\nVIVO                                                                                ROTEADOR - PROTEÇÃO UAD\n\nMEDIDOR CPFL-\n21839109-9 OI\n22331477-9 Vivo\n21839107-2 CLARO COD 4000361212\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM03": {
+        "nome_original": "SISUM03 - CONCENTRADOR",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.822219",
+        "longitude": "-47.274906",
+        "descricao": "SISUM03 TBSA TCSISUM0003                               PORTÃO ( Cadeado BluetoothTBSA )\nCONTAINER - CLIQ                                                 CHAVE ROTEADOR - CHAVE ROTI 1V\nIP20 para SUM05 H/V H=10.216.214.58, V=10.216.214.66                                                            LINEAR - SINDS1E                                                                                                    \nMEDIDOR 304696510\n\nCOMPARTILHADO:TIM SMCT01\n\nConcentrador : SISUM05/ SISUM26\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM04": {
+        "nome_original": "SISUM04 - ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8370742",
+        "longitude": "-47.1850284",
+        "descricao": "Detentora ATC- SUM003B2\n\nPORTÃO - CHAVE PADRÃO ATC\nGradil - CLIQ\n\n3 BANCOS DE BATERIAS 170A ( 23/08/2022)\n\nMEDIDOR 218931069\n\nRoteador HUWAEI\nIP- 10.216.34.241\n\nRádio IP-20 Ceregon Horizontal\nIP-10.216.218.42 - SIHORR1-Concentrador\nIP-10.216.218.43 - SISUM04\n\nRádio IP-20 Ceregon Vertical\nIP-10.216.201.58 - SIHORR1-Concentrador\nIP-10.216.201.59 - SISUM04\n\nEndereço:\nFrancisco Bertolli, 726 - Parque das Nacoes (Nova Veneza)\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM06": {
+        "nome_original": "SISUM06 - ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.806377",
+        "longitude": "-47.2959",
+        "descricao": "Detentora ATC- NVO001SS\nPORTÃO - CADEADO DE SENHA - PADRÃO ATC\nGRADIL - CLIQ\nQTM - PAA-PM1\nMEDIDOR: 212843397 AV: UM S/N NOVA ODESSA\n                                              USISUM06 - 10.202.201.137\nCOMPARTILHADO:  VIVO\n\n4 BATERIAS 🔋 LÍTIO \n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM05": {
+        "nome_original": "SISUM05 - CONCENTRADOR",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.856214",
+        "longitude": "-47.311332",
+        "descricao": "SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                                GRADIL. PAPAIZ AMR2020 ( GABINETE)\nGRADIL. FUNDO PAPAIZ PADRÃO 1 LIMEIRA\nPORTÃO (SPI19-A-2)\nQTM ( SPI19GMA)\nQM PADO PADRÃO CLARO\nMEDIDOR 40127030\n\nTX SISUM03                                                                 Rádio IP-20 Ceregon\nRADIO H - 10.216.214.59                                          RADIO V - 10.216.214.66                                            \nConcentrador SISUM26                                             10.216.223.146 \n\nBATERIAS OK\n\nNUMERO DO UC:\n40127030 medidor\nCONCESSIONÁRIA CPFL                                            UC: 40153673\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM07": {
+        "nome_original": "SISUM07 - CONCENTRADOR",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.807024",
+        "longitude": "-47.260579",
+        "descricao": "241 -PORTÃO PAAPM2\n237 - QTM CLIQ                                                 GRADIL ELTEK - CLIQ e papaiz padrão   Americana \nMEDIDOR 305519326\n\nRádio RTN320\nConcentrador SISUM23\n\nBANCO DE BATERIA COM BAIXA AUTONOMIA\nSOLITAÇÃO ( 03/08/2023)\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM09": {
+        "nome_original": "SISUM09 - EM ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.820994",
+        "longitude": "-47.291081",
+        "descricao": "DETENTORA - HIGHLINE\n\nPORTÃO - T4U /PTB-SP\nPORTÃO SPI19P-2\nGRADIL - SPI19A\nQTM. - SPI19A-2\nMEDIDOR 231167455\nSEM CONTROLADORA\nSITE FIBRA EM ANEL SINDS1E / SISUM19\nSite com 3 BANCOS DE 170A                                                               CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM10": {
+        "nome_original": "SISUM10 - ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.800695",
+        "longitude": "-47.196696",
+        "descricao": "Detentora: T4U Cód: T4U-SME-002/Nova Veneza\n\nPORTÃO - T4U OU PTB CP - TAG - 257\nGABINETE ELTEK ECOBOX - CLICK\nBANCO DE BATERIA COM BAIXA AUTONOMIA\n\nCompartilhado:\nVivo-\nTim - SMCS01                                                                                         CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM11": {
+        "nome_original": "SISUM11 - ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.788725",
+        "longitude": "-47.228829",
+        "descricao": "CODIGO ATC - SUM002SS\nPortão - Cadeado PADRÃO ATC\nGRADIL ELTEK - SPI19A\nQTM - \nMEDIDOR 219134685\n\n Bateria de lithium\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM15": {
+        "nome_original": "SISUM15-ANEL GPON",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8051498",
+        "longitude": "-47.2732969",
+        "descricao": "SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM - 0800-085-1234                                                                                                            PORTÃO - CLIQ\nPORTÃO - CLIQ\n255-SPI19A-QTM\nMEDIDOR 30792811                                                   SITE - GPON                                                                                                                                                         R. Guaraci, 244 - Residencial Guaíra, Sumaré - SP, 13173-320               CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM18": {
+        "nome_original": "SISUM18 - EM ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.817332",
+        "longitude": "-47.169471",
+        "descricao": "Detentora AMERICAN TOWER Cod-SUMOO1B2   CHAVE CADEADO PORTAO DE ENTRADA PORTAO FECHADO BRANCO - OMR POSSUI CHAVE DE ACESSO  \nPORTÃO- CÓDIGO - PTB SP / T4U\nPAINEL ELÉTRICO - Chave CLIQ\nGRADIL ELTEK- Chave CLIQ\nGRADIL RRU 3G- Chave CLIQ\nBaterias - \n3 BANCOS\nCompartilhado:\nTIM:SI9118\n\nPadrão CPFL-\n\n1-22975056\n2-22975157\n3-30985651\n\nContato Robson \nFone:98368-5780                                                         Contato Rogerio Lava rapido.\n19 991384424\nEm Horário Comercial: Acesso pelo lava rapido do lado esquedor do SITE, portao fica aberto até as 18:00\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM19": {
+        "nome_original": "SISUM19 - ANEL DE FIBRA / GPON",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8358",
+        "longitude": "-47.197701",
+        "descricao": "SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                               DETENTORA HIGHLINE\nSIGLA SPSUM02\nPORTÃO - T4U/PTB-SP\nGRADIL Cliq\nQTM - GMV-PAA\n\ninstalado 2 Bancos de Baterias de 170A com 8 elementos.\n24/08/2021\n\nRUA JOAQUIM MOURA DOS SANTOS\nMEDIDOR:23152966 N:195\nPARQUE SANTO ANTÔNIO\n\nCompartilhado Vivo\n\nSPZUAS20/01                                                         CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM20": {
+        "nome_original": "SISUM20 - EM ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8245281",
+        "longitude": "-47.1913698",
+        "descricao": "DETENTORA - HIGHLINE\nPORTÃO : T4U - PTB-SP\nGRADIL QTM CLIQ\nGRADIL ELTEK - CLIQ                                           PROTEÇÃO ROTEADOR UAD\nMEDIDOR 23151589 N111\nR: DEZESSEIS\n\nSITE EM ANEL ÓPTICO\nSISUM19 FO 1,2\nSISUM21 FO 3,4\n\nRoteador :\nProteção UAD - Chave padrao 48\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM21": {
+        "nome_original": "SISUM21 - EM ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.818958",
+        "longitude": "-47.234096",
+        "descricao": "DETENTORA - HIGHLINE                                            SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM - 0800-085-1234 \nPortão T4U ou PTB\nGradil Eltek CLIQ\nGradil QTM_PADRAO1822\n SITE GPON\nMEDIDOR 23167619\nCOMPARTILHADO : TIM                                        CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM23": {
+        "nome_original": "SISUM23 - PONTA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.805353",
+        "longitude": "-47.224738",
+        "descricao": "Detentora SBA - BR72715-A\n*Contato proprietário*: Regis +55 19 99881-7788\nPORTAO - Cadeado Bluetooth SBA \nGRADIL ELTEK CLIQ\nQTM- CLIQ\nMEDIDOR CLARO : 23311774\nAV: MINAS GERAIS N:500 NOVA VENEZA\n2 BANCOS DE BATERIAS ( INSTALAÇÃO 08/08/2023\nCOMPARTILHADO\n\nMEDIDOR OI SPSUM5603 : 22465814\nMEDIDOR TIM: 31060083\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM24": {
+        "nome_original": "SISUM24 - EM ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.832962",
+        "longitude": "-47.270586",
+        "descricao": "DETENTORA  - HIGHLINE                                          PORTÃO - T4U / PTB-SP                                            GRADIL -Clic\nQTM. -Clic                                                                      CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM26": {
+        "nome_original": "SISUM26-PONTA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8314363",
+        "longitude": "-47.3622999",
+        "descricao": "DETENTORA - HIGHLINE PORTÃO T4U/ SITE POSSUI MONITORAMENTO ( ACESSO NOC BELEM).                                                                        PORTÃO - T4U\nGRADIL - SPI19-P2 \nQTM - CLIQ                                                                    ALÇAPÃO TORRE - CADEADO PADRAO 1 LIMEIRA\n\n 2  BATERIAS LÍTIO SECPOWER \n\nIP 20 CEREGON 10.216.223.147\nMEDIDOR 23391323\n\nSTA BARBARA / MARGEM ROD. BANDEIRANTES - REALIZAR ACESSO PELOS SITES REFERENCIA SISTBR4 - PASSAR NA FRENTE SO SITE SEGUIR ATE FINAL DA ESTRADA DE TERRA OU PELO SITE SISTB07 PASSAR NA FRENTE DO SITE SEGUIR ATE A PRIMEIRA ENTRADA PARA ESTRADA DE TERRA DOS IPEUNAS - ESTRADA RURAL, S/N - RURAL\nSUMARÉ, SP\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM27": {
+        "nome_original": "SISUM27 SITE NEXTEL - RF ERCISSON",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8956475",
+        "longitude": "-47.2989773",
+        "descricao": "CHAVE PADRÃO ATC\n\nQTM - CHAVE PADRÃO DO SITE\n\nNextel e vivo no site portão cadeado PADRAO ATC gradil do QTM sem cadeado site com 2 Bancos de  Baterias \n   \nRADIO RTN 910 - NE ID:9-25085\n\nIP:10.218.164.107 15G GERENCIA CLARO\nSISUM27 X SIMOR04\n TX - 15117.0\n RX -14697.000\n ODU -Product SN: 193-8\n3G / 4G BB6631\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM30": {
+        "nome_original": "SISUM30-ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8481588823919",
+        "longitude": "-47.1912765875459",
+        "descricao": "Recebe do SIHOR08                                        SITE ATC SUM003AT \nPORTA ENTRADA TETRA\nSite fica em cima de uma academia e óticas  ACESSO DO SITE PELA ACADEMIA                       BANCOS DE BATERIA: ok\nMEDIDOR : 22259585\nCOMPARTILHADO\nVIVO : SMJ\nTIM : SMDN01\nOI :                                                                                                                                                                                     CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM34": {
+        "nome_original": "SISUM34 - ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8272222222222",
+        "longitude": "-47.2474722222222",
+        "descricao": "PORTÃO - CADEADO DE SENHA 1822 GRADIL - CLIQ\nSEM BATERIA CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM33": {
+        "nome_original": "SISUM33-ANEL DE FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.806904",
+        "longitude": "-47.182915",
+        "descricao": "DETENTORA IHS TOWERS\nPORTÃO - CADEADO DE SENHA 1906        GRADIL - CLIQ\nQTM - CLIQ\nLocalizado Dentro Techville Galpoes logistico\nContato : Elias_ administracao@techville.com.br Portaria@techville.com.br\nCelular: (19) 98430-0077 | contato@techville.com.br\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM35": {
+        "nome_original": "SISUM35 - ANEL",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.7979166666667",
+        "longitude": "-47.2702777777778",
+        "descricao": "PORTAO - 1905                                                         GRADIL - CLIQ                                                               2 BANCO DE BATERIA LITIO\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM36": {
+        "nome_original": "SISUM36-ANEL FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.83625",
+        "longitude": "-47.2182777777778",
+        "descricao": "PORTAO - papaiz AMR\nGRADIL - CLIQ / SEM BATERIA"
+    },
+    "SISUM37": {
+        "nome_original": "SISUM37-ANEL FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8370749",
+        "longitude": "-47.1618617",
+        "descricao": "PORTÃO - CADEADO DE SENHA 1822        GRADIL - CLIQ\n2 BANCO DE BATERIA LITIO\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM38": {
+        "nome_original": "SISUM38 - ANEL FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.82425",
+        "longitude": "-47.2696944444444",
+        "descricao": "DETENTORA TBSA SITE - ROOFTOP PREDIO CONDOMINIO CARAVELLE\n                                 \nSíndica Eliane 19996303232Portaria 19998934084\n\nResponsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUM40": {
+        "nome_original": "SISUM40",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8455193",
+        "longitude": "-47.168533",
+        "descricao": "Gradil e Blindagem esteira: Cliq"
+    },
+    "SISUM42": {
+        "nome_original": "SISUM42 - EM ANEL (PERTENCE A CAMPINAS)",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.842857",
+        "longitude": "-47.221617",
+        "descricao": "255 - PORTÕES SPI19 A-V\n255 - QTM -- SPI19 A-V\n255 - GRADIL BASCULANTE -- SPI 19 A-V\nCOFRE -- CANHÃO13MM -- PONTEIRA COD.48\nMEDIDOR 22887171\n\n*2 Gabinetes Eltek*"
+    },
+    "SISUM43": {
+        "nome_original": "SISUM43",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.8189646",
+        "longitude": "-47.2030707",
+        "descricao": "Gradil: CLIQ"
+    },
+    "SISUM47": {
+        "nome_original": "SISUM47 - ANEL FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.793725",
+        "longitude": "-47.310044",
+        "descricao": "PAA.PM1V - PORTÃO\nGMV.PPA - GABINETE ELTEK\nCLIQ - Blindagem esteiramento\n\nNOC_Solicitacao de acesso\nLigar no noc belem\nCentral de Monitoramento General\n+55 11 93236-3823 zap\n3 BANCOS DE BATERIAS ( INSTALAÇÃO  08/08/2023\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUMR1": {
+        "nome_original": "SISUMR1 - ANEL FIBRA",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.811707",
+        "longitude": "-47.208619",
+        "descricao": "PAA.PM1V - PORTÃO\nGRADIL - CLICK\nQTM- CLICK\nBATI.19.45 - BATERIA\n\n4 Banco de Baterias 170a\n                                                                MEDIDOR CPFL- 214071421\nContato: 19987087601 Guilherme \nContato: 19997015659 CASEIRO\nRoteador:\nProteção UAD Chave Padrão 48\n\nRádio IP-20 S Vertical\nIP local: 10.203.181.181\nIP Remoto: 10.203.181.178\n\nRádio IP-20 S Horizontal\nIP local: 10.203.181.174\nIP Remoto: 10.203.181.170\n\nConcentrador SIPLAR1\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SISUMI4R": {
+        "nome_original": "SISUMI4R/SI0162R",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.83982",
+        "longitude": "-47.268046",
+        "descricao": ""
+    },
+    "SISUMI6R": {
+        "nome_original": "SISUMI6R/SI0163R",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.80458",
+        "longitude": "-47.234268",
+        "descricao": ""
+    },
+    "SISUMI2R": {
+        "nome_original": "SISUMI2R/SI0160R",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.822258",
+        "longitude": "-47.265339",
+        "descricao": ""
+    },
+    "NET SUM": {
+        "nome_original": "NET SUM",
+        "cidade": "SUMARÉ",
+        "latitude": "-22.813403",
+        "longitude": "-47.276568",
+        "descricao": ""
+    },
+    "SINDS1E": {
+        "nome_original": "SINDS1E - Concentrador/ NDSSU",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.7900546748878",
+        "longitude": "-47.306685000658",
+        "descricao": "PORTÃO SPI19-A 2\nCONTAINER SPI19-A 2\nGMG EBT G\nROTEADOR - CHAVE ROTI \nMEDIDOR 30780700 N:1640\nAV: RODOLF KIVITS\namericana\n\nSolicitar acesso Noc Belem\n\nrede wifi : alvenaria nova odessa\n\nsenha : 910novaodessa\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS01": {
+        "nome_original": "SINDS01 - Concentrador",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.788437",
+        "longitude": "-47.300623",
+        "descricao": "241 - PAA.PM2V - PORTÃO\n249 - GMV.PPA - PORTA CONTAINER\nCOM PRIORIZAÇÃO\n\nFibra óptica.\nConcentrador : SISUM47\nAnel óptico: SINDS1E / SINDSR1\nRoteador: proteção UAD\nMedidor CPFL: 30676614 0\nBaterias : Banco mês 08/2014\n\nCompartilhado:\nTim - NOCT01\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS02": {
+        "nome_original": "SINDS02 - EM ANEL",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.777352",
+        "longitude": "-47.289495",
+        "descricao": "SINDS02 TBSA TCSINOD0002                                \nPORTÃO ( Cadeado BluetoothTBSA )              \n249 - ELTEK GMV-PPA\n\nMEDIDOR 304011843 R: MIGUEL BECHIS FILHO 139\n\nCONCENTRADOR SINDS04\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS04": {
+        "nome_original": "SINDS04 - EM ANEL",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.780849",
+        "longitude": "-47.309573",
+        "descricao": "PORTÃO FRENTE PENDURADO AO LADO DIRETO DO PORTÃO CHAVE PADO\nPAA.PM1V - PORTÃO\nGRADIL SPI19AV\nQTM SPI19AV\nBaterias de íon de lítio\nMEDIDOR 30879620 R: AURÉLIA DE PAULA BELINATTI N:160\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS08": {
+        "nome_original": "SINDS08 - Em Anel",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.7869635",
+        "longitude": "-47.3253622",
+        "descricao": "DETENTORA HIGHLINE\n\nPORTÃO - PTB-SP = T4U ( CHAVE PORTARIA NET)\nGRADIL CLICK \nQTM CLICK\nMEDIDOR 30955692\nBaterias de íon de lítio OK\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS10": {
+        "nome_original": "SINDS10 - Em Anel",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.790168",
+        "longitude": "-47.285006",
+        "descricao": "DETENTORA HIGHLINE\nCód- SSP-NOA -006\n\nPORTÃO SENHA 1007\nQTM CLIQ\nGRADIL ELTEK CLIQ\nMEDIDOR 23204490\nBaterias de íon de lítio OK\nCompartilhado- TIM\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS12": {
+        "nome_original": "SINDS12",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.8021143",
+        "longitude": "-47.3146433",
+        "descricao": "Gradil: Cliq\nBlindagem esteira: Cliq"
+    },
+    "SINDS16": {
+        "nome_original": "SINDS16",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.7970467",
+        "longitude": "-47.2865617",
+        "descricao": "Site Novo (Sem informações)-                   PORTÃO \nGRADIL CLIQ\nQTM CLIQ\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS17": {
+        "nome_original": "SINDS17",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.7737358",
+        "longitude": "-47.2800149",
+        "descricao": "PORÃO CADEADO DE SENHA 0001                          GRADIL - CLICK                                                           CO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDSR1": {
+        "nome_original": "SINDSR1 - Em Anel",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.764973",
+        "longitude": "-47.247519",
+        "descricao": "SINDSR1 TBSA TCSINOD0003                                PORTÃO ( Cadeado BluetoothTBSA )\nGRADIL CONTAINER (CLIQ)\nQTM- CLIQ\nSITE 5G\nMEDIDOR : 302280669 R: DOIS N:109\n\nCOMPARTILHADO : TIM/OI- NDS1125\nR EDELCIO CAVALCANTE 109 NOVA ODESSA/SP \nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    },
+    "SINDS11": {
+        "nome_original": "SINDS11 - ANEL FIBRA",
+        "cidade": "NOVA ODESSA",
+        "latitude": "-22.806119",
+        "longitude": "-47.308192",
+        "descricao": "CADEADO PORTÃO - A (GF – COLO QMC NDS-00364) - TAG - 229\nID ESTAÇÃO: SP21442\nQTM - TAG 258\nGRADIL - Chave CLIQ\n\nCODIGO:4001118785\nMEDIDOR- 22379900\n\nConcentrador do Site SISUM06\n\nSITE : COMPARTILHADO TIM - SI9278\n\nTORRE - 45METROS\n\nCO Responsável: Marcelo Viana Guimarães (19) 992024193"
+    }
+}

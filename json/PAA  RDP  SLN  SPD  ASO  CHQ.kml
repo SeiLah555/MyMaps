@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PAA / RDP / SLN / SPD / ASO / CHQ</name>
+    <description/>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>PIRACICABA</name>
+      <Placemark>
+        <name>SIPAAR1</name>
+        <description><![CDATA[SITE CONCENTRADOR: SIM (RDPR1, PAA57). RECEBE DO STBR3                                                       PORTÃO - PAA.PM1-V<br>GRADIL CONTAINER SPI19P-1V<br>CPFL - MEDIDOR: 303736488<br>CÓDIGO: 29485290<br>OBS: STBR3 RÁDIO HUAWEI H/V, PAA57 IP20S - IP: 10.215.251.170, RDPR1 IP20S - IP: 10.216.192.138<br>ROD. SP 304 KM 146,5<br><br>SEM ACESSO A MADRUGADA<br>Caseiro Italiano 19 99454-6851<br>PROXIMO :TIM PCTP01 <br>OI , VIVO E NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.508306,-22.744557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAR2</name>
+        <description><![CDATA[PORTÃO - PAAPM2 ACESSO <br>GRADIL CONTAINER - Cliq<br>PORTA DO CONTAINER - Cliq<br>QTM-QM GRADIL AR - Papaiz AMR 2020<br><br>MEDIDOR: 3T2526948 ELEKTRO<br>CODIGO: 14629550 IRACEMAPOLIS <br>ROD LIMEIRA/PIRACICABA KM128<br><br>COMPARTILHADO: TIM RLRD 01.                            Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.524311,-22.658405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAR3</name>
+        <description><![CDATA[Concentrador:<br>Portão: PAPAIZ PADRAO PIRA/PAA-PM1<br>Gradil Eltek (ou container): PAA-PM2 <br>Portal Alvenaria (ou container): PAA-PM1<br>Gradil QTM e QM: SPI19-GMA<br>Baterias: Ruim<br>Medidor:<br>Estação na Artemis<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.761651,-22.673685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAR4</name>
+        <description><![CDATA[ELTEK - SPI19P <br>QTM - PAPAIZ PADRÃO <br>PORTÃO - PAAPM2<br>MEDIDOR 209439033 COD. 38159414                             Responsavel: Anderson Freitas.                               Concentra SIPAA63<br><br>ROD SP 127 : KM16 ESTRADA PIRACICABA 18 ( TANQUINHO)<br><br>PROXIMO<br>OI : PAA5248<br>VIVO]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.586521,-22.575942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAR5 (SPIPAA029OU SITE NEXTEL TX)</name>
+        <description><![CDATA[PORTÃO : BLUETOOTH ATC (PCA002SS)<br>CONTAINER : CLICK NEXTEL<br><br>COMPARTILHADO : <br>TIM<br>OI]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5080960988998,-22.7452669000981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAX1</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.63773,-22.743043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAI3</name>
+        <description><![CDATA[GABINETE ELTEK - PAA-GMV                                      Shopping Piracicaba                                                      Baterias Sem autonomia                                                  Responsável: Anderson Freitas<br><br>COMPARTILHADO :<br>TIM - SI9416]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.649045,-22.703635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA01</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: BLUETOOTH TBSA<br>Gradil Eltek (ou container): CLIQ<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PAPAIZ PADRAO<br>Baterias:<br>Medidor: 30867947<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO TIM PCRD01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6630429551005,-22.7181053850418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA02</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM2<br>Gradil Eltek (ou container): Cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: -Cliq<br>Baterias:<br>Medidor: 301900183<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO <br>TIM PCCT-02<br>OI - PAA5228]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.637239,-22.731048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA03</name>
+        <description><![CDATA[DENTRO DO HOTEL NEW LIFE.                                 Portaria 24hrs<br><br>Concentrador: Não<br>Portão: Lista Acesso<br>Gradil Eltek (ou container): SPI19-P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: ----<br>Baterias:<br>Medidor:                       <br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.650775,-22.724406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA04</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM2<br>Gradil Eltek (ou container): SPI19-P<br>Portal Alvenaria (ou container):<br>Proteção Esteiramento: CLIQ<br>Gradil QTM e QM: PAPAIZ PADRÃO<br>Baterias:<br>Medidor: 306160064<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO : OI]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.65009,-22.738363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA05 / PAA901</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: bluetooth TBSA<br>Gradil Eltek (ou container): CLIQ<br>Portal Alvenaria (ou container): <br>Bts Embratel: K30<br>Gradil QTM e QM: CLIQ/ PAPAIZ PADRAO PIRA<br>Baterias:<br>Medidor: 302180567<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6613882,-22.7393877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA06</name>
+        <description><![CDATA[Concentrador: Sim ( Principal de Piracicaba )<br>Portão: Bluetooth TBSA <br>Gradil Container 1:PAA-PM2<br>Porta container 1: SPI19P-2<br>Gradil container 2: PAA-PM1<br>Gradil QTM e QM: PAPAIZ ESPECÍFICA<br>Baterias:<br>Medidor:<br><br>CO Responsável:Paulo Ricardo<br><br>WIFI: 06 2.4 e 06 5.0<br>Senha: Claro@SIPAA06]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.663164,-22.70355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA07 / PAA965</name>
+        <description><![CDATA[Concentrador: Sim (PAA26 e PAA37)<br>Portão: PAA-PM2<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: cliq<br>Baterias:<br>Medidor: 302296484<br>PAA26 IP10, PAA37 IP20<br>CO Responsável: Paulo Ricardo]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.686844,-22.677897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA09- Anel </name>
+        <description>GAB. ELTEK - SPI19P.                                                  PORTÃO - 1822                                                            Responsável: Anderson Freitas                                Compartilhado VIVO/OI                                               Baterias OK                                         </description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.639851,-22.713751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA10</name>
+        <description><![CDATA[CONCENTRADOR: SIM.                                              PORTÃO - 0009<br>QM - SPI19P<br>G. ELTEK GRADIL SPI19P-V.                                      Concentrador PAA59                            Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.599245,-22.73629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA12 / PAACF</name>
+        <description>ELTEK - SPI19P.                                                            QTM - PAPAIZ PADRÃO                                              PORTÃO - K30.                                                            ALVENARIA: PAPAIZ Padrão Piracicaba/ Cliq                                                                                                                                                                                        Concentrador - SICRQR1, SIPAA30 , SISPD05                                                                                                Responsável: Anderson Freitas </description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.620396,-22.671567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA13</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1822<br>Gradil RRU 850/2100 cliq<br>Gradil Eltek (ou container): cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM: cliq<br>QM: Sem Proteção<br>Baterias:<br>Medidor:<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.620667,-22.7551823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA14</name>
+        <description><![CDATA[Concentrador: Sim (SIPAA51)<br>Portão: PAA-PM1<br>Gradil Eltek (ou container): k30<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM:Papaiz padrão pira<br>Baterias:<br>Medidor:211460354<br><br>CO Responsável: Paulo Ricardo]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.646767,-22.767207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA16 </name>
+        <description><![CDATA[Concentrador:Sim (PAA14 via rádio manda para o PAA51, SIPAA52)<br>Portão: bluetooth TBSA <br>Gradil Eltek (ou container):SPI19-P e CLIQ<br>Portal Alvenaria (ou container):<br>Gradil QM: ---- Papaiz padrão pira<br>Gradil QTM: CLIQ<br>Baterias: sim<br>Medidor: Claro 211532630<br><br>CO Responsável: Paulo Ricardo<br><br>COMPARTILHADO <br>TIM : PCJC01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6664478,-22.7421367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA17</name>
+        <description><![CDATA[Portão SPI19-A<br>Gradil Elteck CLIQ                                                        ECOBOX CLIQ.        <br>QM/QTM- Papaiz                                                        Concentrador: SIPAA10                                              Baterias instalados 14/05/2025 , 4 lítio <br><br>MEDIDOR: 306535599.                                              Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.600614,-22.72566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA20</name>
+        <description><![CDATA[Ed. 15 de Novembro<br><br>Concentrador: Não<br>Portão: Lista de Acesso<br>Gradil Eltek (ou container): ---<br>Portal Alvenaria (ou container): <br>Gradil QTM e QM: ---<br>Baterias:<br>Medidor:<br>Portaria até às 22hrs                                                   síndica apt 51, porteiro Luiz apt 104<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.644742,-22.728499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA23 CONCENTRADOR</name>
+        <description><![CDATA[PREDIO<br>COND. ED. QUINTA DA BOA VISTA<br>SINDICO Lumena apt 71<br>subsíndico apt61 Maria elena<br>ZELADOR EDSON.                                                        Portaria das 08:00 as 12:00 das 13:00 as 17:00<br><br>"CASO ACESSO SEJA NEGADO ENTRAR EM CONTATO COM A ATC, MESMO NUMERO DOS CADEADOS BLUETOOTH"<br><br>Concentrador: Sim ( SICWX09, SIPAA56, SIRDP01)<br>Portão: Lista de Acesso<br>Gradil Eltek (ou container): ---<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: ---<br>Baterias:<br>Medidor: 216598494<br><br>CO Responsável:<br><br>COMPARTILHADO:TIM PCJM01<br><br>E-MAIL quintadaboavista.condominio@gmail.com]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.621528,-22.742832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA26</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: Bluetooth ATC PCA005AT / 1822<br>Gradil Eltek (ou container): SPI19P<br>Gradil 6102 (ou container): PAA-GMV<br>Gradil QTM: Papaiz Padrao<br>Proteção QM: Papaiz Limeira<br>Baterias:<br>Medidor: 306815770<br>Recebe informações via IP10 do PAA07, site sem roteador<br>CO Responsável: Paulo Ricardo Pereira.                  IP DUW: 10.203.153.9<br><br>COMPARTILHADO:<br>VIVO PO3<br>NEXTEL SPIPAA012OU]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.688548,-22.663234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA30</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1822<br>Gradil Eltek (ou container): cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM : cliq<br>QM: Sem Proteção<br>Baterias: Sem autonomia <br>Medidor: 30896941<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.607167,-22.662056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA32</name>
+        <description><![CDATA[DENTRO DO PRÉDIO DA VIVO<br>necessário solicitar chave do portão na portaria do Prédio que fica na RUA ALBANIA 475.                 A entrada do site fica na rua Luiz Razera 730<br><br>Concentrador: Não<br>Portão: Lobato ou Acesso Pontual<br>Gradil Eltek (ou container):Cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM:<br>Baterias:<br>Medidor:<br>Portaria 24hrs<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.637679,-22.742044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA35</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: SPI19P<br>Gradil Eltek (ou container): SPI19P<br>Gradil 6102 (ou container): SPI19P<br>Gradil QTM: SPI19P-2<br>QM: Sem Proteção<br>Baterias:<br>Medidor: 307064395<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO : <br>OI : PAA5247<br>TIM <br>VIVO<br>NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.68283,-22.72407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA36 / PAA967</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1822<br>Gradil Eltek (ou container): cliq<br>Portal Alvenaria (ou container):<br>Bts Embratel: K30<br>Gradil QTM: cliq<br>Gradil QM: k30<br>Baterias:<br>Medidor: 213749742<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO<br>TIM PCVN01<br>VIVO IDS<br>NEXTEL SPIPAA010OU]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.667747,-22.683983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA37</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM1<br>Gradil Eltek (ou container): PAA-GMV<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: Cliq<br>Baterias:<br>Medidor: 30746631<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6589,-22.6746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA44</name>
+        <description><![CDATA[DENTRO DA ARCELOMITAL<br><br>Concentrador: Não<br>Portão: Necessário Planilha e Integração<br>Gradil Eltek (ou container): ---<br>Portal Alvenaria (ou container): ---<br>Gradil QTM e QM: ---<br>Baterias:<br>Medidor:<br>Contatos para acesso:                                   Raulison (19) 995955611.                                         Jonatan (19) 981142137<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6536599,-22.697174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA45</name>
+        <description><![CDATA[Concentrador: NãoPortão: T4UGradil Eltek (ou container): CLIQPortal Alvenaria (ou container):Gradil QTM e QM: CLIQBaterias:Medidor: 31208443<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6288980990648,-22.7196956117866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA46</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAPAIZ ATC<br>Gradil Eltek (ou container): SPI19P-2<br>Portal Alvenaria (ou container):<br>Gradil QTM: PAA-GMV<br>QM: Sem cadeado<br>Baterias:<br>Medidor: 30990388<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>Tim: PCPL-01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.649611,-22.750102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA47</name>
+        <description><![CDATA[PORTÃO Bluetooth SBA.                                            BR55094-A<br>GRADIL ELTEK SPI19P - <br>GRADIL QTM SPI19P <br>Bateria OK<br>MEDIDOR CLARO 306551616 R: ORLANDIA N:10<br>NEXTEL MEDIDOR 220022860 R: ORLANDIA N:10<br><br>OI PAA5235<br>VIVO UNIP PUN.                                                                 Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.59147,-22.773918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA48</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: bluetooth SBA <br>Gradil Eltek (ou container): cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM: cliq<br>QM: Sem Proteção<br>Baterias: Favor atualizar, ajuda parceiros no plantão 03/2024<br>Medidor:<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO<br>TIM<br>NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.656468,-22.753352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA49 </name>
+        <description><![CDATA[Portão: T4U                                                                  Container CLIQ CLARO                                              QTM- PAPAIZ Padrão Limeira 1                                Baterias OK.      <br>Responsável: Anderson Freitas<br>COMPARTILHADO :<br>TIM : SI9662<br>VIVO :                                                                              Caso o portão esteja fechado chamar o vigia que fica na empresa]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7130031213164,-22.6802310683391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA51</name>
+        <description><![CDATA[ELTEK - SPI19P <br>PORTÃO PAPAIZ ATC                                                  Baterias OK.                                                                  Responsavel: Anderson Freitas                                Compartilhado TIm]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.584462,-22.784916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA52 / PAA962 / SPIPAA018OU</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: Segredo 1822<br>Gradil Eltek (ou container): SPI19P-2<br>Portal Alvenaria (ou container):NXT<br>Bts Embratel: K30<br>Gradil QM: Papaiz ATC<br>Gradil QTM: PAPAIZ PADRAO<br>Baterias:<br>Medidor:<br>OBS:PAA52 NXT É O TX DO PAA62<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.63815,-22.755795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA53</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1906 / PAA-GMV Fundo<br>Gradil Eltek (ou container): Cliq<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: Cliq<br>Baterias: solicitadas dia 23/11/2023<br>Medidor: 306350610<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.684599,-22.711536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA55</name>
+        <description><![CDATA[Concentrador: Não (ponta via fibra)<br>Portão: 2703<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PAPAIZ PADRÃO<br>Baterias:<br>Medidor: 22967897<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO: OI PAA3177<br>✓]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6780769,-22.7539283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA56</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: Bluetooth ATC PCA008AT/1822<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: 1822<br>Baterias: sem autonomia solicitado dia 18/05/2023<br>Medidor: 22535347<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>AV: SANTA CRUZ DO RIO PARDO <br>COMPARTILHADO VIVO]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.614077,-22.795874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA57</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1906<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM: 1906<br>QM:<br>Baterias: sem autonomia, solicitado 03/2023<br>Medidor: 302107070<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>ESTRADA 18 BAIRRO TUPI <br>RUA 8]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.537727,-22.772824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA58 (ANTIGO SICWX09)</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 4964<br>Gradil Eltek (ou container): CLIQ<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: ---<br>Baterias:<br>Medidor: VIVO 304717762<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO<br>TIM<br>VIVO - CCI]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6168509,-22.7288664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA59 </name>
+        <description><![CDATA[Eltek Cliq Claro                                                            Senha 1822                                                                  QTM CLIQ.                                                                    Baterias: OK.<br><br>Senha acesso local rádio Huawei:<br>User: szhw / senha: Nxt_hw$2018     <br><br>Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5585166,-22.7273468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA62 NEXTEL</name>
+        <description><![CDATA[Site Nextel SPIPAA004OU<br>Cadeado do portão 7x7 padrão Nextel                     Senha 2999                                                                 Baterias OK                                                                   Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6560601592064,-22.7726183951702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA64 </name>
+        <description><![CDATA[Portão: 1822<br>Container: Cliq CLARO <br>Gradil QTM e QM: Sem<br>Blindagem Esteiramento: CLIQ<br>Baterias: OK. Instaladas 22/11/2022                      IP50 Horizontal  SIPAA16 X SIPAA64<br>10.218.169.139<br>IP50 Vertical.  SIPAA16 X SIPAA64.                          10.218.169.147<br>CO Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6771245524287,-22.7440477084949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA63 </name>
+        <description><![CDATA[site Nextel SPIPAA030OU<br>Concentrador: Não/ TX SIPAAR4<br>Portão: 1822<br>Gradil Eltek (ou container): Cliq CLARO <br>Gradil QTM e QM: Sem<br>Baterias:OK<br>Medidor:305467590 / UC:41506472<br>CO Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5958573073149,-22.6099254291549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA65 </name>
+        <description><![CDATA[Sigla ATC SPO419NX<br>Concentrador: Não( Recebe RTN950 SIPAA04)<br>Portão: Lista de Acesso<br>Gradil Eltek (ou container):<br>Gradil QTM e QM: Sem<br>Baterias: Não tem<br>Medidor:<br>telefone portaria: 3434-1039/ Adalto Síndico 19998390811<br>CO Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6448743417859,-22.7347947318127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA66 </name>
+        <description><![CDATA[Roof Top Hotel Royal Park (19) 3433-6955<br>Concentrador: Não, Site em Anel<br>Portão: Lista de Acesso<br>Baterias: OK instalado 26/10/2023<br>Compartilhado Tim SPPAA 0002.                            <br><br>CO Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6471273973584,-22.7175304618786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA68 (SPIPAA020OU) SITE NEXTEL TX</name>
+        <description><![CDATA[PORTÃO : PAPAIZ ATC (CAS056NP)<br>CONTAINER : CLICK NEXTEL<br>COMPARTILHADO :<br>TIM : PCMM05<br>OI : <br>VIVO :]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6552803069353,-22.7021439529876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA67 / SPIPAA023OU SITE NEXTEL TX</name>
+        <description><![CDATA[PORTÃO : NEXTEL & CLARO<br>CONTAINER : CLICK NEXTEL.                                   JUNTO COM O PAA35]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6829054,-22.7240753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA60/SPIPAA026OU SITE NEXTEL TX</name>
+        <description><![CDATA[Portão: PAA-PM1<br>Container: CLIQ NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6203371584415,-22.6715504432069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA61 
+</name>
+        <description>PORTAO PAA-GMV                         CONTAINER:PAPAIZ PADRÃO PIRA/ Cliq Claro.    Site em anel SIPAA13/SIPAA32                                RESPONSÁVEL ANDERSON FREITAS                     Bateria Ok DEZ/23</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.597801,-22.757146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA71</name>
+        <description>Portão senha 1822.                                                    Gradil Gabinete: CLIQ                                                   Site sem bateria </description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.662461,-22.775697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA74</name>
+        <description>Site dentro de uma empresa de galpão.                 Lista de acesso, porteiro eletrônico.                        Portão:                                                                          Gradil: Cliq.                                                                   Qtm: papaiz</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5899718,-22.7269171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA75</name>
+        <description><![CDATA[Gradil: Cliq<br>Blindagem Esteira: Cliq]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6373189,-22.6891477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA76</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6355402,-22.7221272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA78</name>
+        <description>Gradil: Cliq - Portao: 1703</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6352086,-22.7371035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA79</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem cabos: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.611337,-22.7428511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA82</name>
+        <description><![CDATA[Portão: 1822.                                                        Gradil: CLIQ<br>Envelopamento: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6983029,-22.6731486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA81</name>
+        <description><![CDATA[Portão 1822     <br>Gradil: Cliq                                                                 <br>QTM Papaiz padrão pira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6553232,-22.6871208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA84</name>
+        <description><![CDATA[Portão: 1822<br> Gradil: CLIQ<br>Qtm: papaiz Piracicaba ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6096574,-22.761306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA83</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem cabos: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6264949,-22.7314814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA85</name>
+        <description><![CDATA[Portão: 1822                                                                Gradil: CLIQ<br>Blindagem cabos: CLIQ.                                             Sem bateria]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5910359,-22.7654888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA86</name>
+        <description><![CDATA[Portão 0003 <br>Gradil: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6756182,-22.6755261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA87</name>
+        <description><![CDATA[Gradil: Cliq<br>Blindagem cabos: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.7055272,-22.666098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA88</name>
+        <description><![CDATA[Gradil: Clq<br>Blindagem cabos: Cliq]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5774933,-22.7335239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA89</name>
+        <description>Gradil: Cliq</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.680363,-22.6935036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA91</name>
+        <description><![CDATA[Portão: 0020.   Gradil: Cliq<br>Blindagem Esteira: Cliq]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.668515,-22.698349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SICWX08</name>
+        <description><![CDATA[Para acessar necessário ligar para Gentil: 996795209<br>Não tem outras chaves!<br><br>Hora que chegar no ponto de acesso vc irá ver uma placa no poste com uma seta de proibido ir reto, entrar no portão do lado esquerdo com uma placa amarela de proibido entrada<br><br>IP ROTEADOR: 10.215.32.68]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5911474,-22.7015575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SICWX08 ACESSO</name>
+        <description><![CDATA[Para acessar necessário ligar para Gentil: 996795209<br><br>Hora que chegar no ponto de acesso vc irá ver uma placa no poste com uma seta de proibido ir reto, entrar no portão do lado esquerdo com uma placa amarela de proibido entrada]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5885079,-22.7042529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAA RO - HEDDEND - SIPAA2E</name>
+        <description>EQUIP NO PREDIO DO HEDEND, ACESSO POR BIOMETRIA</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.64912,-22.720424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAA903</name>
+        <description><![CDATA[Concentrador:<br>Portão: PAA-PM1<br>Gradil Eltek (ou container): Padrão Papaiz<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: Sem Proteção<br>Baterias:<br>Medidor: 30464187-1<br><br>CO Responsável: Paulo Ricardo]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.644322,-22.724262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAA961</name>
+        <description><![CDATA[Concentrador:<br>Portão: Papaiz ATC<br>Gradil Eltek (ou container):<br>Portal Alvenaria (ou container):<br>BTS Embratel: K30<br>Gradil QTM e QM: Sem Proteção<br>Baterias:<br>Medidor: 211531057<br><br>CO Responsável: Paulo Ricardo<br><br>Compartilhado Vivo]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6299588,-22.7277768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SPIPAA018OU SITE NEXTEL TX</name>
+        <description><![CDATA[PORTÃO : PAPAIZ<br>CONTAINER : CLICK NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6381892710924,-22.7557348650392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PAA GC</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.63262,-22.718443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0091F</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.658179,-22.69763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0088F</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.677183,-22.696749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0101R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.650639,-22.703611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI022R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.657412,-22.698242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0057F</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.648059,-22.72604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0103R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.677789,-22.723066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SI0056F</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6498,-22.703871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAAA1</name>
+        <description>Portão: 0029</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6692847,-22.7304053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SÃO PEDRO / ÁGUAS DE SÃO PEDRO</name>
+      <Placemark>
+        <name>SISPD01</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: BLUETOOTH TBSA <br>Gradil Eltek (ou container):PAA-GMV<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PAPAIZ PADRAO PIRA<br>Gradil RRU: AUD 42<br>Baterias: 3 BANCOS LITHIUM<br>Medidor:30763539<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>COMPARTILHADO : TIM DRCT01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.914609,-22.55152,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD02</name>
+        <description><![CDATA[Concentrador: Sim ( SISPD03 )<br>Portão: 8523<br>Gradil Eltek (ou container): Cliq<br>Gradil 6102 (ou container): SPI19P<br>Gradil QTM e QM: PAPAIZ PADRÃO<br>Baterias:<br>Medidor:<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.89927,-22.551031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD03</name>
+        <description><![CDATA[DETENTORA SBA BR76940-A19                      Concentrador: Não<br>Portão: 1822<br>Gradil Eltek (ou container): PAA-GMV<br>Portal Alvenaria (ou container):<br>Gradil QTM: PAPAIZ PADRÃO<br>Gradil QM: Sem proteção<br>Baterias:<br>Medidor: 30771286<br><br>CO Responsável: Paulo Ricardo Pereira<br>Para prender o cachorro ligar para:                          Nadeli: 99643-6820.                                                    Gutenberg: 99687-5746<br><br>COMPARTILHADO:<br>TIM - DRCT02 MEDIDOR 306439042<br>VIVO. MEDIDOR 22817246<br>OI SPSPD0891 MEDIDOR 22976146<br>✓]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.93689,-22.568594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD05</name>
+        <description><![CDATA[Concentrador: Sim ( SISPD01, SISPD02, SICHQ01 )<br>Portão: T4U<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PAPAIZ PADRAO<br>Baterias:<br>Medidor: 30913894<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>R:ADOLPHINA CIBELLO N:17<br>B: MIRANTE DE SÃO PEDRO]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.931828,-22.552996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD06</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: 1906 ou 1902<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM: SPI19-GMA<br>Gradil QM: 1906<br>Baterias: sem autonomia, solicitado solicitado dia 07/02<br>Medidor: 30801286<br><br>CO Responsável: Paulo Ricardo Pereira<br><br>R: AQUARELA 47<br>( SÃO PEDRO )]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.852991,-22.617056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISMY01</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM1<br>Gradil Eltek (ou container):SPI19-P2<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PAPAIZ PADRAO<br>Baterias:<br>Medidor: 303497157<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -48.151281774044,-22.5671091700026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIASO01</name>
+        <description><![CDATA[Concentrador: SIM (SIPAAR3,SISPD06)Portão: BLUETOOTH TBSAGradil Eltek (ou container):SPI19P1Portal Alvenaria (ou container): CLIQGradil QTM e QM:Gradil RRU:Baterias:Medidor:<br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.870647,-22.597215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD10 (em implantação)</name>
+        <description>Gradil: CLIQ</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.815789,-22.621552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD08</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem esteria: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.9056273,-22.5388003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISPD07</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem esteiramento: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.857487,-22.644753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPAA80</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.644549,-22.7091461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>CHARQUEADA</name>
+      <Placemark>
+        <name>SICHQ01</name>
+        <description><![CDATA[Concentrador: Sim ( SIASO01 )<br>Portão: PAA-PM2<br>Gradil Eltek (ou container): CLICK<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: CLICK<br>Baterias:<br>Medidor: 205236634<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.777256,-22.508712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SICRQR1</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM1<br>Gradil Eltek (ou container): SPI19P<br>Portal Alvenaria (ou container):<br>Gradil QTM e QM: PADRAO PAPAIZ<br>Baterias:<br>Medidor:<br><br>CO Responsável: Paulo Ricardo Pereira]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.712165,-22.582002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SICHQ04</name>
+        <description>Site TX Satelite</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6974664,-22.5839896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>RIO DAS PEDRAS / SALTINHO</name>
+      <Placemark>
+        <name>SIRDP01/ RDP01 EBT</name>
+        <description><![CDATA[Concentrador: Sim (SLN01, RDP02)<br>Portão: 0001<br>Gradil Eltek: SPI19-GMA<br>BTS EBT: PAPAIZ PDR 2020<br>Gradil QTM: SPI19-P<br>Gradil QM: Papaiz RDP01<br>Baterias: Ok<br>Medidor: 205722296<br>Endereço: R: BENJAMIM CONSTANTI 204<br>CO Responsável: Sartorato<br><br>Envia nf para PAA23 IP20V - 10.216.209.211 IP20H - 10.216.209.203<br>Mini Link SLN01 10.219.189.186 IP20 RDP02 10.216.218.50<br>COMPARTILHADO : TIM RRCT01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6057003,-22.8466306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIRDP02</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: T4U<br>Gradil Eltek: SPI19-A e papaiz Silvio 2025<br>Gradil QTM/QM: PAPAIZ PDR (STB13/CPR08)<br>Baterias: ok<br>Medidor: 30998079<br>Endereço: <br>CO Responsável: Sartorato<br><br>IP20 - 10.216.218.51]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.606255,-22.859724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIRDP02 ACESSO</name>
+        <description><![CDATA[GRADIL SPI19-A<br>PORTAO SPI19P-2<br>QTM PADRAO PAPAIZ<br>✓]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.604972,-22.852015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIRDPR1</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM1<br>Gradil Eltek: SPI19A<br>Gradil QTM/QM: PAPAIZ PIRACICABA<br>Baterias: Boas<br>Medidor: 204985480<br>Código: 37618288<br>Endereço: ROD. DO AÇUCAR (SP308) KM147<br>B LAMBARI DE CIMA S/N <br>EM FRENTE AO PEDAGIO                                           Manda inf via IP20 para PAAR1 10.216.192.139<br>CO Responsável: Sartorato]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.559294,-22.845897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISLN01</name>
+        <description><![CDATA[Concentrador: SLN02<br>Portão: papaiz padrão 2020 AMR<br>Gradil Eltek: UAD10.3<br>Gradil QTM: PAPAIZ 2020 AMR<br>Gradil QM: SPI19-A2<br>Baterias: Ok<br>Medidor: 20892401 9<br>Manda inf via M.Link para RDP01          IP:10.218.189.187H/V                                                 Manda inf via IP50 para SLN02                         IPH:10.218.167.26 IPV:10.218167.18          <br>CO Responsável: Sartorato]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.688818,-22.864576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISLN02 </name>
+        <description><![CDATA[Concentrador: Não                   <br>Portão: SENHA 0884<br>Gradil: ATC PAPAIZ e CLIK CLARO<br>QTM/QM: ATC PAPAIZ<br>Baterias: Ok Litio<br>Medidor: <br>Endereço: <br>CO Responsável: Sartorato<br>Ip50 SLN02 X SLN01 IP:10.218.167.19V, 10.218167.27H<br>Nextel: SPISAL001OU]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.679038643837,-22.8470515315821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RDP MF EMBRATEL</name>
+        <description><![CDATA[PORTÃO PAPAIZ<br>GRADIL PAPAIZ<br>PORTA ALVENARIA TETRA IGUAL PAACF<br><br>MEDIDOR 301822980 CPFL]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6077314466238,-22.8649086260665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIRDPR1 ACESSO</name>
+        <description><![CDATA[MEDIDOR : 20498548-0<br>CHAVE ACESSO : PAAPM1<br>CHAVE GRADIL : SPI19 P1<br>REFERÊNCIA : ( SITE FICA EM FRENTE AO PEDÁGIO ) RODOVIA DO AÇÚCAR]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.5681222602725,-22.817111640432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIRDP03</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem esteireamento: CLIQ.                               SIRDP03 X SIPAA14 Mini Link IP 10.216.91.219]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.6021957,-22.8314641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

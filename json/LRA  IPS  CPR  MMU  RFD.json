@@ -1,0 +1,527 @@
+{
+    "SILRA1E": {
+        "nome_original": "SILRA1E / LRAHG",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.541278",
+        "longitude": "-47.385657",
+        "descricao": "Concentrador: Sim\nPortão: SPI19L\nPorta Alvenaria: SPI19L\nRoteador: ROTI-V\nGMG : EBT G\nGradil QTM e QM : Papaiz Padrão 1 (Limeira)\nMedidor: AR028909-5\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRAR1": {
+        "nome_original": "SILRAR1",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.608162",
+        "longitude": "-47.476927",
+        "descricao": "Concentrador: Sim (SILRAR2, SIPAAR4, SIIPS01)\nPortão: Bluetooth TBSA\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): TESSM1 (Bola vermelha)\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim\nMedidor: \n\nCO Responsável:Caio Fioravante"
+    },
+    "SILRAR2": {
+        "nome_original": "SILRAR2 ACESSO",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.6592521",
+        "longitude": "-47.4898458",
+        "descricao": ""
+    },
+    "SILRAR3": {
+        "nome_original": "SILRAR3",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.53499",
+        "longitude": "-47.469222",
+        "descricao": "Concentrador: Não\nPortão: Papaiz Padrão LRA\nGradil Eltek (ou container):\nPorta Alvenaria (ou container) Cliq\nGradil QTM e QM: Cliq e SPI19L\nBaterias: Sim\nMedidor: AR0046478 COD 3024980\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRAR4": {
+        "nome_original": "SILRAR4",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.705011",
+        "longitude": "-47.455585",
+        "descricao": "Concentrador: Não \nPortão: Bluetooth ATC\nGradil Eltek (ou container): Cliq (Ecobox)\nPorta Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: Sim\nMedidor:\nRecebe Inf via rádio do STBR3\nCO Responsável:Caio Fioravante\n\nCOMPARTILHADO: TIM LMBN01 / SI9437\nOI LRA5158"
+    },
+    "SILRAX2": {
+        "nome_original": "SILRAX2",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.592161",
+        "longitude": "-47.411528",
+        "descricao": "Concentrador: Não\nPortão: PTP-SP (T4U)\nGradil Eltek (ou container): Cliq\nPorta Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: Sim\nMedidor:                                                                        RÁDIOS SEM GERÊNCIA \nAlarme de outra operadora no local necessário ligar no (11) 2144-6299 para liberação \nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO:\nTIM - LMPN02 / SI9425"
+    },
+    "SILRAX3": {
+        "nome_original": "SILRAX3",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.560063",
+        "longitude": "-47.435296",
+        "descricao": "Concentrador: Sim (SILRA16)\n\nNecessário Ligar NOC BELEM para desativar alarme! 0800 703 8716 ou 0800 085 1234\n\nGPON no Container junto com a Móvel\n\nPortão: 1984\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): Não tem\nGradil QTM e QM: Papaiz Padrão Piracicaba\nBaterias: Sim\nMedidor:3T467510-0\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : TIM LMJP01\nMEDIDOR : TIM B1672223-3"
+    },
+    "SILRA01": {
+        "nome_original": "SILRA01",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.556751",
+        "longitude": "-47.402406",
+        "descricao": "Concentrador: Sim (SILRA36 e SILRA37)\nPortão: Bluetooth TBSA\nGradil Eltek (ou container): Cliq\nPorta Alvenaria (ou container): Padrão Alvenaria (TAG165 Informação para a Larissa)\nGradil QTM e QM: Cliq\nBaterias: OK\nMedidor:\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO:TIM LMCT01"
+    },
+    "SILRA03": {
+        "nome_original": "SILRA03",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.56221",
+        "longitude": "-47.391017",
+        "descricao": "Concentrador: Não\n\nGPON no Container junto com a Móvel\n\nPortão: BLUETOOTH TBSA \nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): Não Tem\nGradil QTM e QM: Papaiz Padrão 1. (Limeira)\nBaterias: Sim\nMedidor:\n\nCO Responsável: Caio Fioravante\n\nMEDIDOR TM0001748 ELEKTRO\n\nCOMPARTILHADO : TIM LMBD01"
+    },
+    "SILRA04": {
+        "nome_original": "SILRA04",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.565575",
+        "longitude": "-47.415095",
+        "descricao": "Concentrador: Sim (SILRA08)\n\nGPON no Container junto com a Móvel\n\nPortão: BLUETOOTH TBSA\nGradil Eltek (ou container): CLIQ\nPorta Alvenaria (ou container):\nGradil QTM e QM: CLIQ\nBaterias:sim\nCod Instalação Elektro: 3258506\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : OI LRA5122"
+    },
+    "SILRA05": {
+        "nome_original": "SILRA05",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.586952",
+        "longitude": "-47.373433",
+        "descricao": "Concentrador: Sim (SILRA24, SILRA39)\nPortão: Bluetooth TBSA (Segredo 1922)\nGradil Eltek (ou container):CLIQ\nPorta Alvenaria (ou container): Não têm\nGradil QTM e QM: Cliq\nBaterias: Sim\nMedidor:\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : TIM - LMSL01\nVIVO\nNEXTEL - SPILRA010OU"
+    },
+    "SILRA06": {
+        "nome_original": "SILRA06",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.530726",
+        "longitude": "-47.386924",
+        "descricao": "Dentro da empresa GF Lanternas.\nGradil: Cliq"
+    },
+    "SILRA07": {
+        "nome_original": "SILRA07",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.603909",
+        "longitude": "-47.415897",
+        "descricao": "Concentrador: Sim (SILRAX2)\n\nGPON no ELTEK\nNecessário ligar no NOC BELEM para acesso.\nPortão: PAAPM2\nGradil Eltek (ou container):Cliq\nPorta Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: sim\nMedidor: B15141857\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : TIM LMJR01"
+    },
+    "SILRA08": {
+        "nome_original": "SILRA08",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.574443",
+        "longitude": "-47.425282",
+        "descricao": "Concentrador: Não\nPortão:  Segredo 1822\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): PAPAIZ Padrao Limeira\nGradil QTM e QM: \nBaterias: sim\nMedidor:\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA10": {
+        "nome_original": "SILRA10",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.570012",
+        "longitude": "-47.383693",
+        "descricao": "Concentrador: Não\nPortão: Bluetooth TBSA\nGradil Eltek (ou container): PAAGMV\nProteção cabos: CLIQ\nPorta Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: sim (5 bancos)\nMedidor: 3T3661865\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA11": {
+        "nome_original": "SILRA11",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.559952",
+        "longitude": "-47.365845",
+        "descricao": "Concentrador: Sim (SILRAR1)\nPortão: PAAPM2\nGradil Eltek (ou container): Cliq\nPorta Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: Sim\nMedidor: 3T64827\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA12": {
+        "nome_original": "SILRA12 (Site desmobilizado)",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.589495",
+        "longitude": "-47.421383",
+        "descricao": "-22.5894953, -47.4213831"
+    },
+    "SILRA14": {
+        "nome_original": "SILRA14",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.553913",
+        "longitude": "-47.423745",
+        "descricao": "Concentrador: Não\nPortão: Não tem (Dentro do restaurante +55 19 98822-7307 Nilson)\nGradil Eltek (ou container): SPI19L\nroteção esteira: CLIQ\nGradil QTM e QM: Não têm\nBaterias: Sim\nMedidor: B13775840\n\nCO Responsável: Caio Fioravante\n\ncod: 36845248"
+    },
+    "SILRA16": {
+        "nome_original": "SILRA16",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.574",
+        "longitude": "-47.44233",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1906\nGradil Eltek (ou container): CLIQ\nPorta Alvenaria (ou container):\nGradil QTM e QM: CLIQ\nBaterias: Sim\nMedidor:\n\nCO Responsável:Caio Fioravante"
+    },
+    "SILRA17": {
+        "nome_original": "SILRA17",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.551022",
+        "longitude": "-47.380017",
+        "descricao": "Concentrador: Não\nPortão: SPI19L2\nGradil Eltek (ou container): Cliq\n\nPorta Alvenaria (ou container):\nGradil QTM e QM: PAAGMV\nBaterias: Sim\nMedidor:\nSite via fibra linear\nCO Responsável:Caio Fioravante\nAcesso restrito 8h as 17h.\nGISLAINE 99873- 4378"
+    },
+    "SILRA18": {
+        "nome_original": "SILRA18",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5664022",
+        "longitude": "-47.4034884",
+        "descricao": "Concentrador: Não\nPortão: Papaiz Vivo (Retirar na Vivo em Piracicaba)\nGradil Eltek (ou container): Não tem\nPorta Alvenaria (ou container): Bluetooth VA Acess\nGradil QTM e QM: Nao têm\nBaterias: Sim\nMedidor:B13372380\nCódigo: 36104051\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA19": {
+        "nome_original": "SILRA19",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.573518",
+        "longitude": "-47.374247",
+        "descricao": "Concentrador: Não\nPortão: Bluetooth TBSA\nGradil Eltek (ou container): \nPorta Alvenaria (ou container): Papaiz Padrão LRA\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim\nMedidor: 3T2275104\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO: TIM - LMPH01\nOI - LRA5130"
+    },
+    "SILRA23": {
+        "nome_original": "SILRA23",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.58502",
+        "longitude": "-47.4494",
+        "descricao": "Concentrador: Não (Recebe do LRA54)\nPortão: Cadeado Bluetooth SBA (Segredo 2681)\nGradil Eltek (ou container): PAAGMV\nPortal Alvenaria (ou container):\nGradil QTM: SPI19L2\nBaterias: OK\nMedidor: B1109890-6\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO :\nTIM - LMVL01\nOI- SPLRA1596\nVIVO"
+    },
+    "SILRA24": {
+        "nome_original": "SILRA24",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.592906",
+        "longitude": "-47.354383",
+        "descricao": "Concentrador: Não\nPortão: PAAPM1\nGradil Eltek (ou container): CLIQ\nPorta Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim\nMedidor: 3T4268075 Código: 36495247\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA25": {
+        "nome_original": "SILRA25",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.575887",
+        "longitude": "-47.405861",
+        "descricao": "Site SBA - BR55077-A\nConcentrador: Não\nPortão: senha 1822\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 Limeira\nBaterias: \nMedidor: 3T4268075 Código: 3T503335-9\nCompartilhado : VIVO / OI \nCO Responsável: Caio Fioravante"
+    },
+    "SILRA29": {
+        "nome_original": "SILRA29",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5508",
+        "longitude": "-47.3569",
+        "descricao": "Concentrador: Não\nPortão Papaiz Padrão ATC- Dentro do Motel Flamboyant contato 19-3441595\nGradil Eltek (ou container): K30\nPorta Alvenaria (ou container):\nGradil QTM e QM:\nBaterias:\nMedidor: B15560370\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA36": {
+        "nome_original": "SILRA36",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.542141",
+        "longitude": "-47.404568",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1822\nGradil Eltek (ou container): CLIQ\nPortal Alvenaria (ou container):\nGradil QTM e QM: SPI19L2\nBaterias: Sim\nMedidor: B19283958\nUC:9432965\nCO Responsável: Caio Fioravante\n\nCompartilhado: TIM LMER02"
+    },
+    "SILRA37": {
+        "nome_original": "SILRA37",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.54085",
+        "longitude": "-47.42369",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1906\nGradil Eltek (ou container): SPI19L\nEsteiramento: CLIQ\nGradil QTM e QM: SPI19L\nBaterias: Sim (Sem autonomia) solicitado dia 26/09/2023\nMedidor: 3T367226-3\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA39": {
+        "nome_original": "SILRA39",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.6327789",
+        "longitude": "-47.3291158",
+        "descricao": "Concentrador: Não\nPortão: Papaiz ATC\nGradil Eltek (ou container): SPI19L\nPortal Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Não\nMedidor: B19140715\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA40": {
+        "nome_original": "SILRA40",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.602214439759",
+        "longitude": "-47.3955023288727",
+        "descricao": "Concentrador: Não\n\nGPON no ELTEK\n\nPortão: Papaiz ATC (LIM006SS)\nGradil Eltek (ou container):Cliq CLARO (GPON) \n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA42": {
+        "nome_original": "SILRA42",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5689723558417",
+        "longitude": "-47.4105877429247",
+        "descricao": "Concentrador: Não\nPortão: K30\nGradil Eltek (ou container):\nPorta Alvenaria (ou container): Papaiz Padrão Limeira e CLIQ\nContainer Embratel: K30\nProteção esteira: Cliq\nGradil QTM e QM:\nBaterias: Ok\nMedidor:\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA43": {
+        "nome_original": "SILRA43",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.565461",
+        "longitude": "-47.440125",
+        "descricao": "Concentrador: Não\n\nNecessário Ligar NOC BELEM para desativar alarme! 0800 703 8716 ou 0800 085 1234\n\nPortão: k30\nGradil Eltek (ou container): Cliq (GPON)\nPorta Alvenaria (ou container):Papaiz Padrão 1 LRA\nGradil QTM:\nBaterias: Não (Somente no GPON)\n\nCO Responsável: Caio Fioravante\n\nIP Rádio: 10.64.68.253"
+    },
+    "SILRA44": {
+        "nome_original": "SILRA44",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5433837031371",
+        "longitude": "-47.390103712678",
+        "descricao": "Concentrador: Não \nPortão: Bluetooth SBA (1822)\nGradil Elteck (ou container): CLIQ\nBlindagem esteiramento: CLIQ\nGradil QTM e QM:Chave papaiz Limeira \n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA46": {
+        "nome_original": "SILRA46",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5555341",
+        "longitude": "-47.4103105",
+        "descricao": "Concentrador: Não\nPortão: Prédio Síndica Suzana 19 99485-7000 APTO 51 acesso das 08:00 ao 12:00 segunda a sábado \nGradil Eltek (ou container):\nPorta Alvenaria (ou container):\nGradil QTM e QM:\nBaterias:\nMedidor:\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA48": {
+        "nome_original": "SILRA48",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.59623",
+        "longitude": "-47.323008",
+        "descricao": "Tx via satélite.\nSem Roteador.\nPorteira pro site: Chave Pado específica (TAG 109) Medidor: 46450998"
+    },
+    "SILRA51": {
+        "nome_original": "SILRA51 Site Desmobilizado",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5652822",
+        "longitude": "-47.363457",
+        "descricao": "Concentrador: Sim\nPortão: Fica aberto de dia a noite tem que ligar para o caseiro (19)98298 6144 Marcos\nGradil Eltek (ou container): Papaiz Padrão 1 LRA\nPorta Alvenaria (ou container): Papaiz Padrão 1 LRA\nGradil QTM e QM:\nBaterias:\nMedidor: 3T289596-0 / UC:30092930\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA45": {
+        "nome_original": "SILRA45",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5988653345538",
+        "longitude": "-47.4199768155813",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1822 (Papaiz Padrão ATC)\nGradil Eltek (ou container): Chave papaiz Padrao LRA\nPorta Alvenaria (ou container):\nGradil QTM e QM: Cliq\nBaterias: Sim\nMedidor:\n\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA49": {
+        "nome_original": "SILRA49",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5276509",
+        "longitude": "-47.3288061",
+        "descricao": "Portao: 3264\nGradil: PAAPM2"
+    },
+    "SILRA50": {
+        "nome_original": "SILRA50",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5862013",
+        "longitude": "-47.3083883",
+        "descricao": "SIte TX Satélite\nGabinete: SPI19L\nPortao e QTM: Papaiz Padrão LRA"
+    },
+    "SILRA54": {
+        "nome_original": "SILRA54",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.589201",
+        "longitude": "-47.421686",
+        "descricao": "Concentrador: Sim (SILRA23)\nPortão: Prédio ED. ADEMIR A.LASON\nGradil Eltek (ou container):\nPorta Alvenaria (ou container):\nGradil QTM e QM:\nBaterias: Sim\nMedidor:\n\nLigar ggp na rua Levar 20 metros de cabos para ligar no qtm\nCO Responsável: Caio Fioravante"
+    },
+    "SILRA61": {
+        "nome_original": "SILRA61",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.595009",
+        "longitude": "-47.4363834",
+        "descricao": "Portao: 0007 Gradil Cliq"
+    },
+    "SILRA63": {
+        "nome_original": "SILRA63",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5828186",
+        "longitude": "-47.3977266",
+        "descricao": "Gradil: Cliq\nBlindagem Esteira: Cliq"
+    },
+    "SILRA64": {
+        "nome_original": "SILRA64",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5499077",
+        "longitude": "-47.3946834",
+        "descricao": "Gradil: Cliq\nBlindagem cabos: Cliq"
+    },
+    "SILRA65": {
+        "nome_original": "SILRA65",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.582573",
+        "longitude": "-47.4161973",
+        "descricao": "Site novo (Em implantação)\nPortao: PTB-SP ; GRADIL: Cliq"
+    },
+    "SILRA66": {
+        "nome_original": "SILRA66",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5651319",
+        "longitude": "-47.4264356",
+        "descricao": "Gradil Gabinete: Cliq\nBlindagem Esteira: Cliq"
+    },
+    "SILRA67": {
+        "nome_original": "SILRA67",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5561038",
+        "longitude": "-47.3933629",
+        "descricao": "Gradil: Cliq\nEnvelopamento: Cliq Portão:1822"
+    },
+    "SILRA69": {
+        "nome_original": "SILRA69",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5705599",
+        "longitude": "-47.4535305",
+        "descricao": "Portao: 1906 Gradil: Cliq QTM: papaiz padrão PAA"
+    },
+    "SILRA68": {
+        "nome_original": "SILRA68",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5423506",
+        "longitude": "-47.368293",
+        "descricao": "Gradil: CLIQ - Portao: 1822"
+    },
+    "SILRA70": {
+        "nome_original": "SILRA70",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5521561",
+        "longitude": "-47.44698",
+        "descricao": "Gradil: CLIQ\nBlindagem Esteira: CLIQ"
+    },
+    "SILRA74": {
+        "nome_original": "SILRA74",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.604965",
+        "longitude": "-47.3799956",
+        "descricao": ""
+    },
+    "SI0111F": {
+        "nome_original": "SI0111F",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5474897",
+        "longitude": "-47.3437385",
+        "descricao": "Dentro da Empresa Forvia (Faurecia)"
+    },
+    "SILRA59": {
+        "nome_original": "SILRA59",
+        "cidade": "LIMEIRA",
+        "latitude": "-22.5688935",
+        "longitude": "-47.3940026",
+        "descricao": "Gradil: CLIQ\nBlindagem: CLIQ"
+    },
+    "SIIPS01": {
+        "nome_original": "SIIPS01",
+        "cidade": "IRACEMÁPOLIS",
+        "latitude": "-22.580973",
+        "longitude": "-47.504717",
+        "descricao": "Concentrador: Sim (SIIPS02, SIIPS03)\nPortão: PAAPM2\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): \nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim (3 Bancos)\nMedidor: B15472799\n\nCO Responsável:Caio Fioravante"
+    },
+    "SIIPS02": {
+        "nome_original": "SIIPS02",
+        "cidade": "IRACEMÁPOLIS",
+        "latitude": "-22.592259",
+        "longitude": "-47.503943",
+        "descricao": "Concentrador: Não\nPortão: Segredo 1822\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container):\nGradil QTM e QM: Sem cadeado\nBaterias: Sim (3 Bancos)\nMedidor: \n\nCO Responsável:Caio Fioravante"
+    },
+    "SIIPS03": {
+        "nome_original": "SIIPS03",
+        "cidade": "IRACEMÁPOLIS",
+        "latitude": "-22.583037",
+        "longitude": "-47.517925",
+        "descricao": "Concentrador: Não\nPortão: Papaiz Padrão Vivo\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container):\nGradil QTM e QM: K30.                                                Envelopamento cabos: cliq\nBaterias: Sim (3 Bancos)\nMedidor:\n\nCO Responsável:Caio Fioravante\n\nRosi 01934561189"
+    },
+    "SICWX03": {
+        "nome_original": "SICWX03",
+        "cidade": "IRACEMÁPOLIS",
+        "latitude": "-22.6197844",
+        "longitude": "-47.5072617",
+        "descricao": "Empresa GWM\nRadio IP10 sem gerência - \nIP Local 10.202.255.106\nSem roteador"
+    },
+    "SICPRR1": {
+        "nome_original": "SICPRR1",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.99046",
+        "longitude": "-47.398587",
+        "descricao": "-22.99046,-47.398587\n\nConcentrador: Sim CPR08/CPRR4\nPortão: PAA.PM1\nGradil Eltek: SPI19-P2\nGradil QTM: PAA-M1\nGradil QM: PAA-GMV\nBaterias: retirada pelo Silvio, garantia \nMedidor: 307088944\nCódigo: 31351530\nEndereço: R: DOS IPES 135\nCO Responsável: Sartorato\n\nManda Inf via rádio para EFO01   IP50                    HORIZONTAL  10.216.205.251 VERTICAL:10.216.206.3.                                             OBS: ENLACE IP50 TEM CAÍDO EM CHUVA FORTE\nConcentra o CPR08 IP20S 10.216.223.42.              OBS-Tem mais um Ip10 para EFO01 E Huawei 910 para CPRR4"
+    },
+    "SICPRR2": {
+        "nome_original": "SICPRR2 ACESSO",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.9332445",
+        "longitude": "-47.4920364",
+        "descricao": ""
+    },
+    "SICPRR3": {
+        "nome_original": "SICPRR3",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.995937",
+        "longitude": "-47.470646",
+        "descricao": "Concentrador: Sim (RECEBE DO CPR01 E CONCENTRA O CPR05 e CPR04)04 IP10\nPortão Chácara: SPI19-A2\nPortão Site: Cadeado Furtado\nGradil Elteck: SPI19-P2\nGradil QTM/QM: papaiz vermelho\nBaterias: Boas 2 bcs 01/24\nMedidor: 208564950\nCódigo: 37554530 CRT276C S/N\nCO Responsável: Sartorato\nCPR05 - IP20V: 10.216.197.130. IP20S: 10.216.197.130 / 10.216.197.138                             CPR01 - IP20V: 10.216.203.11 IP20C: 10.216.203.19                               \nCaseiro Danilo 19-987193427"
+    },
+    "SICPRR4": {
+        "nome_original": "SICPRR4 Nextel Modernizado",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.9912471457448",
+        "longitude": "-47.4498063325882",
+        "descricao": "Concentrador: Não, Manda inf para CPRR1\nPortão Site: PAAPM1                                        Elteck: K30\nQTM/QDCA: Nextel 7x7/ papaiz padrão Americana \nBaterias: Boas\nMedidor: ?\nCO Responsável: Sartorato\nRádio Huawei 910\nId Nextel SPICPR701OU"
+    },
+    "SICPR01": {
+        "nome_original": "SICPR01",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.993436",
+        "longitude": "-47.507442",
+        "descricao": "-22.993436,-47.50y7442\nConcentrador: Sim\nPortão Site: Bluetooth TBSA\nGradil Elteck: Click\nQTM/QM: Click\nBaterias: ok\nMedidor: 205875602\nCódigo: 30018668\nEndereço: R: SÃO BENEDITO 225\nCO Responsável: Sartorato\n\nIP20V para o CPRR2 10.216.212.194.V                   IP20H para o CPRR2 10.216.203.26 H\nIP20C para o CPRR3 10.216.203.10 V.                     IP20C para o CPRR3 10.216.203.18 H\nSite em anel com CPR02 e EFO02"
+    },
+    "SICPR02": {
+        "nome_original": "SICPR02",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.00367",
+        "longitude": "-47.512582",
+        "descricao": "-23.00367,-47.512582\n\nConcentrador: Não\nPortão Site: PAA-PM1\nGradil Elteck: SPI19-P2\nQTM/QM: SPI19-P2\nBaterias: OK\nMedidor: 306471590\nCódigo: 4000177543\nEndereço: AV: JOSÉ ANNICCHINO 381\nCO Responsável: Sartorato"
+    },
+    "SICPR04": {
+        "nome_original": "SICPR04",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.982562",
+        "longitude": "-47.497746",
+        "descricao": "-22.982562,-47.497746\n\nConcentrador: Não\nPortão Site: 7628\nGradil Elteck: SPI19-A2\nGradil BTS 6000: K30\nGradil QTM: PAPAIZ PADRÃO CAPIVARI\nGradil QM: PAPAIZ PADRÃO PIRACICABA\nBaterias: ok\nMedidor: 307194280\nEndereço: DR JOSÉ LUIZ CABRERA AO LADO N: 42\nCO Responsável: Sartorato"
+    },
+    "SICPR05": {
+        "nome_original": "SICPR05",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.999437",
+        "longitude": "-47.491898",
+        "descricao": "-22.999437,-47.491898\n\nDentro da empresa de Caminhão\n\nConcentrador: Não\nPortão Site: PAA-PM1\nGradil Elteck: UAD10.3\nGradil QTM/QM: CLICK\nBaterias: ok 10/25\nMedidor: 307088944\nEndereço: RUA FAUSTINA FRANCI FRANCCHINO, 620\nCO Responsável: Sartorato\n\nIP20 2X 1+0 manda inf para CPRR3 IP1V 10.216.197.131/IP2H 10.216.197.139"
+    },
+    "SICPR06": {
+        "nome_original": "SICPR06",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.0148343844628",
+        "longitude": "-47.4951118603349",
+        "descricao": "Concentrador: Sim \nPortão Site: CPI002AT Redsquare\nGradil Elteck: SPI19P-2\nGradil QTM/QM: padrão novo 2020\nBaterias: ok\nMedidor: 4001815224\nCódigo: 4001815224.                                                  MINI LINK  SICPR12 IP V/H 10.218.191.218 \nCO Responsável: Sartorato\n\nCOMPARTILHADO : VIVO CVU"
+    },
+    "SICPR07": {
+        "nome_original": "SICPR07",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.02057",
+        "longitude": "-47.509204",
+        "descricao": "Acesso portão a direita com interfone                    Fora de horário comercial ligar para o                      José  19-99654-7621.                                                 Concentrador: Sim\nPortão Chácara: Chamar moradores\nPortão Site: SENHA 1007\nGradil Elteck: SPI19P-2\nGradil QTM: papaiz padrão CPR\nBaterias: Ok\nMedidor: 30867655 N691\nCO Responsável: Sartorato\n\nConcentra CPR06, Site em anel CAS30 X CPR09"
+    },
+    "SICPR08": {
+        "nome_original": "SICPR08 - Dentro do Industrial",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.01124",
+        "longitude": "-47.43888",
+        "descricao": "-23.01124,-47.43888\n\nConcentrador: Não\nPortão Site: SPI19-GMA\nGradil Elteck: SPI19P-2\nGradil QTM/QM: SPI19P-2\nBaterias: ok 10/25\nMedidor: 31050527\nCódigo: 400256450\nEndereço: R. SEBASTIAO DE CAMPOS 340\nCO Responsável: Sartorato\nPortaria: 019999292876\nSite ponta IP20: 10.216.223.43 manda inf para o CPRR1"
+    },
+    "SICPR09": {
+        "nome_original": "SICPR09",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.983964",
+        "longitude": "-47.517117",
+        "descricao": "-22.983964,-47.517117\n\nConcentrador: Não (em anel CPR07 X CPR10)\nPortão Site: Cadeado T4U\nGradil Elteck: PAA-PMP2/ papaiz padrão 2020 AMR\nGradil QTM/QM: SPI1A-A\nBaterias: ok\nMedidor: 30931764\nCódigo: 4002333207\nEndereço: BAIRRO PAGOTTO CAPIVARI\nCO Responsável: Sartorato"
+    },
+    "SICPR10": {
+        "nome_original": "SICPR10",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.984722",
+        "longitude": "-47.477251",
+        "descricao": "-22.984722,-47.477251\n\nConcentrador: Sim CPR09 e em anel com SITIE1E, Rádio para SICPR04\nPortão Site: T4U\nGradil Elteck: PAA-PM2\nGradil QTM/QM: K30\nBaterias: Ok\nMedidor:\nCódigo:\nIP Mini Link DIR SICPR04 IP: 10.218.188.242\nCO Responsável: Sartorato."
+    },
+    "SICPR12": {
+        "nome_original": "SICPR12",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.0234277",
+        "longitude": "-47.446239",
+        "descricao": "Site ponta SICPR12 X SICPR06.                        Portão:                                                                           Gabinete Cofre: CLIQ, retirar chave canhão em Campinas                                                                       QTM: Papaiz padrão 2020 Amr                                 Baterias: Sem Bateria                                                 CO responsável: Sartoraro.                                        Mini Link IP: 10.218.191.219"
+    },
+    "SICPR13": {
+        "nome_original": "SICPR13",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.0041631",
+        "longitude": "-47.5246166",
+        "descricao": "Em.anel                                                                           Portão: segundo 1822                                               Gabinete Cofre: Click.                                                Baterias: Ok                                                                Qtm.: papaiz                                                              Envelopamento: Click                                                  Co responsável: Sartoraro"
+    },
+    "SIMMU01": {
+        "nome_original": "SIMMU01",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.929405",
+        "longitude": "-47.569182",
+        "descricao": "Concentrador: Sim MMU02\nPortão: PAA.PM2\nGradil Eltek: UAD-10.3\nGradil QTM: Furtado\nGradil QM: Padrão Pira\nBaterias: ok.                                                                   Recebe inf via rádio de RFD01, que está em anel com SLO1E         IP20 = 10.216.216.242\nMedidor: 301736120\nManda inf via rádio RTN910 para MMU02\nEndereço:\nCO Responsável: Sartorato\n\nCOMPARTILHADO:TIM UKCT01"
+    },
+    "SIMMU02": {
+        "nome_original": "SIMMU02 Bluetooth MMU-JO veículos",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-22.9290801143238",
+        "longitude": "-47.5652442499995",
+        "descricao": "Concentrador: Não \nPortão: Bluetooth Vivo acces\nGradil QTM/QM: Nextel 7x7\nBaterias: Ok\nMedidor:\nGabinete ELTECK : Click\nEndereço:\nCO Responsável: Sartorato\n\nbastidor Nextel QTM QDCA com proteção utilizando chave padrão Nextel 7x7\nOBS: MANDA INF PARA MMU01 VIA RÁDIO RTN910"
+    },
+    "SIRFD01": {
+        "nome_original": "SIRFD01",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.018357",
+        "longitude": "-47.530033",
+        "descricao": "Concentrador: SIM, MMU01\nPortão: SPI19-P2\nGradil Eltek: SPI19-P2\nGradil QTM/QM: PAPAIZ PADRÃO 2020\nBaterias: ok\nMedidor: 30793070\nEndereço:\nCO Responsável: Sartorato\nOBS: SITE EM ANEL COM CPR02 E PRF04             IP20S X SIMMU01 IP: 10.216.216.242"
+    },
+    "SIRFD02": {
+        "nome_original": "SIRFD02",
+        "cidade": "CAPIVARI / MOMBUCA / RAFARD",
+        "latitude": "-23.0199685967416",
+        "longitude": "-47.5315751507878",
+        "descricao": "Portão Radaquare CPI002NX\ncontainer com chave click Nextel\nQM/QTM - PAPAIZ PADRÃO PIRACICABA\nsomente Nextel neste site.\nconcentra Mombuca01, 02 \nOBS: RECEBE INF DE MONTE MOR, E MANDA INF PARA MUMBUCA                                             Site sem Baterias, solicitado em 01/2022"
+    }
+}

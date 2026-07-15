@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>AMR / SUM / NDS / STB / HOR</name>
+    <description/>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson-nodesc">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>AMERICANA</name>
+      <Placemark>
+        <name>SIAMR1E /AMROS / AMR935 / SPIAMR006</name>
+        <description><![CDATA[PORTÃO : SPI19A-2<br>PORTA ALVENARIA : PAPAIZ , RETIRAR NA NET <br>GABINETE NORTEL : K30 <br>GMG : EBT-G<br><br>MEDIDOR 401152685.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3184649273753,-22.7370059916837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMRR1</name>
+        <description><![CDATA[Concentrador:<br>Porteira: padrão do site (TAG113)<br>Portão: Bluetooth TBSA <br>Gradil Eltek (ou container): Papaiz Padrão 2 (Limeira)<br>Porta Alvenaria (ou container): <br>Gradil QTM e QM: Papaiz Padrão 1 (Limeira)<br>Baterias: Sim<br>Medidor: TR008305-2<br><br>CO Responsável: Caio Fioravante<br><br>COMPARTILHADO : OI LRA2550]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3152687400579,-22.6671956931665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR01 GPON</name>
+        <description><![CDATA[PORTÃO- BLUETOOTH TBSA<br>249 - SPI19-A2 - CONTAINER<br>GRADIL QM/QTM CLIQ.                                              Responsável: Anderson Freitas<br><br>COMPARTILHADO: TIM ( AMCT01)]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.327376,-22.74573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR02 - Concentrador</name>
+        <description><![CDATA[Portão - CADEADO ELETRONICO TBSA                          <br>Container- PAA GMV<br>QDE- 1822<br>RELÓGIO - MEDIDOR 303685417<br>COMPARTILHADO:TIM AMSL01<br><br>SITE CONCENTRADOR<br><br><br>SIAMR35<br>SIAMR36<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3161089,-22.7384695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR03 GPON</name>
+        <description><![CDATA[PORTÃO Bluetooth TBSA<br>CONTAINER: CLIQ<br>QTM - SPI-19A1.                                                          Baterias OK<br>                                                                                        Responsável: Anderson Freitas.                                IP Roteador correto 10.202.102.129<br><br>MEDIDOR : 30917955 R: FONTE DA SAUDADE 610<br><br>COMPARTILHADO : TIM / OI]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3402676,-22.7523193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR04 </name>
+        <description><![CDATA[SPI19-A-2 & A-1 PORTA CONTAINER<br>SPI19A-V - CONTAINER FRENTE<br>PORTÃO: BLUETOOTH TBSA<br>260 - QTM Chave Bola Preta TESS-M9<br>QM - Papaiz Padrão Pira<br>Senha wi-fi cl@ronet19<br>COM PRIORIZAÇÃO                                                    Responsável: Anderson Freitas.                                Site com monitoramento ligar no Noc Belém <br><br>MEDIDOR CL/ 302268049<br>MEDIDOR EBT/ 213994984<br><br>COMPARTILHADO: TIM AMJL01]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.340453,-22.765281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR05 - Concentrador / AMR931</name>
+        <description><![CDATA[CADEADO ELETRONICO TBSA- PORTÃO<br><br>GRADIL ELTEK 1/2 - CHAVE CLIQ               MEDIDOR CL 205889182<br>MEDIDOR EBT 221190194<br>Fibra óptica Linear SIAMR04<br>COM PRIORIZAÇÃO<br>Instalado 3 Bancos de Baterias de 170A<br>14/09/2021<br>SITE GPON<br>COMPARTILHADO : TIM AMPN01<br><br>Concentrador<br>SIAMR12-Ceregon IP20 S V/H 2+0<br>SIAMR16-Ceregon IP20 S V/H 2+0<br>SIAMR37-Hauwei RTN-320 1+0<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.34835,-22.7253815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR06 - Ponta GPON</name>
+        <description><![CDATA[PORTÃO: Bluetooth       TBSA                                     Gradil Eltek PAAPM1V.                                               GABINETE PAPAIZ PADRÃO AMERICANA              QTM Cliq<br><br>NÚMERO MEDIDOR 30876168 CPFL<br>EST.ISABELA GONÇALVES FERRO SANTA ROSA.<br>ROD. ANHANGUERA KM 123                                    Responsável: Anderson Freitas.                                     Baterias OK]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.276648953557,-22.7383727432909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR07</name>
+        <description><![CDATA[Bluetooth TBSA- PORTÃO<br>GRADIL E QTM- CLIQ<br>MEDIDOR 305293249<br>Fibra - Linear SIAMR04                                               Baterias sem autonomia                                     Responsável: Anderson Freitas.      <br><br>Site Compartilhado<br><br>TIM - AMCA01<br><br><br>R. Alberto Ribeiro, 50 - Parque Res. Jaguari - Americana]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.315818,-22.718967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR08 - Concentrador/ AMR936</name>
+        <description><![CDATA[PORTÃO EXTERNO SENHA 0006<br>241 - PORTÃO INTERNO PAA-PM2V <br>248 - GRADIL GABINETE ELTEK SPI19-GM-A<br>QTM - CLIQ  CONCENTRADOR  SIAMR40                  CO Responsável: Marcelo Viana Guimarães (19) 992024193                                ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2949169,-22.7161364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR09 / AMRRT / GPON</name>
+        <description><![CDATA[PORTAO SPI19A-V <br>ALVENARIA PADO e CONTAINER PAPAIZ<br><br>QM/QTM- PAPAIZ PADRAO AMERICANA<br>MEDIDOR 31027855<br>R: DAS TURMALINAS 91                                            Responsável: Anderson Freitas                                 ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3560268,-22.7427897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR10-TIVOLI Shopping</name>
+        <description><![CDATA[TIVOLI Shopping<br>PORTÃO PADO SHOPPING<br>CONTAINER- CLIQ<br>MEDIDOR 302455124                                                 Responsavel: Anderson  Freitas]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.366235,-22.747519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR11 - Linear</name>
+        <description><![CDATA[PORTÃ   BLUETOOTH TBSA                                      PAA GMV- GRADIL ELTEK<br>Fibra óptica Linear SIAMR04<br>MEDIDOR 305292870.                                                Responsável: Anderson Freitas                                Baterias Baixa autonomia ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.345237,-22.737466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR12 - Ponta ( EMPRESA VICUNHA)</name>
+        <description><![CDATA[TORRE DENTRO DA FIBRA<br>Contato Osvair 19-99222-9111<br><br>Rádio Ceregon IP-20 2+0  Direção SIAMR05                                                                                                   CO Responsável: Marcelo Viana Guimarães (19) 992024193        ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.355934,-22.70086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR13-ANEL( PRÉDIO )</name>
+        <description><![CDATA[EDIFÍCIO VERSAILLES<br>SINDICO OSNI 981847975<br>MEDIDOR 303203420<br>R: IPIRANGA 55<br>ACESSO DAS 8 AS 11 E DAS 13 AS 17<br>Contato sindico Osni 19 98184-7975, contato portaria 19 3461-8523, emai: osniklein@uol.com.br<br>BATERIA 5 BANCO DE LITION SITE: SIAMR13<br>END:VILA REHDER, 55 -CENTRO–AMERICANA-SP<br>CEP: 13465360<br>RF -<br>USIAM13 -        10.202.243.217<br>S01SIAMR13 - 10.215.182.214 <br>S02SIAMR13 - 10.215.182.218<br>S03SIAMR13 - 10.216.73.106<br> ROTEADOR -    10.215.240.193 <br>TX FIBRA SIAMR02-RMP01 Gi0/2/23 | CLARO | FO | SIAMR04-15 <br>SIAMR01-RMP01 Gi0/2/22 | CLARO | FO | SIAMR04-15 <br> CO Responsável: Marcelo Viana Guimarães (19) 992024193          ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.333992,-22.739473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR14 - Concentrador</name>
+        <description><![CDATA[Portao - senha 0010.                                                   GABINETE - Cliq e PAPAIZ Padrão Americana.       Gabinete expansão PAA GMV.                                  QTM / QM - PAPAIZ AMERICANA <br><br><br>CONCENTRADOR - SIAMR39<br><br>MEDIDOR 304270393 R: DO SERRALHEIRO S/N]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.309834,-22.751285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR15 GPON</name>
+        <description><![CDATA[Portão Bluetooth TBSA 0001<br>GRADIL ELTEK CLIQ<br>QM/QTM CLIQ<br>MEDIDOR 302456210 N:363.                                    Bateria Ok                                                                      Site com monitoramento Noc Belém                      Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.350993,-22.780021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR16 GPON</name>
+        <description><![CDATA[PORTÃO- BLUETOOTH TBSA <br>- GRADIL CLIQ<br>- QTM - SPI-19A                                                    Concentrador AMR05                                                  Responsável: Anderson Freitas                                Baterias Baixa autonomia ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3595662,-22.7267765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR17</name>
+        <description><![CDATA[PORTÃO- BLUETOOTH TBSA<br>255 - CLIQ - ELTEK                                                      QTM  CLIQ.                                                        BATERIAS OK<br> RESPONSÁVEL: ANDERSON FREITAS                                                        <br><br>MEDIDOR: 304653977 R:DO POLYESTER ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.305292,-22.697804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR18 - Anel</name>
+        <description><![CDATA[PORTÃO - PAPAIZ ATC<br>GRADIL ELTEK CLIQ<br><br>DETENTORA : ATC<br>SITE COMPARTILHADO<br>VIVO / TIM:SI9329<br>MEDIDOR CLARO: 307228207                                  R: DOM BARRETO 555.                                              BATERIA RUIM                                                             Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.341414,-22.744516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR19 - Gpon</name>
+        <description><![CDATA[PORTÃO Bluetooth TBSA<br>GRADIL Chave PAPAIZ AMERICANA                   Gabinete OLT - CLIQ<br><br>COM PRIORIZAÇÃO<br><br>MEDIDOR:306409755<br>R: STA TEREZA 241]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.303787,-22.728363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR22 - Linear</name>
+        <description><![CDATA[ID ATC AMR005AT                                                      PORTÃO - PADRÃO ATC                                 <br>Gradil-Click<br>QTM-Padrão ATC<br>FIBRA ÓPTICA LINEAR - SIAMR04<br>BANCO DE BATERIAS OK                              <br>Responsável: Anderson Freitas                                MEDIDOR 217981186.]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.349468,-22.714564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR23 - Concentrador</name>
+        <description><![CDATA[PORTAO PAPAIZ ATC<br>GRADIL ELTEK CLIQ<br>FIBRA ÓPTICA LINEAR SIAMR2N                         BATERIA OK<br><br>Concentrador - SIAMR29 RTN_320<br><br>MEDIDOR: 217978630 R: FERDINANDO DRAGO 92.                                                                                  Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.283777,-22.729483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR24</name>
+        <description><![CDATA[TAG 244 PORTÃO - PAA PM1V<br>TAG 249 ELTEK GRADIL (SPI19-A2)<br>QTM - PAPAIZ PADRÃO NOVO 2020 <br>Site manda inf via fibra STB1E/AMR18<br>Baterias OK<br>MEDIDOR - 22131775 R: ACARAÍ 506    Responsavel:Anderson Freitas]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.358697,-22.754623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR29 - Ponta</name>
+        <description><![CDATA[QTM - Papaiz Padrão Novo Americana<br>GRADIL ELTEK - CLIQ<br>PORTÃO - PTB-SP/T4U                                              BATERIAS SEM AUTONOMIA                                    Responsável: Anderson Freitas                                RX AMR23                    <br><br>MEDIDOR CPFL- 22922924]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.267643,-22.732135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR31 -  GPON</name>
+        <description><![CDATA[Chave Portão T4U<br>Chave Gradil ELTEK CLIQ.                                         QTM CLIQ<br>Gradil RRU- RRU CLIQ                                                Responsável: Anderson Freitas <br><br><br>Medidor: 22687729 - CPFL]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.325557,-22.75739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR32- Ponta NET AMERICANA</name>
+        <description><![CDATA[NET AMERICANA, SOLICITAR CHAVE NA PORTARIA<br>FIBRA, MANDA INF PARA O AMR04.                      Chave 55 no Administrativo <br><br><br>e-mail da portaria Net americana seguranca.siteamericana@claro.com.br para retirarada a chaves]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2973086684942,-22.7525103992868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR35 - Ponta</name>
+        <description><![CDATA[ATC AMR002NX.                                                          Portão cód 0884<br>GRADIL ELTEK - CLIQ<br>GRADIL QTM SPI19-A<br>MEDIDOR 30939245<br>BATERIA OK.                                                              Instalado dia 15/12/2023                                           IP50 VERTICAL.                                                           10.218.170.19.                                                             IP50 HORIZONTAL.                                                     10.218.170.27.                                                             Responsável: Anderson Freitas ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3372072,-22.7284901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR36 - Empresa</name>
+        <description><![CDATA[Detentora IHS ID Site 19010009. SA23 07508<br>Contato detentora:  0800 730 9000.                         Whatsapp: +55 11 96081-0704<br>SITE EM ANEL<br>GABINETE ELTEK - SPI19-A.                                      QTM- PAPAIZ Padrão Limeira 1<br>PORTÃO - 1901.                                                            BATERIA OK<br> Manutenção no local com lista de acesso                   Somente horário comercial <br>Compartilhado TIM]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.295598,-22.740276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR37 - BR75668-B</name>
+        <description><![CDATA[PORTÃO: Bluetooth SBA<br>ELTECK: CLIQ<br>QTM - SPI19A<br>IP50 23 GHZ VERTICAL                                              10.218.164.131                                                            IP50 23GHZ HORIZONTAL                                        10.218.164.123.                                                          BATERIA SEM AUTONOMIA <br><br>MEDIDOR : 309542236                                                                                                                                       Responsável: Anderson Freitas<br><br>COMPARTILHADO : TIM SI9371]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.366704121232,-22.7158400067847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR39 - Ponta</name>
+        <description><![CDATA[SIGLA ATC-AMR001SS<br>PORTÃO: Padrão ATC ( PAPAIZ)<br>GRADIL _ CLICK<br>QTM - PAPAIZ PADRÃO AMERICANA 2020<br>MEDIDOR 31019333<br>ANHANGUERA KM121                                                Responsável: Anderson Freitas<br><br>instalado 2 Bancos de Baterias de 170A com 8 elementos.<br>24/08/2021<br><br>TIM: AMJM01<br>OI : AMR4684]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2625027,-22.749735,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR40 - Ponta</name>
+        <description><![CDATA[AMR011AT - ATC<br>Portão - senha 1822<br>Gradil - CLIQ<br>QTM - CLIQ<br>Baterias: OK<br>Responsável: Anderson Freitas<br>Rádio IP-20<br>Direção SIAMR08 - IP 10.216.208.235<br><br>Medidor Claro<br>30952155<br>Compartilhado<br><br>TIM - SI9352<br>Medidor: 30901509]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2858026623726,-22.7099547963566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMR934</name>
+        <description><![CDATA[SITE VIVO CHAVES APENAS EM CASBC CHAVE 79 CASPM2V<br>GABINETE K30]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3319064825773,-22.7483347746482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMR937</name>
+        <description><![CDATA[PORTÃO- SPI19-A-2V<br>BTS SPI19-A2<br>MEDIDOR : 21404823 R: MARANHÃO N: 859<br>COMPARTILHADO : VIVO]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.241185,-22.740489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMR939</name>
+        <description><![CDATA[PORTÃO BLUTHUF ATC AMR002AT<br>GABINETE K30<br><br>MEDIDOR 306500256 R: BENEDITO CHAGAS N: 173<br><br>COMPARTILHADO <br>VIVO<br>TIM SDSR01<br>NEXTEL]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.361365519464,-22.7228763190878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR42</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3440865,-22.744977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR44 / SPIAMR020OU NXT TX (FORA DE USO)</name>
+        <description><![CDATA[Gabinete apm30 Huawei<br>Portão:  cadeado papaiz cabeça marron<br>Bateria: 2 Banco ok                                                      Site manda inf via rádio para o STB21 e recebe do STBR5                                                                      Responsável: Sartorato]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3545037582517,-22.7443191905996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR48</name>
+        <description>Portão: 1822.                                                                Gradil: Cliq</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3331543,-22.7592394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR49</name>
+        <description>Gradil: Cliq</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3168367,-22.7304921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR50- PONTA</name>
+        <description><![CDATA[Portão 1822.                                                                  Gradil: Cliq<br>Esteiramento: Cliq.                                                        QTM PAPAIZ.  Americana                                             TX SIPLA03 VIA ERICSSON.                                     Bateria: ok              ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.241803,-22.7466231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR51</name>
+        <description><![CDATA[Portao 1822 <br>Gradil: Cliq<br>Blindagem Esteira: Cliq ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3215124,-22.7285526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR52</name>
+        <description><![CDATA[Portão senha 4943.                                                    Gradil: CLIQ<br>Envelopamento: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2978335,-22.7080861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR54</name>
+        <description><![CDATA[Portão 0018<br>Gradil: Cliq]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2822763,-22.7450724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMRX1</name>
+        <description>NÃO EXISTE, VERIFICADO NO LOCAL.</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.343353,-22.740603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMRI2R/SI0001R</name>
+        <description>EDIFICIO AMINA NAJAR</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.331807,-22.738077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMRI3R/SI0002R</name>
+        <description>PREDIO AV PAULISTA (ANTIGA NET)</description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.318945,-22.737544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMRI4R/SI0003R/AMRHZ</name>
+        <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.296905,-22.752819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIHORR1</name>
+        <description><![CDATA[portão PAAPM2<br>gradil SPI19A<br>porta PAAGMV]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.179814837873,-22.8285499624891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR58</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3719444,-22.7030773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIAMR53</name>
+        <description><![CDATA[Gradil: CLIQ<br>Blindagem: CLIQ]]></description>
+        <styleUrl>#icon-1899-A52714-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -47.331308,-22.7671534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[SANTA BÁRBARA D'OESTE]]></name>
+      <Placemark>
+        <name>SISTBR2</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA.PM1V<br>Gradil Eltek: SPI19-A2<br>Gradil QTM: NXT 7x7.                                                  QM: papaiz AMR 2020<br>Baterias: ruim 10/25<br>Medidor: 208453644<br>Código: 37533029 CRT276A<br>Endereço: ROD. COMENDADOR AMERICO EMILIO ROMI SP306 KM1<br><br>CO Responsável: Sartorato<br><br>OBS: MANDA INF VIA RADIO PARA O SISTB01 IP20 10.216.215.187]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.450223,-22.815926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTBR3</name>
+        <description><![CDATA[Concentrador: SIM (LRAR4, PAAR1 que concentra PAA57 e RDPR1)<br>Portão: CLICK SPI19-A2<br>Gradil Eltek: CLICK<br>Gradil QTM e QM: CLICK<br>Baterias: ok<br>Medidor: 306255324<br>CODIGO: 4000098348<br><br>CO Responsável: Sartorato<br><br>OBS: CONCENTRA INF DO STBR3, LRAR4, PAAR1 E ENVIA PARA STB01 VIA RÁDIO.             IP50 STBR3 X STB01 IP1: 10.218.170.35 / IP2: 10.218.170.43]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.465164,-22.76196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTBR4</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: SPI19-P1<br>Gradil Eltek: SPI19-A1<br>Gradil QTM e QM: CLICK<br>Baterias: Furtadas 07/25<br><br>CO Responsável: Sartorato<br><br>Medidor: 30822165<br>CÓDIGO: 4000242927<br><br>MANDA INF VIA RÁDIO HUAWEI PARA O STB01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.390478,-22.809079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB01</name>
+        <description><![CDATA[Concentrador: Sim<br>Portão: Bluetooth <br>Alvenaria: PAPAIZ STB01/Click<br>Baterias: ok<br>OBS: IP10 para o STB10, IP20C, IP20S para STB17 IP: 10.216.177.146, IP20S para STBR2 IP: 19.216.215.186, IP50 Dual V/H para STBR3, IP:10.218.170.34/10.218.170.42, HUAWEI V para STBR4<br>CO Responsável: Sartorato <br><br>MEDIDOR: 302272569<br>COMPARTILHADO: TIM SDJP 01<br>DETENTORA: CLARO]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.422075,-22.757229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB02</name>
+        <description><![CDATA[Concentrador: SIM<br>Portão: Bluetooth TBSA<br>Gradil Container: PAA-GMV<br>Gradil QTM e QM: AMR 2020<br>Baterias: ok<br>Medidor: 400736195<br>CONCENTRA O 2G/3G DO STB13<br>CO Responsável: Sartorato<br><br>Endereço: R: LUIS OMETO 95<br>Compartilhado: TIM SDSA01<br>Detentora: Claro]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.386818,-22.761957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB03 GPON</name>
+        <description><![CDATA[Concentrador: Sim<br>Portão: PAA-PM2<br>Alvenaria: Papaiz Padrao Alvenaria (TAG165 Informação para a Larissa)<br>Cdma EBT: K-30<br>Qm/Qtm: CLICK<br>Baterias: ok<br>Medidor: 400736195<br><br>CO Responsável: Sartorato<br>Concentra o STB14 rádio ip20C 10.216.194.146 / 10.216.198.194<br><br>Medidor: 302238212 <br>Endereço: R. PERNANBUCO 566<br>Compartilhado : TIM SDTC 01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4175445,-22.7473827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB04 GPON</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM2<br>Gradil Container: SPI19-A2 <br>Cdma EBT: K-30 FURTADO CHAVE <br>Qm/Qtm: CLICK<br>Baterias: ok<br>Medidor: 301859523 CLA<br>Medidor: 213135817 EBT <br>Endereço: EQUADOR 249<br><br>CO Responsável: Sartorato<br><br>SITE MANDA INF VIA FIBRA PARA SISTB1E]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.409353,-22.763286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB06 - Loja</name>
+        <description><![CDATA[SISTB06 (SBO003AT)<br><br><br>Concentrador: Sim<br>Chaves: Solicitar no adm                                             Baterias: ok, lítio 05/24<br>Co responsável: Sartorato<br><br>RÁDIO HUAWEI PARA STB19. SITE EM ANEL VIA FIBRA COM AMR09<br>RÁDIO MINILINK PARA SISTB19 IP:                         10.216.89.213 / 10 216 89 210<br>SITE CRISTIANTEX SOMENTE HORARIO COMERCIAL DE SEGUNDA A SEXTA <br>MEDIDOR FICA NA RUA DE TRAS DA LOJA]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3804028332233,-22.7361500642628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB07 - GPON</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PM2<br>Eco Box: PAA-PM2<br>Gradil QM/QTM: PAPAIZ PADRÃO PIRA (Solicitado Reparo na proteção e na caixa de passagem em 23/06/07<br>Baterias: ok (3g sem bateria na 6000)<br>Medidor: 306558556<br>Endereço: ROD. DR ERNESTO DE CILLO 247<br><br>CO Responsável: Sartorato<br><br>SITE PONTA VIA FIBRA<br><br>seguranca.siteamericana@claro.com.br<br>ENVIAR E-MAIL PARA RETIRAR CHAVE NET AMERICANA]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.375309,-22.778069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB09 - prédio</name>
+        <description><![CDATA[Concentrador: Não<br>Baterias: ok<br><br>Co responsável: Sartorato<br><br>Medidor: 306880997<br>Endereço: GRAÇAS MARTINS 43<br><br>Acesso apenas email<br>Síndica Amanda 19 99219-6079<br>SITE PONTA VIA FIBRA<br>PRÉDIO GRAÇA MARTINS]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.409031,-22.754951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB10</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: PAA-PMP2 <br>Gradil Eltek: SPI19-A<br>Gradil 6000: SPI19-A<br>Gradil QTM e QM: PAPAIZ 2020<br>Baterias: ok<br>Medidor: 301171033<br>Endereço: ROD. LUIZ DE QUEIROZ KM 138<br>Co responsável: Sartorato<br>Alçapão Ev SPI19-P2<br>SITE PONTA MANDA INF VIA RÁDIO IP10 PARA STB01]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.423846,-22.767268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB13 / SISTBSG /SISTB1E</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: SPI19-A <br>Alvenaria: SPI19-A2 <br>Gradil Container EBT: SPI19-A<br>Gradil 6000: CLIQ<br>Blindagem esteira: CLIQ<br><br>Gradil Roteador: ROTI-V<br>Gradil QTM: PAPAIZ PADRÃO 2020<br>Gradil QM: GMV-PAA<br>Baterias: ok (2g/3G sem na 6000)<br>Medidor: 304128139 STB13<br>Medidor: 30989687 STBSG<br>Endereço: <br>Co responsável: Sartorato<br><br>4g na alvenaria junto com o SISTB1E<br><br>Alarmes Via S21]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.396567,-22.750558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB14</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: - PTB/T4U<br>Gradil Elteck: GMV-PAA<br>Gradil RRU: SPI19-L<br>Gradil QTM: CLICK<br>Gradil QM: CLICK<br>Baterias: OK<br>Medidor: 306548500<br>Endereço: R: CANDIDO ANTÔNIO ZANATA 100<br>Co responsável: Sartorato<br><br>SITE PONTA, MANDA INF VIA RÁDIO PARA STB03, IP20 10.216.194.147 e 10.216.198.195]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.429748,-22.744455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB15 </name>
+        <description><![CDATA[Acesso fora de horário comercial telefone caseiro Marcos 62-98182-2621 ou dono da empresa José Furlan 19-98148-4599<br>SBA - BR72707-A<br>Concentrador: Não<br>Portão: CÓDIGO - Bluetooth SBA<br>Gradil Eltek: GMV.PPA<br>Gradil QTM e QM: GMV.PPA<br>Blindagem Esteira: CLIQ<br>Baterias: Ok<br>Medidor:<br>CO Responsável: Sartorato<br><br>IP20C - 10.203.206.246 - manda inf para o STB01<br>Compartilhado com VIVO/OI<br>OI - STB5366]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.403202,-22.768931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB17</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: Senha 1906<br>Gradil Eltek: Cliq<br>Gradil QTM e QM: PAPAIZ PADRÃO 2020<br>Baterias: Ok<br>Medidor: 30955725<br>IP20S:10.216.177.147 - manda inf para o STB01<br><br>CO Responsável: Sartorato]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.43357,-22.75771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB18 GPON</name>
+        <description><![CDATA[Concentrador: Não<br>Portão: BLUETOOTH SBA<br>Gradil Eltek (ou container): SPI19-A<br>Gradil QTM e QM: SPI19-A<br>Blindagem esteira: CLIQ<br>Baterias: OK<br>Medidor:<br><br>CO Responsável: Sartorato<br><br><br>Compartilhado com Oi]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.396393,-22.7363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB19</name>
+        <description><![CDATA[Dentro Chácara<br>Botão na mureta lado esq para abrir o portão eletrônico da chácara com temporizador <br>Concentrador: Nao<br>Portão: T4U<br>Gradil Eltek: SPI 19A-V<br>Gradil QTM e QM: SPI 19A-V<br>Blindagem Esteiramento: CLIQ<br>Baterias: ruim (21/12/22)<br>Medidor: 309849964<br><br>CO Responsável: Sartorato<br><br>OBS: Manda inf via Rádio para o SISTB06<br><br>COMPARTILHADO<br>VIVO : NOR<br><br>TORRE EM FRENTE NEXTEL : SPISTB009OU]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.378194,-22.723472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB21 NEXTEL SPISTB011OU</name>
+        <description><![CDATA[id Nextel SPISTB011OU<br><br>OBS: Site ponta via rádio Huawei STB02 X STB21<br><br>Concentrador: Não <br>Portão: Bluetooth SBA<br>Elteck: Senha 0010. <br>Blindagem esteira: CLIQ<br>Baterias: Ok<br>QTM: NXT 7x7<br>Baterias: ok<br>Medidor:<br>CO Responsável: Sartorato<br><br><br>Site compartilhando com vivo e tim]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3947808146477,-22.7594842272019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB23 / SPISTB005OU NXT TX/3G Prédio (FORA DE USO)</name>
+        <description><![CDATA[Concentrador: Sim (STB22 e STBR5)<br>Sala de equipamentos: Nextel NXT<br>Baterias: ok<br>Medidor:.                      <br>CO Responsável: Sartorato<br>Portaria Caroline 98193-4762. AP síndica 62<br>Precisa nome da lista envia pela ATC.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.418813072145,-22.755874304693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB22 / SPISTB010OU NXT TX (FORA DE USO)</name>
+        <description>Site somente tx (concentrador) direção STB23 e STB21.                                                                              Portão - Nextel 7x7                                                      Baterias sem autonomia.                                          CO responsável: Marcelo Sartorato</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4196710437536,-22.7467946619979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTBR5 / SPISTB007OU NXT TX (FORA DE USO)</name>
+        <description>entrada do site ao lado do pão com linguiça portão com cadeado segredo senha 1007 gradil no QDCA cadeado padrão Nextel QTM gradil sem cadeado baterias ok ao lado do SISTBR3</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4656850099564,-22.7630207828021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB27</name>
+        <description><![CDATA[Concentrador: Não                                                      Portão: Segredo  1901                                              Gradil Elteck: Click.                                                          Baterias:                                                                     Qm/Qtm: <br>Envelopamento: Click.                                                    CO Responsável: Sartoraro ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.4096128,-22.739195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB25</name>
+        <description><![CDATA[QTM: PAPAIZ PADRÃO AMR<br>Portão: Padrão Vivo                                                     Gradil Elteck: Click<br>Esteiramento: Cliq.                                                       Rua Duque de Caxias, 513.                                        Omr Responsável: Sartoraro ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.414193,-22.753278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISTB24</name>
+        <description>Portão: 0002.                                                                Gradil e Blindagem Cliq</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3689224,-22.7371966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SUMARÉ</name>
+      <Placemark>
+        <name>SIHORR1 - ANEL DE FIBRA</name>
+        <description><![CDATA[SIHORR1 TBSA TCSISUM0001                                PORTÃO ( Cadeado BluetoothTBSA )<br>CLIQ - GRADIL CONTAINER                                       PROTEÇÃO QTM - CLIQ<br>MEDIDOR CL 308054432<br>MEDIDOR EB 213936119<br><br>Oi - SPSUM5598<br>TIM - SMBL01<br><br><br>Pendências<br>Proteção QD<br>Falta cadeado Quadro alimentação Contêiner<br><br><br>Rua Josina Flora de Jesus Silva, 170 - Jardim Nova Terra (Nova Veneza)<br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.1898212,-22.9139673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIPLAR1 - ANEL DE FIBRA CONCENTRADOR/GPON</name>
+        <description><![CDATA[SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                 PORTÃO-SPI19A<br>GRADILL - CLIQ<br>MEDIDOR CPFL- 30381400-4<br>SITE GPON<br>Site Localizado No patio do detran<br>Contato: Paulo<br>Fone: 011 962319103<br>Contato local : Vadao <br>Fone: 011 965487014<br>019 99966-1649 PORTARIA<br>pationovaodessa@ctpstransp.com.br<br><br><br><br>Concentrador<br><br><br><br>SISUM11 V - IP20C : 10.216.194.202<br>SISUM11 H - IP20C : 10.216.201.34<br><br>RF<br>USIPLAR1 -10.203.190.185<br>S01SIPLAR1> 10.216.189.90            S02SIPLAR1> 10.216.234.114<br>                                      <br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2134359925985,-22.7945433694236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUM972</name>
+        <description><![CDATA[PORTÃO SPI19-A2<br>GAB. K30<br><br>1 BCO RUIM<br><br>COMPARTILHADO : TIM ( SMCT02)<br>VIVO E OI<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.266762,-22.832283,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM01 - ANEL DE FIBRA SITE GPON</name>
+        <description><![CDATA[SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                  241 - PAA.PM2V - PORTÃO<br>CLIQ - CONTAINER<br>CLIQ - QTM<br>MEDIDOR CL 400471183<br>MEDIDOR EB 213981483<br>SITE GPON<br>SIte Fibra em Anel Óptico<br>SISUM06/SISUM07<br>SITE GPON                                                                    ROTEADOR - PROTEÇÃO PORTOMAG<br>Banco de Baterias 24 elementos 2v<br>Data de Fabricacao. 05/2015<br><br><br><br><br>Endereço: R. Vicente Ferreira da Silva, 880 - Altos de Sumaré<br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.249934,-22.815768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM02 - ANEL DE FIBRA</name>
+        <description><![CDATA[Detentora ATC: SUM005SS<br><br>Portão cadeado Padrão ATC<br>143 - PAA.060 - GRADIL ELTEK ( PAA-GMV)<br> QTM-CLIQ<br>BATERIAS: SEM AUTONOMIA <br>COMPARTILHADO<br>OI SUM1502<br>VIVO                                                                                ROTEADOR - PROTEÇÃO UAD<br><br>MEDIDOR CPFL-<br>21839109-9 OI<br>22331477-9 Vivo<br>21839107-2 CLARO COD 4000361212<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.166135,-22.824604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM03 - CONCENTRADOR</name>
+        <description><![CDATA[SISUM03 TBSA TCSISUM0003                               PORTÃO ( Cadeado BluetoothTBSA )<br>CONTAINER - CLIQ                                                 CHAVE ROTEADOR - CHAVE ROTI 1V<br>IP20 para SUM05 H/V H=10.216.214.58, V=10.216.214.66                                                            LINEAR - SINDS1E                                                                                                    <br>MEDIDOR 304696510 <br><br>COMPARTILHADO:TIM SMCT01<br><br><br>Concentrador : SISUM05/ SISUM26<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.274906,-22.822219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM04 - ANEL DE FIBRA</name>
+        <description><![CDATA[Detentora ATC- SUM003B2<br><br>PORTÃO - CHAVE PADRÃO ATC<br>Gradil - CLIQ<br><br>3 BANCOS DE BATERIAS 170A ( 23/08/2022)<br><br><br>MEDIDOR 218931069<br><br><br>Roteador HUWAEI<br>IP- 10.216.34.241<br><br>Rádio IP-20 Ceregon Horizontal<br>IP-10.216.218.42 - SIHORR1-Concentrador<br>IP-10.216.218.43 - SISUM04<br><br>Rádio IP-20 Ceregon Vertical<br>IP-10.216.201.58 - SIHORR1-Concentrador<br>IP-10.216.201.59 - SISUM04<br><br>Endereço:<br>Francisco Bertolli, 726 - Parque das Nacoes (Nova Veneza)<br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.1850284,-22.8370742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM06 - ANEL DE FIBRA</name>
+        <description><![CDATA[Detentora ATC- NVO001SS<br>PORTÃO - CADEADO DE SENHA - PADRÃO ATC<br>GRADIL - CLIQ<br>QTM - PAA-PM1<br>MEDIDOR: 212843397 AV: UM S/N NOVA ODESSA<br>                                              USISUM06 - 10.202.201.137<br>COMPARTILHADO:  VIVO<br><br>4 BATERIAS 🔋 LÍTIO <br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2959,-22.806377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM05 - CONCENTRADOR</name>
+        <description><![CDATA[SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                                                GRADIL. PAPAIZ AMR2020 ( GABINETE)<br>GRADIL. FUNDO PAPAIZ PADRÃO 1 LIMEIRA<br>PORTÃO (SPI19-A-2)<br>QTM ( SPI19GMA)<br>QM PADO PADRÃO CLARO<br>MEDIDOR 40127030<br><br>TX SISUM03                                                                 Rádio IP-20 Ceregon<br>RADIO H - 10.216.214.59                                          RADIO V - 10.216.214.66                                            <br>Concentrador SISUM26                                             10.216.223.146 <br><br>BATERIAS OK<br><br>NUMERO DO UC:<br> 40127030 medidor<br>CONCESSIONÁRIA CPFL                                            UC: 40153673<br><br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.311332,-22.856214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM07 - CONCENTRADOR</name>
+        <description><![CDATA[241 -PORTÃO PAAPM2 <br>237 - QTM CLIQ                                                 GRADIL ELTEK - CLIQ e papaiz padrão   Americana <br>MEDIDOR 305519326 <br><br>Rádio RTN320<br>Concentrador SISUM23<br><br>BANCO DE BATERIA COM BAIXA AUTONOMIA<br>SOLITAÇÃO ( 03/08/2023)<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.260579,-22.807024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM09 - EM ANEL</name>
+        <description><![CDATA[DETENTORA - HIGHLINE<br><br>PORTÃO - T4U /PTB-SP<br>PORTÃO SPI19P-2<br>GRADIL - SPI19A<br>QTM. - SPI19A-2<br>MEDIDOR 231167455<br>SEM CONTROLADORA<br>SITE FIBRA EM ANEL SINDS1E / SISUM19<br>Site com 3 BANCOS DE 170A                                                               CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.291081,-22.820994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM10 - ANEL DE FIBRA</name>
+        <description><![CDATA[Detentora: T4U Cód: T4U-SME-002/Nova Veneza<br><br>PORTÃO - T4U OU PTB CP - TAG - 257<br>GABINETE ELTEK ECOBOX - CLICK<br>BANCO DE BATERIA COM BAIXA AUTONOMIA<br><br><br>Compartilhado:<br>Vivo-<br>Tim - SMCS01                                                                                         CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.196696,-22.800695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM11 - ANEL</name>
+        <description><![CDATA[CODIGO ATC - SUM002SS<br>Portão - Cadeado PADRÃO ATC<br> GRADIL ELTEK - SPI19A<br>QTM - <br>MEDIDOR 219134685<br><br> Bateria de lithium<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.228829,-22.788725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM15-ANEL GPON</name>
+        <description><![CDATA[SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM - 0800-085-1234                                                                                                            PORTÃO - CLIQ<br>PORTÃO - CLIQ<br>255-SPI19A-QTM<br>MEDIDOR 30792811                                                   SITE - GPON                                                                                                                                                         R. Guaraci, 244 - Residencial Guaíra, Sumaré - SP, 13173-320               CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2732969,-22.8051498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM18 - EM ANEL</name>
+        <description><![CDATA[Detentora AMERICAN TOWER Cod-SUMOO1B2   CHAVE CADEADO PORTAO DE ENTRADA PORTAO FECHADO BRANCO - OMR POSSUI CHAVE DE ACESSO  <br>PORTÃO- CÓDIGO - PTB SP / T4U<br>PAINEL ELÉTRICO - Chave CLIQ<br>GRADIL ELTEK- Chave CLIQ<br>GRADIL RRU 3G- Chave CLIQ<br>Baterias - <br>3 BANCOS<br>Compartilhado:<br>TIM:SI9118<br><br>Padrão CPFL-<br><br>1-22975056<br>2-22975157<br>3-30985651<br><br><br><br>Contato Robson <br>Fone:98368-5780                                                         Contato Rogerio Lava rapido.<br>19 991384424<br>Em Horário Comercial: Acesso pelo lava rapido do lado esquedor do SITE, portao fica aberto até as 18:00<br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.169471,-22.817332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM19 - ANEL DE FIBRA / GPON</name>
+        <description><![CDATA[SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM                                                               DETENTORA HIGHLINE<br>SIGLA SPSUM02<br>PORTÃO - T4U/PTB-SP<br>GRADIL Cliq<br>QTM - GMV-PAA<br><br><br>instalado 2 Bancos de Baterias de 170A com 8 elementos.<br>24/08/2021<br><br><br><br><br><br>RUA JOAQUIM MOURA DOS SANTOS<br>MEDIDOR:23152966 N:195<br>PARQUE SANTO ANTÔNIO <br><br><br><br>Compartilhado Vivo<br><br>SPZUAS20/01                                                         CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.197701,-22.8358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM20 - EM ANEL</name>
+        <description><![CDATA[DETENTORA - HIGHLINE <br>PORTÃO : T4U - PTB-SP<br>GRADIL QTM CLIQ<br>GRADIL ELTEK - CLIQ                                           PROTEÇÃO ROTEADOR UAD<br>MEDIDOR 23151589 N111<br>R: DEZESSEIS<br><br>SITE EM ANEL ÓPTICO<br>SISUM19 FO 1,2<br>SISUM21 FO 3,4<br><br>Roteador : <br>Proteção UAD - Chave padrao 48<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.1913698,-22.8245281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM21 - EM ANEL</name>
+        <description><![CDATA[DETENTORA - HIGHLINE                                            SITE MONITORADO LIBERAÇÃO DE ACESSO NOC BELEM - 0800-085-1234 <br>Portão T4U ou PTB<br>Gradil Eltek CLIQ<br>Gradil QTM_PADRAO1822<br> SITE GPON<br>MEDIDOR 23167619<br>COMPARTILHADO : TIM                                        CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.234096,-22.818958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM23 - PONTA</name>
+        <description><![CDATA[Detentora SBA - BR72715-A<br>*Contato proprietário*: Regis +55 19 99881-7788<br>PORTAO - Cadeado Bluetooth SBA <br>GRADIL ELTEK CLIQ<br>QTM- CLIQ<br>MEDIDOR CLARO : 23311774<br>AV: MINAS GERAIS N:500 NOVA VENEZA<br>2 BANCOS DE BATERIAS ( INSTALAÇÃO 08/08/2023<br>COMPARTILHADO <br><br>MEDIDOR OI SPSUM5603 : 22465814<br>MEDIDOR TIM: 31060083<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.224738,-22.805353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM24 - EM ANEL</name>
+        <description><![CDATA[DETENTORA  - HIGHLINE                                          PORTÃO - T4U / PTB-SP                                            GRADIL -Clic<br>QTM. -Clic                                                                      CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.270586,-22.832962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM26-PONTA</name>
+        <description><![CDATA[DETENTORA - HIGHLINE PORTÃO T4U/ SITE POSSUI MONITORAMENTO ( ACESSO NOC BELEM).                                                                        PORTÃO - T4U<br>GRADIL - SPI19-P2 <br>QTM - CLIQ                                                                    ALÇAPÃO TORRE - CADEADO PADRAO 1 LIMEIRA<br><br> 2  BATERIAS LÍTIO SECPOWER <br><br>IP 20 CEREGON 10.216.223.147<br>MEDIDOR 23391323<br><br>STA BARBARA / MARGEM ROD. BANDEIRANTES - REALIZAR ACESSO PELOS SITES REFERENCIA SISTBR4 - PASSAR NA FRENTE SO SITE SEGUIR ATE FINAL DA ESTRADA DE TERRA OU PELO SITE SISTB07 PASSAR NA FRENTE DO SITE SEGUIR ATE A PRIMEIRA ENTRADA PARA ESTRADA DE TERRA DOS IPEUNAS - ESTRADA RURAL, S/N - RURAL<br>SUMARÉ, SP <br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3622999,-22.8314363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM27 SITE NEXTEL - RF ERCISSON</name>
+        <description><![CDATA[CHAVE PADRÃO ATC<br><br>QTM - CHAVE PADRÃO DO SITE<br><br>Nextel e vivo no site portão cadeado PADRAO ATC gradil do QTM sem cadeado site com 2 Bancos de  Baterias <br>   <br> RADIO RTN 910 - NE ID:9-25085 <br><br>IP:10.218.164.107 15G GERENCIA CLARO <br>SISUM27 X SIMOR04<br> TX - 15117.0<br> RX -14697.000<br> ODU -Product SN: 193-8<br>3G / 4G BB6631<br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2989773,-22.8956475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM30-ANEL DE FIBRA</name>
+        <description><![CDATA[Recebe do SIHOR08                                        SITE ATC SUM003AT <br>PORTA ENTRADA TETRA<br>Site fica em cima de uma academia e óticas  ACESSO DO SITE PELA ACADEMIA                       BANCOS DE BATERIA: ok<br>MEDIDOR : 22259585<br>COMPARTILHADO<br>VIVO : SMJ<br>TIM : SMDN01<br>OI :                                                                                                                                                                                     CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.1912765875459,-22.8481588823919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM34 - ANEL</name>
+        <description><![CDATA[PORTÃO - CADEADO DE SENHA 1822 GRADIL - CLIQ <br>SEM BATERIA CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2474722222222,-22.8272222222222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM33-ANEL DE FIBRA</name>
+        <description><![CDATA[DETENTORA IHS TOWERS<br>PORTÃO - CADEADO DE SENHA 1906        GRADIL - CLIQ <br>QTM - CLIQ <br>Localizado Dentro Techville Galpoes logistico<br>Contato : Elias_ administracao@techville.com.br Portaria@techville.com.br<br>Celular: (19) 98430-0077 | contato@techville.com.br<br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.182915,-22.806904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM35 - ANEL</name>
+        <description><![CDATA[PORTAO - 1905                                                         GRADIL - CLIQ                                                               2 BANCO DE BATERIA LITIO<br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2702777777778,-22.7979166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM36-ANEL FIBRA</name>
+        <description><![CDATA[PORTAO - papaiz AMR<br>GRADIL - CLIQ / SEM BATERIA]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2182777777778,-22.83625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM37-ANEL FIBRA</name>
+        <description><![CDATA[PORTÃO - CADEADO DE SENHA 1822        GRADIL - CLIQ <br>2 BANCO DE BATERIA LITIO<br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.1618617,-22.8370749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM38 - ANEL FIBRA</name>
+        <description><![CDATA[DETENTORA TBSA SITE - ROOFTOP PREDIO CONDOMINIO CARAVELLE<br>                                  <br>Síndica Eliane 19996303232Portaria 19998934084<br><br>Responsável: Marcelo Viana Guimarães (19) 992024193 ]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2696944444444,-22.82425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM40</name>
+        <description>Gradil e Blindagem esteira: Cliq</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.168533,-22.8455193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM42 - EM ANEL (PERTENCE A CAMPINAS)</name>
+        <description><![CDATA[255 - PORTÕES  SPI19 A-V<br>255 - QTM -- SPI19 A-V<br>255 - GRADIL BASCULANTE -- SPI 19 A-V<br>COFRE -- CANHÃO13MM -- PONTEIRA COD.48<br>MEDIDOR 22887171<br><br>*2 Gabinetes Eltek*]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.221617,-22.842857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM43</name>
+        <description>Gradil: CLIQ</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2030707,-22.8189646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUM47 - ANEL FIBRA</name>
+        <description><![CDATA[PAA.PM1V - PORTÃO<br>GMV.PPA - GABINETE ELTEK<br>CLIQ - Blindagem esteiramento<br><br>NOC_Solicitacao de acesso<br>Ligar no noc belem<br>Central de Monitoramento General<br>+55 11 93236-3823 zap<br>3 BANCOS DE BATERIAS ( INSTALAÇÃO  08/08/2023<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.310044,-22.793725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUMR1 - ANEL FIBRA</name>
+        <description><![CDATA[PAA.PM1V - PORTÃO<br>GRADIL - CLICK<br>QTM- CLICK<br>BATI.19.45 - BATERIA<br><br>4 Banco de Baterias 170a<br>                                                                MEDIDOR CPFL- 214071421<br>Contato: 19987087601 Guilherme <br>Contato: 19997015659 CASEIRO<br>Roteador:<br>Proteção UAD Chave Padrão 48<br><br>Rádio IP-20 S Vertical<br>IP local: 10.203.181.181<br>IP Remoto: 10.203.181.178<br><br>Rádio IP-20 S Horizontal<br>IP local: 10.203.181.174<br>IP Remoto: 10.203.181.170<br><br>Concentrador SIPLAR1<br><br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.208619,-22.811707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUMI4R/SI0162R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.268046,-22.83982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUMI6R/SI0163R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.234268,-22.80458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SISUMI2R/SI0160R</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.265339,-22.822258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NET SUM</name>
+        <styleUrl>#icon-1899-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.276568,-22.813403,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>NOVA ODESSA</name>
+      <Placemark>
+        <name>SINDS1E - Concentrador/ NDSSU</name>
+        <description><![CDATA[PORTÃO SPI19-A 2<br>CONTAINER SPI19-A 2<br>GMG EBT G<br>ROTEADOR - CHAVE ROTI <br>MEDIDOR 30780700 N:1640 <br>AV: RODOLF KIVITS <br> americana<br><br>Solicitar acesso Noc Belem<br><br>rede wifi : alvenaria nova odessa<br><br> senha : 910novaodessa<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.306685000658,-22.7900546748878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS01 - Concentrador</name>
+        <description><![CDATA[241 - PAA.PM2V - PORTÃO<br>249 - GMV.PPA - PORTA CONTAINER<br>COM PRIORIZAÇÃO<br><br>Fibra óptica.<br>Concentrador : SISUM47<br>Anel óptico: SINDS1E / SINDSR1<br>Roteador: proteção UAD<br>Medidor CPFL: 30676614 0<br>Baterias : Banco mês 08/2014<br><br><br>Compartilhado:<br>Tim - NOCT01<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.300623,-22.788437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS02 - EM ANEL</name>
+        <description><![CDATA[SINDS02 TBSA TCSINOD0002                                <br>PORTÃO ( Cadeado BluetoothTBSA )              <br>249 - ELTEK GMV-PPA<br><br>MEDIDOR 304011843 R: MIGUEL BECHIS FILHO 139<br><br>CONCENTRADOR SINDS04<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.289495,-22.777352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS04 - EM ANEL</name>
+        <description><![CDATA[PORTÃO FRENTE PENDURADO AO LADO DIRETO DO PORTÃO CHAVE PADO<br>PAA.PM1V - PORTÃO<br>GRADIL SPI19AV<br>QTM SPI19AV<br>Baterias de íon de lítio<br>MEDIDOR 30879620 R: AURÉLIA DE PAULA BELINATTI N:160<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.309573,-22.780849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS08 - Em Anel</name>
+        <description><![CDATA[DETENTORA HIGHLINE<br><br><br>PORTÃO - PTB-SP = T4U ( CHAVE PORTARIA NET)<br>GRADIL CLICK <br>QTM CLICK<br>MEDIDOR 30955692<br>Baterias de íon de lítio OK<br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3253622,-22.7869635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS10 - Em Anel</name>
+        <description><![CDATA[DETENTORA HIGHLINE<br>Cód- SSP-NOA -006<br><br>PORTÃO SENHA 1007<br> QTM CLIQ<br>GRADIL ELTEK CLIQ<br>MEDIDOR 23204490<br>Baterias de íon de lítio OK<br>Compartilhado- TIM<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.285006,-22.790168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS12</name>
+        <description><![CDATA[Gradil: Cliq<br>Blindagem esteira: Cliq]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3146433,-22.8021143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS16</name>
+        <description><![CDATA[Site Novo (Sem informações)-                   PORTÃO <br>GRADIL CLIQ<br>QTM CLIQ<br><br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2865617,-22.7970467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS17</name>
+        <description>PORÃO CADEADO DE SENHA 0001                          GRADIL - CLICK                                                           CO Responsável: Marcelo Viana Guimarães (19) 992024193</description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.2800149,-22.7737358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDSR1 - Em Anel</name>
+        <description><![CDATA[SINDSR1 TBSA TCSINOD0003                                PORTÃO ( Cadeado BluetoothTBSA )<br>GRADIL CONTAINER (CLIQ)<br>QTM- CLIQ<br>SITE 5G<br>MEDIDOR : 302280669 R: DOIS N:109<br><br>COMPARTILHADO : TIM/OI- NDS1125<br>R EDELCIO CAVALCANTE 109 NOVA ODESSA/SP <br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.247519,-22.764973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SINDS11 - ANEL FIBRA</name>
+        <description><![CDATA[CADEADO PORTÃO - A (GF – COLO QMC NDS-00364) - TAG - 229<br>ID ESTAÇÃO: SP21442 <br>QTM - TAG 258<br>GRADIL - Chave CLIQ<br><br>CODIGO:4001118785<br>MEDIDOR- 22379900<br><br>Concentrador do Site SISUM06<br><br>SITE : COMPARTILHADO TIM - SI9278<br><br>TORRE - 45METROS<br><br><br>CO Responsável: Marcelo Viana Guimarães (19) 992024193]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <Point>
+          <coordinates>
+            -47.308192,-22.806119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
