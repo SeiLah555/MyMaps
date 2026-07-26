@@ -1,6 +1,6 @@
 {
     "SILRA1E": {
-        "nome_original": "SILRA1E / LRAHG",
+        "nome_original": "SILRA1E",
         "cidade": "LIMEIRA",
         "latitude": "-22.541278",
         "longitude": "-47.385657",
@@ -368,7 +368,7 @@
         "cidade": "IRACEMÁPOLIS",
         "latitude": "-22.580973",
         "longitude": "-47.504717",
-        "descricao": "Concentrador: Sim (SIIPS02, SIIPS03)\nPortão: PAAPM2\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): \nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim (3 Bancos)\nMedidor: B15472799\n\nCO Responsável:Caio Fioravante"
+        "descricao": "Concentrador: Sim (SIIPS02, SIIPS03)\nPortão: 1822\nGradil Eltek (ou container): SPI19L\nPorta Alvenaria (ou container): \nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim (3 Bancos)\nMedidor: B15472799\n\nCO Responsável:Caio Fioravante"
     },
     "SIIPS02": {
         "nome_original": "SIIPS02",
@@ -413,7 +413,7 @@
         "descricao": "Concentrador: Sim (RECEBE DO CPR01 E CONCENTRA O CPR05 e CPR04)04 IP10\nPortão Chácara: SPI19-A2\nPortão Site: Cadeado Furtado\nGradil Elteck: SPI19-P2\nGradil QTM/QM: papaiz vermelho\nBaterias: Boas 2 bcs 01/24\nMedidor: 208564950\nCódigo: 37554530 CRT276C S/N\nCO Responsável: Sartorato\nCPR05 - IP20V: 10.216.197.130. IP20S: 10.216.197.130 / 10.216.197.138                             CPR01 - IP20V: 10.216.203.11 IP20C: 10.216.203.19                               \nCaseiro Danilo 19-987193427"
     },
     "SICPRR4": {
-        "nome_original": "SICPRR4 Nextel Modernizado",
+        "nome_original": "SICPRR4",
         "cidade": "CAPIVARI / MOMBUCA / RAFARD",
         "latitude": "-22.9912471457448",
         "longitude": "-47.4498063325882",
@@ -438,7 +438,7 @@
         "cidade": "CAPIVARI / MOMBUCA / RAFARD",
         "latitude": "-22.982562",
         "longitude": "-47.497746",
-        "descricao": "-22.982562,-47.497746\n\nConcentrador: Não\nPortão Site: 7628\nGradil Elteck: SPI19-A2\nGradil BTS 6000: K30\nGradil QTM: PAPAIZ PADRÃO CAPIVARI\nGradil QM: PAPAIZ PADRÃO PIRACICABA\nBaterias: ok\nMedidor: 307194280\nEndereço: DR JOSÉ LUIZ CABRERA AO LADO N: 42\nCO Responsável: Sartorato"
+        "descricao": "-22.982562,-47.497746\n\nConcentrador: Não\nPortão Site: 7628\nGradil Elteck: SPI19-A2\nGradil BTS 6000: K30\nGradil QTM: PAPAIZ PADRÃO CAPIVARI\nGradil QM: PAPAIZ PADRÃO PIRACICABA\nBaterias: ok\nMedidor: 307194280\nEndereço: DR JOSÉ LUIZ CABRERA AO LADO N: 42.                                                                                   Mini Link CPR04 X CPR10 IP:10.218.188.243\nCO Responsável: Sartorato"
     },
     "SICPR05": {
         "nome_original": "SICPR05",
@@ -462,7 +462,7 @@
         "descricao": "Acesso portão a direita com interfone                    Fora de horário comercial ligar para o                      José  19-99654-7621.                                                 Concentrador: Sim\nPortão Chácara: Chamar moradores\nPortão Site: SENHA 1007\nGradil Elteck: SPI19P-2\nGradil QTM: papaiz padrão CPR\nBaterias: Ok\nMedidor: 30867655 N691\nCO Responsável: Sartorato\n\nConcentra CPR06, Site em anel CAS30 X CPR09"
     },
     "SICPR08": {
-        "nome_original": "SICPR08 - Dentro do Industrial",
+        "nome_original": "SICPR08",
         "cidade": "CAPIVARI / MOMBUCA / RAFARD",
         "latitude": "-23.01124",
         "longitude": "-47.43888",
@@ -504,7 +504,7 @@
         "descricao": "Concentrador: Sim MMU02\nPortão: PAA.PM2\nGradil Eltek: UAD-10.3\nGradil QTM: Furtado\nGradil QM: Padrão Pira\nBaterias: ok.                                                                   Recebe inf via rádio de RFD01, que está em anel com SLO1E         IP20 = 10.216.216.242\nMedidor: 301736120\nManda inf via rádio RTN910 para MMU02\nEndereço:\nCO Responsável: Sartorato\n\nCOMPARTILHADO:TIM UKCT01"
     },
     "SIMMU02": {
-        "nome_original": "SIMMU02 Bluetooth MMU-JO veículos",
+        "nome_original": "SIMMU02",
         "cidade": "CAPIVARI / MOMBUCA / RAFARD",
         "latitude": "-22.9290801143238",
         "longitude": "-47.5652442499995",

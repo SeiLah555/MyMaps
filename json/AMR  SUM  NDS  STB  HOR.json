@@ -1,6 +1,6 @@
 {
     "SIAMR1E": {
-        "nome_original": "SIAMR1E /AMROS / AMR935 / SPIAMR006",
+        "nome_original": "SIAMR1E",
         "cidade": "AMERICANA",
         "latitude": "-22.7370059916837",
         "longitude": "-47.3184649273753",
@@ -14,7 +14,7 @@
         "descricao": "Concentrador:\nPorteira: padrão do site (TAG113)\nPortão: Bluetooth TBSA \nGradil Eltek (ou container): Papaiz Padrão 2 (Limeira)\nPorta Alvenaria (ou container):\nGradil QTM e QM: Papaiz Padrão 1 (Limeira)\nBaterias: Sim\nMedidor: TR008305-2\n\nCO Responsável: Caio Fioravante\n\nCOMPARTILHADO : OI LRA2550"
     },
     "SIAMR01": {
-        "nome_original": "SIAMR01 GPON",
+        "nome_original": "SIAMR01",
         "cidade": "AMERICANA",
         "latitude": "-22.74573",
         "longitude": "-47.327376",
@@ -53,7 +53,7 @@
         "cidade": "AMERICANA",
         "latitude": "-22.7383727432909",
         "longitude": "-47.276648953557",
-        "descricao": "PORTÃO: Bluetooth       TBSA                                     Gradil Eltek PAAPM1V.                                               GABINETE PAPAIZ PADRÃO AMERICANA              QTM Cliq\n\nNÚMERO MEDIDOR 30876168 CPFL\nEST.ISABELA GONÇALVES FERRO SANTA ROSA.\nROD. ANHANGUERA KM 123                                    Responsável: Anderson Freitas.                                     Baterias OK"
+        "descricao": "PORTÃO: Bluetooth TBSA                                     \nGradil Eltek PAAPM1V.                                             \nGABINETE PAPAIZ PADRÃO AMERICANA   \nQTM Cliq\nNÚMERO MEDIDOR 30876168 CPFL\nEST.ISABELA GONÇALVES FERRO SANTA ROSA.\nROD. ANHANGUERA KM 123                                    Responsável: Anderson Freitas.                                Baterias OK"
     },
     "SIAMR07": {
         "nome_original": "SIAMR07",
